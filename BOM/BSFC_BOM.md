@@ -1,4 +1,4 @@
-# BUSY SNAIL FILAMENT CHANGER BOM
+# Busy Snail Filament Changer BOM
 
 DRIVE UNIT
 
