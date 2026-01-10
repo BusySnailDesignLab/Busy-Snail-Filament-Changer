@@ -2,5 +2,5 @@
 
 | Item          | Description   |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Heat set insert  | Content Cell  |
 | Content Cell  | Content Cell  |
