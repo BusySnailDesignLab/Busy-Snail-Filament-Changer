@@ -1,6 +1,6 @@
 # BSFC BOM
 
-| First Header  | Second Header |
+| Item          | Description   |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
