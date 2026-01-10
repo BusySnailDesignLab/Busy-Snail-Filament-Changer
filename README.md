@@ -1,2 +1,2 @@
-# Busy-Snail-Filament-Changer (BSFC)
+# Busy Snail Filament Changer (BSFC)
 Coming SOON(TM)
