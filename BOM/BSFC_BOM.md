@@ -2,7 +2,7 @@
 
 DRIVE UNIT
 
-| Image # | Item                        | Amount | Info                                                        | Items used in the prototype in 2025                                    |
+| Image # | Item                        | Amount | Info                                                        | Source used in the prototype in 2025                                    |
 |---------|-----------------------------|--------|-------------------------------------------------------------|------------------------------------------------------------------------|
 | DU01    | Stepper motor NEMA17 38mm   | 1      |                                                             | [LINK](https://www.aliexpress.com/item/1005008459399126.html)          |
 | DU02    | Heat set insert M3xD5xL4    | 9      | Same as Voron BOM size                                      |                                                                        |
@@ -16,24 +16,24 @@ DRIVE UNIT
 
 ROLLER TRAY
 
-| Image # | Item                        | Amount | Info                                         | Items used in the prototype in 2025                                    |
+| Image # | Item                        | Amount | Info                                         | Source used in the prototype in 2025                                    |
 |---------|-----------------------------|--------|----------------------------------------------|------------------------------------------------------------------------|
 | RT01    | Bicycle inner tube          | Some   | Flat width mm optimal                        | [LINK]()                                                               |
 
 FRAME
 
-| Image # | Item                        | Amount | Info                                         | Items used in the prototype in 2025                                    |
+| Image # | Item                        | Amount | Info                                         | Source used in the prototype in 2025                                    |
 |---------|-----------------------------|--------|----------------------------------------------|------------------------------------------------------------------------|
 | FR00    |||||
 
 HUB - BUFFER
 
-| Image # | Item                        | Amount | Info                                         | Items used in the prototype in 2025                                    |
+| Image # | Item                        | Amount | Info                                         | Source used in the prototype in 2025                                    |
 |---------|-----------------------------|--------|----------------------------------------------|------------------------------------------------------------------------|
 | HB00    |||||
 
 CONTROLLER BOX
 
-| Image # | Item                        | Amount | Info                                         | Items used in the prototype in 2025                                    |
+| Image # | Item                        | Amount | Info                                         | Source used in the prototype in 2025                                    |
 |---------|-----------------------------|--------|----------------------------------------------|------------------------------------------------------------------------|
 | CB00    |||||
