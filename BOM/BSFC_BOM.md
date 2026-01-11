@@ -9,6 +9,8 @@
 | DU00    | Needle bearing              | 2      | Included in most HGX-lite extruder part kits | [HGX-LITE KIT](https://www.aliexpress.com/item/1005008082439342.html)  |
 | DU00    | PTFE tube OD6mm ID4mm       | Some   | Recoomended to get 5 meter lot               | [LINK](https://www.aliexpress.com/item/1005001408141263.html)          |
 |---------|-----------------------------|--------|----------------------------------------------|------------------------------------------------------------------------|
+
+
 |ROLLER TRAY|||||
 | Image # | Item                        | Amount | Info                                         | Link to the item used in the prototype in 2025                         |
 |---------|-----------------------------|--------|----------------------------------------------|------------------------------------------------------------------------|
