@@ -3,7 +3,7 @@
 ![IMG_2542](https://github.com/user-attachments/assets/a2bc2764-8425-4009-8ed6-c94a03368ab3)
 
 
-# DRIVE UNIT
+## DRIVE UNIT
 
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
@@ -33,7 +33,7 @@
 | DU00    | Led SK6182 RGBW             | 1      |                                                                                                | [LED](https://www.aliexpress.com/item/1005001971988539.html)           |
 
 
-ROLLER TRAY
+## ROLLER TRAY
 
 
 | Image # | Item                        | Amount | Info                                         | Source used in the prototype in 2025                                   |
@@ -41,7 +41,7 @@ ROLLER TRAY
 | RT01    | Bicycle inner tube          | Some   | Flat width mm optimal                        | [LINK]()                                                               |
 
 
-HUB - BUFFER
+## HUB - BUFFER
 
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
@@ -49,7 +49,7 @@ HUB - BUFFER
 | HB01    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
 
 
-CONTROLLER BOX
+## CONTROLLER BOX
 
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
@@ -57,7 +57,7 @@ CONTROLLER BOX
 | CB01    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
 
 
-ASSEMBLED CHANGER / FRAME
+## ASSEMBLED CHANGER / FRAME
 
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
