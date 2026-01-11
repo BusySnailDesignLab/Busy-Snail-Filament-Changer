@@ -17,6 +17,7 @@ DRIVE UNIT
 ROLLER TRAY
 
 | Image # | Item                        | Amount | Info                                         | Source used in the prototype in 2025                                   |
+|---------|-----------------------------|--------|----------------------------------------------|-------------------------------------------------------------------------|
 | RT01    | Bicycle inner tube          | Some   | Flat width mm optimal                        | [LINK]()                                                               |
 
 FRAME
