@@ -13,4 +13,4 @@ ROLLER TRAY
 
 | Image # | Item                        | Amount | Info                                         | Link to the item used in the prototype in 2025                         |
 |---------|-----------------------------|--------|----------------------------------------------|------------------------------------------------------------------------|
-| RT01    | Bicycle inner tube          | Some   | Flat width mm optimal                        | [LINK]()          |
+| RT01    | Bicycle inner tube          | Some   | Flat width mm optimal                        | [LINK]()                                                               |
