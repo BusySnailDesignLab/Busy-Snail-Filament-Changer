@@ -5,6 +5,7 @@
 
 DRIVE UNIT
 
+
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|:----------------------------|:------:|------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | DU00    | Heat set insert M3xD5xL4    | 9      | Same as Voron BOM size                                                                         |                                                                        |
@@ -31,25 +32,33 @@ DRIVE UNIT
 | DU00    | Micro switch D2F            | 2      |                                                                                                | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
 | DU00    | Led SK6182 RGBW             | 1      |                                                                                                | [LED](https://www.aliexpress.com/item/1005001971988539.html)           |
 
+
 ROLLER TRAY
+
 
 | Image # | Item                        | Amount | Info                                         | Source used in the prototype in 2025                                   |
 |:-------:|:----------------------------|:------:|:---------------------------------------------|:------------------------------------------------------------------------|
 | RT01    | Bicycle inner tube          | Some   | Flat width mm optimal                        | [LINK]()                                                               |
 
+
 HUB - BUFFER
+
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | HB01    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
 
+
 CONTROLLER BOX
+
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | CB01    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
 
+
 ASSEMBLED CHANGER / FRAME
+
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
