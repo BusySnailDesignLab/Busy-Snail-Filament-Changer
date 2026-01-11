@@ -2,7 +2,7 @@
 
 ONE DRIVE UNIT
 
-| Image # | Item                        | Amount | Info                                         | Link to the item used in prototyping in 2025                           |
+| Image # | Item                        | Amount | Info                                         | Link to the item used in the prototype in 2025                         |
 |---------|-----------------------------|--------|----------------------------------------------|------------------------------------------------------------------------|
 | DU01    | Heat set insert M3xD5xL4    | 9      | Same as Voron BOM size                       | [LINK](https://www.aliexpress.com/item/1005007086985966.html)          |
 | DU00    | 6mm Tube Connector          | 1      |                                              | [LINK](https://www.aliexpress.com/item/1005007086985966.html)          |
