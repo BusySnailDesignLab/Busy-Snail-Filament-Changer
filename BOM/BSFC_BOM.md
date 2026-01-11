@@ -31,6 +31,11 @@
 | DU00    | Stepper motor NEMA17 L=38mm | 1      | Optimal L=38(40)mm can be longer but affects wiring length and units sideways stacking fitment | [NEMA17](https://www.aliexpress.com/item/1005008459399126.html)        |
 | DU00    | Micro switch D2F            | 2      |                                                                                                | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
 | DU00    | Led SK6182 RGBW             | 1      |                                                                                                | [LED](https://www.aliexpress.com/item/1005001971988539.html)           |
+| DU00    | JST PH2.0 3-m-pin housing   | 3      | Connector housing for male pins, switches and led chain in-out to drive unit                   |                                                                        |
+| DU00    | JST PH2.0 4-m-pin housing   | 1      | Connector housing for male pins, motor input to drive unit                                     |                                                                        |
+| DU00    | JST PH2.0 male pin          | 13     |                                                                                                | [JST PH2.0 MALE PINS](https://www.aliexpress.com/item/1005001831974253.html)           |
+| DU00    | JST PH2.0 6-fm-pin housing  | 1      | Connector housing for female pins, motor connector                                             |                                                                        |
+| DU00    | JST PH2.0 female pin        | 4      |                                                                                                |                                                                        |
 
 
 ## ROLLER TRAY (4x for 4 spool changer)
@@ -65,4 +70,4 @@
 | FR01    | Threaded rod M8             | 2      |                                                                                                ||
 | FR02    | Washer M8                   | 4      |                                                                                                ||
 | FR03    | Nut M8                      | 4      |                                                                                                ||
-| FR04    | PTFE tube OD6mm ID4mm       | Some   | Recommended to get a continuous 5 meter lot for the project                                    | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
+| FR04    | PTFE tube OD6mm ID4mm       | Lots   | From drive units to hub, recommended to get a continuous 5 meter lot for the project           | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
