@@ -7,7 +7,7 @@ DRIVE UNIT
 
 | Image # | Item                        | Amount | Info                                                        | Source used in the prototype in 2025                                    |
 |---------|-----------------------------|--------|-------------------------------------------------------------|------------------------------------------------------------------------|
-| DU01    | Stepper motor NEMA17 L=38mm | 1      | Optimal L=38(40)mm can be longer but affects wiring length  | [LINK](https://www.aliexpress.com/item/1005008459399126.html)          |
+| DU01    | Stepper motor NEMA17 L=38mm | 1      | Optimal L=38(40)mm can be longer but affects wiring length and units sideways stacking fitment  | [LINK](https://www.aliexpress.com/item/1005008459399126.html)          |
 | DU02    | Heat set insert M3xD5xL4    | 9      | Same as Voron BOM size                                      |                                                                        |
 | DU00    | FHCS M3x6                   | 1      |                                                             |                                                                        |
 | DU00    | FHCS M3x8                   | 2      |                                                             |                                                                        |
