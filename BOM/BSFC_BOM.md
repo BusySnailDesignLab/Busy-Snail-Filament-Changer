@@ -1,5 +1,8 @@
 # Busy Snail Filament Changer BOM (2026-01-11)
 
+![IMG_2501](https://github.com/user-attachments/assets/a548a84c-a43e-4fb6-a87c-f65aef7928ec)
+
+
 DRIVE UNIT
 
 | Image # | Item                        | Amount | Info                                                        | Source used in the prototype in 2025                                    |
