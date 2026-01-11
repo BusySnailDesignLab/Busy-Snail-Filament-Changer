@@ -13,28 +13,28 @@ DRIVE UNIT
 | DU00    | Needle bearing              | 2      | Included in most HGX-lite extruder part kits                | [HGX-LITE KIT](https://www.aliexpress.com/item/1005008082439342.html)  |
 | DU00    | PTFE tube OD6mm ID4mm       | Some   | Recommended to get a continuous 5 meter lot for the project | [LINK](https://www.aliexpress.com/item/1005001408141263.html)          |
 | DU00    | PTFE tube OD4mm ID2mm       | Some   | Recommended to get a continuous 1 meter lot for the project |                                                                        |
-||||||
-|ROLLER TRAY|||||
-||||||
+
+ROLLER TRAY
+
 | Image # | Item                        | Amount | Info                                         | Source used in the prototype in 2025                                   |
 | RT01    | Bicycle inner tube          | Some   | Flat width mm optimal                        | [LINK]()                                                               |
-||||||
-FRAME|||||
-||||||
+
+FRAME
+
 | Image # | Item                        | Amount | Info                                         | Source used in the prototype in 2025                                    |
 |---------|-----------------------------|--------|----------------------------------------------|-------------------------------------------------------------------------|
 | FR01    | Threaded rod M8             | 2      |                                              ||
 | FR02    | Washer M8                   | 4      |                                              ||
 | FR03    | Nut M8                      | 4      |                                              ||
-||||||
-HUB - BUFFER|||||
-||||||
+
+HUB - BUFFER
+
 | Image # | Item                        | Amount | Info                                         | Source used in the prototype in 2025                                    |
 |---------|-----------------------------|--------|----------------------------------------------|------------------------------------------------------------------------|
 | HB00    |||||
-||||||
-CONTROLLER BOX|||||
-||||||
+
+CONTROLLER BOX
+
 | Image # | Item                        | Amount | Info                                         | Source used in the prototype in 2025                                    |
 |---------|-----------------------------|--------|----------------------------------------------|------------------------------------------------------------------------|
 | CB00    |||||
