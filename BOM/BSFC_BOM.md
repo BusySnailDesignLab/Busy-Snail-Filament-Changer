@@ -7,7 +7,7 @@ DRIVE UNIT
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|:----------------------------|:------:|------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| DU02    | Heat set insert M3xD5xL4    | 9      | Same as Voron BOM size                                                                         |                                                                        |
+| DU00    | Heat set insert M3xD5xL4    | 9      | Same as Voron BOM size                                                                         |                                                                        |
 | DU00    | FHCS M3x6                   | 1      |                                                                                                |                                                                        |
 | DU00    | FHCS M3x8                   | 2      |                                                                                                |                                                                        |
 | DU00    | SHCS M3x14                  | 1      |                                                                                                |                                                                        |
@@ -27,7 +27,9 @@ DRIVE UNIT
 | DU00    | Tube collet 4mm             | 1      |                                                                                                |                                                                        |
 | DU00    | PTFE tube OD6mm ID4mm       | Some   | Recommended to get a continuous 5 meter lot for the project                                    | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
 | DU00    | PTFE tube OD4mm ID2mm       | Some   | Recommended to get a continuous 1 meter lot for the project                                    |                                                                        |
-| DU01    | Stepper motor NEMA17 L=38mm | 1      | Optimal L=38(40)mm can be longer but affects wiring length and units sideways stacking fitment | [NEMA17](https://www.aliexpress.com/item/1005008459399126.html)        |
+| DU00    | Stepper motor NEMA17 L=38mm | 1      | Optimal L=38(40)mm can be longer but affects wiring length and units sideways stacking fitment | [NEMA17](https://www.aliexpress.com/item/1005008459399126.html)        |
+| DU00    | Micro switch D2F            | 2      |                                                                                                | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
+| DU00    | Led SK6182 RGBW             | 1      |                                                                                                | [LED](https://www.aliexpress.com/item/1005001971988539.html)           |
 
 ROLLER TRAY
 
@@ -39,13 +41,13 @@ HUB - BUFFER
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| HB00    |                             |        |                                                                                                ||
+| HB01    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
 
 CONTROLLER BOX
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| CB00    |                             |        |                                                                                                ||
+| CB01    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
 
 ASSEMBLED CHANGER / FRAME
 
