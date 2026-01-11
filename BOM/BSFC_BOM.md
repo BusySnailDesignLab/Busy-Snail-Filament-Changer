@@ -3,7 +3,7 @@
 ![IMG_2542](https://github.com/user-attachments/assets/a2bc2764-8425-4009-8ed6-c94a03368ab3)
 
 
-## ONE DRIVE UNIT (4x for 4 spool changer)
+## DRIVE UNIT (4x for 4 spool changer)
 
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
@@ -33,7 +33,7 @@
 | DU00    | Led SK6182 RGBW             | 1      |                                                                                                | [LED](https://www.aliexpress.com/item/1005001971988539.html)           |
 
 
-## ROLLER TRAY
+## ROLLER TRAY (4x for 4 spool changer)
 
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                    |
