@@ -4,7 +4,8 @@ DRIVE UNIT
 
 | Image # | Item                        | Amount | Info                                             | Link to the item used in the prototype in 2025                         |
 |---------|-----------------------------|--------|--------------------------------------------------|------------------------------------------------------------------------|
-| DU01    | Heat set insert M3xD5xL4    | 9      | Same as Voron BOM size                           |                                                                        |
+| DU01    | Stepper motor NEMA17 38mm   | 1      |                                                  | [LINK](https://www.aliexpress.com/item/1005008459399126.html)          |
+| DU02    | Heat set insert M3xD5xL4    | 9      | Same as Voron BOM size                           |                                                                        |
 | DU00    | FHCS M3x6                   | 1      |                                                  |                                                                        |
 | DU00    | FHCS M3x8                   | 2      |                                                  |                                                                        |
 | DU00    |||||
@@ -23,3 +24,6 @@ ROLLER TRAY
 | Image # | Item                        | Amount | Info                                         | Link to the item used in the prototype in 2025                         |
 |---------|-----------------------------|--------|----------------------------------------------|------------------------------------------------------------------------|
 | DU00    |||||
+
+
+
