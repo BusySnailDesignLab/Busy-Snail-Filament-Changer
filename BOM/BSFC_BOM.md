@@ -75,6 +75,7 @@
 | FR03    | Nut M8                      | 4      |                                                                                                ||
 | FR04    | PTFE tube OD6mm ID4mm       | Lots   | From drive units to hub, recommended to get a continuous 5 meter lot for the project           | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
 
+<br/><br/>
 
 ## OBSERVATIONS AND REMARKS
 
