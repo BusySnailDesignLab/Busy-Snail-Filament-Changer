@@ -84,4 +84,4 @@ Found it superior when prototyping, causes a lot less friction to filament and i
 <br/>
 <br/>
 Why UL1332 AWG26 FEP -wires?<br/><br/>
-Has generally thinner insulation (AWG26 outer diameter is 1,1mm). There are some channels in 3d printed parts that thicker outer diameter causes toubles. Also fits nicely to JST-PH2.0 terminals when crimping. (And it's easier to solder for slow solderers like me, the insulation melts more slowly...)
+Has generally thinner insulation (AWG26 outer diameter is 1,1mm). There are some channels in 3d printed parts where thicker outer diameter causes troubles. Also fits nicely to JST-PH2.0 terminals when crimping. (And it's easier to solder for slow solderers like me, the insulation melts more slowly...)
