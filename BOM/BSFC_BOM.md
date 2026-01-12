@@ -37,6 +37,7 @@
 | DU00    | JST PH2.0 6-fm-pin housing  | 1      | Connector housing for 6 female pins, motor connector                                           | [JST PH2.0 HOUSING](https://www.aliexpress.com/item/1005003164558805.html) |
 | DU00    | JST PH2.0 female pin        | 4      |                                                                                                | [JST PH2.0 FEMALE PIN](https://www.aliexpress.com/item/4000684959147.html) |
 | DU00    | FEP wire UL1332 AWG26       | -      | OD max 1.1mm to fit wire bundles to channels in 3d printed parts at some tight places          | [UL1332 FEP WIRE](https://www.aliexpress.com/item/1005001980629942.html) |
+| DU00    | Cable ties, small           | 4      | 1,8mm tie width, 3mm eye width                                                                 | [UL1332 FEP WIRE](https://www.aliexpress.com/item/32405034226.html)      |
 
 
 ## ROLLER TRAY (4x for 4 spool changer)
