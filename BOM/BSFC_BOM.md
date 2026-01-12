@@ -44,7 +44,7 @@
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                    |
 |:-------:|:----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
-| RT01    | Bicycle inner tube          | Some   | Optimal flat width 40mm                                                                        | [LINK]()                                                                |
+| RT00    | Bicycle inner tube          | Some   | Optimal flat width 40mm                                                                        | [LINK]()                                                                |
 
 
 ## HUB - BUFFER
@@ -52,7 +52,9 @@
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| HB01    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
+| HB00    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
+| DU00    | Tube collet 4mm             | 1 (0)  | Drive unit filament input                                                                      |                                                                        |
+| HB00    | Tube collet 6mm             | 4 (5)  | Drive unit filament output                                                                     | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
 
 
 ## CONTROLLER BOX
@@ -72,3 +74,9 @@
 | FR02    | Washer M8                   | 4      |                                                                                                ||
 | FR03    | Nut M8                      | 4      |                                                                                                ||
 | FR04    | PTFE tube OD6mm ID4mm       | Lots   | From drive units to hub, recommended to get a continuous 5 meter lot for the project           | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
+
+
+## REMARKS AND OBSERVATIONS
+
+Why 6/4mm diameter PTFE tube in stead of regular 4/2mm?
+Found it superior when prototyping, causes a lot less friction to filament and is way more kink resistant when bending.
