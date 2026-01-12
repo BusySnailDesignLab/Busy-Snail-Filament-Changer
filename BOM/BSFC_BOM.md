@@ -4,7 +4,7 @@
 
 <br/>
 
-## DRIVE UNIT ###(4x for 4 spool changer)
+## DRIVE UNIT (4x for 4 spool changer)
 
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
