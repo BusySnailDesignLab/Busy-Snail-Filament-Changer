@@ -53,8 +53,8 @@
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | HB00    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
-| DU00    | Tube collet 4mm             | 1 (0)  | Drive unit filament input                                                                      |                                                                        |
-| HB00    | Tube collet 6mm             | 4 (5)  | Drive unit filament output                                                                     | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
+| HB00    | Tube collet 4mm             | 1 (0)  | Buffer output, needed if 4/2mm PTEFE tube used from buffer onwards                             |                                                                        |
+| HB00    | Tube collet 6mm             | 5 (6)  | Hub input and hub internal PTFE retainer, extra one needed if 6/4mm from buffer onwards        | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
 
 
 ## CONTROLLER BOX
