@@ -21,7 +21,7 @@
 | DU00    | BMG 17 teeth extruder gear  | 1      | Extruder drive gear with grub screw for 5mm stepper shaft                                      | [BMG-17 GEAR](https://www.aliexpress.com/item/32969501213.html)        |
 | DU00    | Ball bearing MR63zz         | 2      | Included in HGX-lite extruder part kits, used as trigger for filament presence switch          | [HGX-LITE KIT](https://www.aliexpress.com/item/1005008082439342.html)  |
 | DU00    | Large extruder gear         | 2      | Included in HGX-lite extruder part kits                                                        | [HGX-LITE KIT](https://www.aliexpress.com/item/1005008082439342.html)  |
-| DU00    | Needle bearing 3x5x6,5mm    | 2      | Included in HGX-lite extruder part kits                                                        | [HGX-LITE KIT](https://www.aliexpress.com/item/1005008082439342.html)  |
+| DU00    | Needle bearing 3x5x6.5mm    | 2      | Included in HGX-lite extruder part kits                                                        | [HGX-LITE KIT](https://www.aliexpress.com/item/1005008082439342.html)  |
 | DU00    | Thumb screw assy with spring| 2      | 1pc included in HGX-lite extruder part kits, second one is for the rewind clutch               | [HGX-LITE KIT](https://www.aliexpress.com/item/1005008082439342.html) / [THUMB SCREW ASSY](https://www.aliexpress.com/item/32947691813.html)|
 | DU00    | Bearing pin 3x16mm          | 2      | Included in HGX-lite extruder part kits                                                        | [HGX-LITE KIT](https://www.aliexpress.com/item/1005008082439342.html)  |
 | DU00    | Bearing pin 3x12mm          | 2      | For rewind geartrain                                                                           | [BEARING PIN](https://www.aliexpress.com/item/33005238671.html)        |
@@ -38,7 +38,7 @@
 | DU00    | JST PH2.0 6-fm-pin housing  | 1      | Connector housing for 6 female pins, motor connector                                           | [JST PH2.0 HOUSING](https://www.aliexpress.com/item/1005003164558805.html) |
 | DU00    | JST PH2.0 female pin        | 4      |                                                                                                | [JST PH2.0 FEMALE PIN](https://www.aliexpress.com/item/4000684959147.html) |
 | DU00    | FEP wire UL1332 AWG26       | Some   | OD max 1.1mm to fit wire bundles to channels in 3d printed parts at some tight places          | [UL1332 FEP WIRE](https://www.aliexpress.com/item/1005001980629942.html) |
-| DU00    | Cable ties, small           | 4      | 1,8mm tie width, 3mm eye width                                                                 | [SMALL CABLE TIE](https://www.aliexpress.com/item/32405034226.html)      |
+| DU00    | Cable ties, small           | 4      | 1.8mm tie width, 3mm eye width                                                                 | [SMALL CABLE TIE](https://www.aliexpress.com/item/32405034226.html)      |
 
 <br/>
 
@@ -97,4 +97,4 @@ Found it superior when prototyping, causes a lot less friction to filament and i
 <br/>
 <br/>
 Why UL1332 AWG26 FEP -wires?<br/>
-Has generally thinner insulation (AWG26 outer diameter is 1,1mm). There are some channels in 3d printed parts where thicker outer diameter causes troubles. Also fits nicely to JST-PH2.0 terminals when crimping. (And it's easier to solder for slow solderers like me, the insulation melts more slowly...)
+Has generally thinner insulation (AWG26 outer diameter is 1.1mm). There are some channels in 3d printed parts where thicker outer diameter causes troubles. Also fits nicely to JST-PH2.0 terminals when crimping. (And it's easier to solder for slow solderers like me, the insulation melts more slowly...)
