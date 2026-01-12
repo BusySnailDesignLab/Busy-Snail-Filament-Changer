@@ -3,6 +3,7 @@
 ![IMG_2542](https://github.com/user-attachments/assets/a2bc2764-8425-4009-8ed6-c94a03368ab3)
 
 <br/>
+
 ## DRIVE UNIT (4x for 4 spool changer)
 
 
@@ -40,6 +41,7 @@
 | DU00    | Cable ties, small           | 4      | 1,8mm tie width, 3mm eye width                                                                 | [UL1332 FEP WIRE](https://www.aliexpress.com/item/32405034226.html)      |
 
 <br/>
+
 ## ROLLER TRAY (4x for 4 spool changer)
 
 
@@ -61,6 +63,7 @@
 | HB00    | Ball bearing MR63zz         | 1      | Used as trigger for hub filament presence switch                                               | [BEARING](https://www.aliexpress.com/item/1005008082439342.html)       |
 
 <br/>
+
 ## CONTROLLER BOX
 
 
@@ -69,6 +72,7 @@
 | CB01    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
 
 <br/>
+
 ## ASSEMBLED CHANGER / FRAME
 
 
