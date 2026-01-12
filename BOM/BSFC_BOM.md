@@ -76,7 +76,7 @@
 | FR04    | PTFE tube OD6mm ID4mm       | Lots   | From drive units to hub, recommended to get a continuous 5 meter lot for the project           | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
 
 
-## REMARKS AND OBSERVATIONS
+## OBSERVATIONS AND REMARKS
 
 Why 6/4mm diameter PTFE tube in stead of regular 4/2mm?<br/>
 Found it superior when prototyping, causes a lot less friction to filament and is way more kink resistant when bending.
