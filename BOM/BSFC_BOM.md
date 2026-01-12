@@ -37,7 +37,7 @@
 | DU00    | JST PH2.0 male pin          | 13     |                                                                                                | [JST PH2.0 MALE PIN](https://www.aliexpress.com/item/1005001831974253.html) |
 | DU00    | JST PH2.0 6-fm-pin housing  | 1      | Connector housing for 6 female pins, motor connector                                           | [JST PH2.0 HOUSING](https://www.aliexpress.com/item/1005003164558805.html) |
 | DU00    | JST PH2.0 female pin        | 4      |                                                                                                | [JST PH2.0 FEMALE PIN](https://www.aliexpress.com/item/4000684959147.html) |
-| DU00    | FEP wire UL1332 AWG26       | -      | OD max 1.1mm to fit wire bundles to channels in 3d printed parts at some tight places          | [UL1332 FEP WIRE](https://www.aliexpress.com/item/1005001980629942.html) |
+| DU00    | FEP wire UL1332 AWG26       | Some   | OD max 1.1mm to fit wire bundles to channels in 3d printed parts at some tight places          | [UL1332 FEP WIRE](https://www.aliexpress.com/item/1005001980629942.html) |
 | DU00    | Cable ties, small           | 4      | 1,8mm tie width, 3mm eye width                                                                 | [SMALL CABLE TIE](https://www.aliexpress.com/item/32405034226.html)      |
 
 <br/>
@@ -62,6 +62,9 @@
 | HB00    | Tube collet 4mm             | 1 (0)  | Buffer output, needed if 4/2mm PTEFE tube used from buffer onwards                             |                                                                        |
 | HB00    | Tube collet 6mm             | 5 (6)  | Hub input and hub internal PTFE retainer, extra one needed if 6/4mm from buffer onwards        | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
 | HB00    | Ball bearing MR63zz         | 1      | Used as trigger for hub filament presence switch                                               | [BEARING MR63zz](https://www.aliexpress.com/item/1005006129544529.html) |
+| HB00    | Micro switch D2F            | 1      | Hub filament presence switch                                                                   | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
+| HB00    | Micro switch D2F-L          | 2      | Buffer compressed and expanded switches with lever                                             | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
+| HB00    | FEP wire UL1332 AWG26       | Some   | OD max 1.1mm to fit wire bundles to channels in 3d printed parts at some tight places          | [UL1332 FEP WIRE](https://www.aliexpress.com/item/1005001980629942.html) |
 
 <br/>
 
@@ -70,7 +73,8 @@
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| CB01    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
+| CB00    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
+| CB00    | FHCS M3x?                   | ?      |                                                                                                |                                                                        |
 
 <br/>
 
