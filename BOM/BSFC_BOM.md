@@ -2,7 +2,7 @@
 
 ![IMG_2542](https://github.com/user-attachments/assets/a2bc2764-8425-4009-8ed6-c94a03368ab3)
 
-
+<br/>
 ## DRIVE UNIT (4x for 4 spool changer)
 
 
@@ -15,7 +15,7 @@
 | DU00    | SHCS M3x20                  | 3      |                                                                                                |                                                                        |
 | DU00    | SHCS M3x25                  | 1      |                                                                                                |                                                                        |
 | DU00    | SHCS M3x30                  | 3      |                                                                                                |                                                                        |
-| DU00    | Self tapping M2x6           | 1      |                                                                                                |                                                                        |
+| DU00    | Self tapping screw M2x6     | 1      |                                                                                                |                                                                        |
 | DU00    | Self tapping M2x8 flat tip  | 7      | At least 4pcs must be flat tip for micro switches (limited threading depth avail. in the part) | [SELF TAPPING FLAT TIP](https://www.aliexpress.com/item/1005008143160245.html) |
 | DU00    | BMG 17 teeth extruder gear  | 1      | Extruder drive gear with grub screw for 5mm stepper shaft                                      | [BMG-17 GEAR](https://www.aliexpress.com/item/32969501213.html)        |
 | DU00    | Ball bearing MR63zz         | 2      | Included in HGX-lite extruder part kits, used as trigger for filament presence switch          | [HGX-LITE KIT](https://www.aliexpress.com/item/1005008082439342.html)  |
@@ -39,7 +39,7 @@
 | DU00    | FEP wire UL1332 AWG26       | -      | OD max 1.1mm to fit wire bundles to channels in 3d printed parts at some tight places          | [UL1332 FEP WIRE](https://www.aliexpress.com/item/1005001980629942.html) |
 | DU00    | Cable ties, small           | 4      | 1,8mm tie width, 3mm eye width                                                                 | [UL1332 FEP WIRE](https://www.aliexpress.com/item/32405034226.html)      |
 
-
+<br/>
 ## ROLLER TRAY (4x for 4 spool changer)
 
 
@@ -47,17 +47,20 @@
 |:-------:|:----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
 | RT00    | Bicycle inner tube          | Some   | Optimal flat width 40mm                                                                        | [LINK]()                                                                |
 
-
+<br/>
 ## HUB - BUFFER
 
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | HB00    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
+| DU00    | FHCS M3x?                   | ?      |                                                                                                |                                                                        |
+| DU00    | Self tapping screw M2x10    | 6      | M2x8 flat tips required in drive unit can be used also here                                    |                                                                        |
 | HB00    | Tube collet 4mm             | 1 (0)  | Buffer output, needed if 4/2mm PTEFE tube used from buffer onwards                             |                                                                        |
 | HB00    | Tube collet 6mm             | 5 (6)  | Hub input and hub internal PTFE retainer, extra one needed if 6/4mm from buffer onwards        | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
+| HB00    | Ball bearing MR63zz         | 1      | Used as trigger for hub filament presence switch                                               | [BEARING](https://www.aliexpress.com/item/1005008082439342.html)       |
 
-
+<br/>
 ## CONTROLLER BOX
 
 
@@ -65,7 +68,7 @@
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | CB01    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
 
-
+<br/>
 ## ASSEMBLED CHANGER / FRAME
 
 
