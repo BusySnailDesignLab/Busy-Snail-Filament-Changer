@@ -68,7 +68,7 @@
 
 <br/>
 
-## CONTROLLER BOX
+## CONTROLLER BOARD BOX
 
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
