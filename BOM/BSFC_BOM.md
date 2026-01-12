@@ -63,7 +63,7 @@
 | HB00    | FHCS M3x?                   | ?      |                                                                                                |                                                                        |
 | HB00    | Self tapping screw M2x10    | 6      | M2x8 flat tips required in drive unit can be used also here                                    |                                                                        |
 | HB00    | Tube collet 4mm             | 1 (0)  | Buffer output, needed if 4/2mm PTEFE tube used from buffer onwards                             |                                                                        |
-| HB00    | Tube collet 6mm             | 5 (6)  | Hub input and hub internal PTFE retainer, extra one needed if 6/4mm from buffer onwards        | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
+| HB00    | Tube collet 6mm             | 5 (6)  | Hub input and hub internal PTFE retainer, extra one needed if 6/4mm from buffer to printer     | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
 | HB00    | Ball bearing MR63zz         | 1      | Used as trigger for hub filament presence switch                                               | [BEARING MR63zz](https://www.aliexpress.com/item/1005006129544529.html) |
 | HB00    | Micro switch D2F            | 1      | Hub filament presence switch                                                                   | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
 | HB00    | Micro switch D2F-L          | 2      | Buffer compressed and expanded switches with lever                                             | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
