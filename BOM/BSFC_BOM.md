@@ -1,7 +1,8 @@
 # Busy Snail Filament Changer BOM $${\color{red}//WIP-2026-01-12}$$</ins> 
 
 
-![bom_drive_unit](https://github.com/user-attachments/assets/c64b8629-d1dc-497e-97ea-31490d294585)
+![bom_drive_unit](https://github.com/user-attachments/assets/dd2264ea-00e3-45dc-a5c5-5aeacfa30ea9)
+
 
 
 <br/>
