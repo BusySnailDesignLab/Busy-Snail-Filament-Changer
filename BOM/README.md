@@ -50,12 +50,12 @@
 
 <br/>
 
-## HUB - BUFFER
+## HUB/BUFFER
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | HB00    | Heat set insert M3xD5xL4    | 10     | Same as Voron BOM size                                                                         |                                                                        |
-| HB00    | SHCS M3x6                   | 2      |                                                                                                |                                                                        |
+| HB00    | SHCS M3x6                   | 2      | Hub/buffer to frame bracket                                                                    |                                                                        |
 | HB00    | SHCS M3x10                  | 8      |                                                                                                |                                                                        |
 | HB00    | Self tapping screw M2x10    | 6      | M2x8 flat tips required in drive unit can be used also here                                    |                                                                        |
 | HB00    | Spring D6xL20xWD0.4         | 1      | Extension (pull) type spring for buffer slide                                                  | [SPRING](https://www.aliexpress.com/item/1005007596268334.html)        |
@@ -69,12 +69,12 @@
 
 <br/>
 
-## CONTROLLER BOARD BOX
+## CONTROLLER BOX
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | CB00    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
-| CB00    | FHCS M3x6                   | 2      |                                                                                                |                                                                        |
+| CB00    | FHCS M3x6                   | 2      | Controller box to frame bracket                                                                |                                                                        |
 | CB00    | FHCS M3x?                   | ?      |                                                                                                |                                                                        |
 | CB00    | Controller board            | 1      | For 4 spool units changer: a board with 4 stepper drivers, minimum 11 switch inputs and rgb    |                                                                        |
 
