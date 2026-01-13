@@ -58,7 +58,7 @@
 | HB00    | SHCS M3x6                   | 2      |                                                                                                |                                                                        |
 | HB00    | SHCS M3x10                  | 8      |                                                                                                |                                                                        |
 | HB00    | Self tapping screw M2x10    | 6      | M2x8 flat tips required in drive unit can be used also here                                    |                                                                        |
-| HB00    | Spring D6xL?xWD0.4          | 1      | Extension (pull) type spring for buffer slide                                                  |                                                                        |
+| HB00    | Spring D6xL20xWD0.4         | 1      | Extension (pull) type spring for buffer slide                                                  |                                                                        |
 | HB00    | Tube collet 4mm             | 1 (0)  | Buffer output, needed if 4/2mm PTEFE tube used from buffer to printer                          |                                                                        |
 | HB00    | Tube collet 6mm             | 5 (6)  | Hub inputs and hub internal PTFE retainer, 6th one needed if 6/4mm from buffer to printer      | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
 | HB00    | Ball bearing MR63zz         | 1      | Used as trigger for hub filament presence switch                                               | [BEARING MR63zz](https://www.aliexpress.com/item/1005006129544529.html) |
