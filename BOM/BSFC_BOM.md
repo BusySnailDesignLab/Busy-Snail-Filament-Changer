@@ -1,14 +1,10 @@
 # Busy Snail Filament Changer BOM $${\color{red}//WIP-2026-01-12}$$</ins> 
 
-
 ![bom_drive_unit](https://github.com/user-attachments/assets/dd2264ea-00e3-45dc-a5c5-5aeacfa30ea9)
-
-
 
 <br/>
 
 ## DRIVE UNIT (4x for 4 spool changer)
-
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|:----------------------------|:------:|------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
@@ -56,14 +52,15 @@
 
 ## HUB - BUFFER
 
-
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| HB00    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
-| HB00    | FHCS M3x?                   | ?      |                                                                                                |                                                                        |
+| HB00    | Heat set insert M3xD5xL4    | 10     | Same as Voron BOM size                                                                         |                                                                        |
+| HB00    | SHCS M3x6                   | 2      |                                                                                                |                                                                        |
+| HB00    | SHCS M3x10                  | 8      |                                                                                                |                                                                        |
 | HB00    | Self tapping screw M2x10    | 6      | M2x8 flat tips required in drive unit can be used also here                                    |                                                                        |
-| HB00    | Tube collet 4mm             | 1 (0)  | Buffer output, needed if 4/2mm PTEFE tube used from buffer onwards                             |                                                                        |
-| HB00    | Tube collet 6mm             | 5 (6)  | Hub input and hub internal PTFE retainer, extra one needed if 6/4mm from buffer to printer     | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
+| HB00    | Spring ?Dx?Lx?WIRE/D        | 1      |                                                                                                |                                                                        |
+| HB00    | Tube collet 4mm             | 1 (0)  | Buffer output, needed if 4/2mm PTEFE tube used from buffer to printer                          |                                                                        |
+| HB00    | Tube collet 6mm             | 5 (6)  | Hub inputs and hub internal PTFE retainer, 6th one needed if 6/4mm from buffer to printer      | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
 | HB00    | Ball bearing MR63zz         | 1      | Used as trigger for hub filament presence switch                                               | [BEARING MR63zz](https://www.aliexpress.com/item/1005006129544529.html) |
 | HB00    | Micro switch D2F            | 1      | Hub filament presence switch                                                                   | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
 | HB00    | Micro switch D2F-L          | 2      | Buffer compressed and expanded switches with lever                                             | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
@@ -73,22 +70,22 @@
 
 ## CONTROLLER BOARD BOX
 
-
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | CB00    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
+| CB00    | FHCS M3x6                   | 2      |                                                                                                |                                                                        |
+| CB00    | FHCS M3x?                   | ?      |                                                                                                |                                                                        |
 | CB00    | FHCS M3x?                   | ?      |                                                                                                |                                                                        |
 
 <br/>
 
 ## ASSEMBLED CHANGER / FRAME
 
-
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| FR01    | Threaded rod M8             | 2      |                                                                                                ||
-| FR02    | Washer M8                   | 4      |                                                                                                ||
-| FR03    | Nut M8                      | 4      |                                                                                                ||
+| FR01    | Threaded rod M8             | 2      |                                                                                                |                                                                        |
+| FR02    | Washer M8                   | 4      |                                                                                                |                                                                        |
+| FR03    | Nut M8                      | 4      |                                                                                                |                                                                        |
 | FR04    | PTFE tube OD6mm ID4mm       | Lots   | From drive units to hub, recommended to get a continuous 5 meter lot for the project           | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
 
 <br/><br/>
