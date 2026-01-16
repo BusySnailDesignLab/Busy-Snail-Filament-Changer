@@ -1,8 +1,8 @@
 # Busy Snail Filament Changer (BSFC) BOM $${\color{red}//WIP-2026-01-15}$$</ins> 
 
-![bom_drive_unit](https://github.com/user-attachments/assets/dd2264ea-00e3-45dc-a5c5-5aeacfa30ea9)
-
 <br/>
+
+![bom_drive_unit](https://github.com/user-attachments/assets/dd2264ea-00e3-45dc-a5c5-5aeacfa30ea9)
 
 ## DRIVE UNIT (4x for 4 spool changer)
 
@@ -44,15 +44,13 @@
 
 ![bom_roller_tray](https://github.com/user-attachments/assets/e16c5911-5ee3-4445-a0e3-67df586d191c)
 
-<br/>
-
 ## ROLLER TRAY (4x for 4 spool changer)
-
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                    |
 |:-------:|:----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
 | RT00    | Bicycle inner tube          | 2x35mm | Optimal flat width ≈40mm to be streched on a 32mm diameter roller                              |                                                                         |
 
+<br/>
 <br/>
 
 ## HUB/BUFFER
