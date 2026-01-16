@@ -112,5 +112,11 @@ Why 6/4mm diameter PTFE tube in stead of regular 4/2mm?<br/>
 Found it superior when prototyping, causes a lot less friction to filament and is way more kink resistant when bending.
 <br/>
 <br/>
+
 Why UL1332 AWG26 FEP -wires?<br/>
 Has generally thinner insulation (AWG26 outer diameter is 1.1mm). There are some channels in 3d printed parts where thicker outer diameter causes troubles. Also fits nicely to JST-PH2.0 terminals when crimping. (And it's easier to solder for slow solderers like me, the insulation melts more slowly...)
+<br/>
+<br/>
+
+No ball bearings for spool rollers?<br/>
+Peg in a hole and some silicone grease seems otimal, some resistance is desired to stop spool spinning when it needs to stop. Large extruder gears and NEMA17 provide plenty pulling force and BOM stays a bit shorter.
