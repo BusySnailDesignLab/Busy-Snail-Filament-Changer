@@ -109,7 +109,7 @@
 ## OBSERVATIONS AND REMARKS
 
 Why 6/4mm diameter PTFE tube in stead of usual 4/2mm?<br/>
-Found it superior when prototyping, causes a lot less friction to filament and is way more kink resistant when bending.
+Found it superior when prototyping, way more kink resistant when bending.
 <br/>
 <br/>
 
