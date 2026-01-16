@@ -48,7 +48,7 @@
 
 | Image # | Item                        | Amount | Info                                                                                           | Source used in the prototype in 2025                                    |
 |:-------:|:----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
-| RT00    | Bicycle inner tube          | 2x35mm | Optimal flat width ≈40mm to be streched on a 32mm diameter roller                              |                                                                         |
+| RT01    | Bicycle inner tube          | 2x35mm | Optimal flat width ≈40mm to be streched on a 32mm diameter roller                              |                                                                         |
 
 <br/>
 <br/>
