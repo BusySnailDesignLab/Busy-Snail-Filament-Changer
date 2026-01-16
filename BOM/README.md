@@ -41,6 +41,11 @@
 
 <br/>
 
+
+![bom_roller_tray](https://github.com/user-attachments/assets/e16c5911-5ee3-4445-a0e3-67df586d191c)
+
+<br/>
+
 ## ROLLER TRAY (4x for 4 spool changer)
 
 
