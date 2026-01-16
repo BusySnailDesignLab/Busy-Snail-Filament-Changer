@@ -41,6 +41,8 @@
 
 <br/>
 <br/>
+<br/>
+
 
 ![bom_roller_tray](https://github.com/user-attachments/assets/e16c5911-5ee3-4445-a0e3-67df586d191c)
 
@@ -52,6 +54,8 @@
 
 <br/>
 <br/>
+<br/>
+
 
 ## HUB/BUFFER
 
@@ -71,6 +75,9 @@
 | HB00    | FEP wire UL1332 AWG26       | Some   | OD max 1.1mm to fit wire bundles to channels in 3d printed parts at some tight places          | [UL1332 FEP WIRE](https://www.aliexpress.com/item/1005001980629942.html) |
 
 <br/>
+<br/>
+<br/>
+
 
 ## CONTROLLER BOX
 
@@ -82,6 +89,9 @@
 | CB00    | Controller board            | 1      | For 4 spool units changer: a board with 4 stepper drivers, minimum 11 switch inputs and rgb    |                                                                        |
 
 <br/>
+<br/>
+<br/>
+
 
 ## ASSEMBLED CHANGER / FRAME
 
@@ -92,7 +102,9 @@
 | FR03    | Nut M8                      | 4      |                                                                                                |                                                                        |
 | FR04    | PTFE tube OD6mm ID4mm       | Lots   | From drive units to hub, recommended to get a continuous 5 meter lot for the project           | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
 
-<br/><br/>
+<br/>
+<br/>
+<br/>
 
 ## OBSERVATIONS AND REMARKS
 
