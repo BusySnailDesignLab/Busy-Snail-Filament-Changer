@@ -61,18 +61,20 @@
 
 | Image # | Item                        | Qty    | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| HB00    | Heat set insert M3xD5xL4    | 10     | Same as Voron BOM size                                                                         |                                                                        |
-| HB00    | SHCS M3x6                   | 2      | Hub/buffer to frame bracket                                                                    |                                                                        |
-| HB00    | SHCS M3x10                  | 8      |                                                                                                |                                                                        |
-| HB00    | Self tapping M2x8 flat tip  | 8      | Alternatively normal M2x10 can be used here                                                    | [SELF TAPPING FLAT TIP](https://www.aliexpress.com/item/1005008143160245.html) |
-| HB00    | Spring D6xL20xWD0.4         | 1      | Tension spring for buffer slide (Total length with eyelets 6+8+6=20mm)                         | [TENSION SPRING](https://www.aliexpress.com/item/1005007596268334.html)        |
-| HB00    | Tube collet 4mm             | 1      | Buffer output                                                                                  |                                                                        |
-| HB00    | Tube collet 6mm             | 5      | Hub inputs and hub internal PTFE retainer                                                      | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
-| HB00    | PTFE tube OD6mm ID4mm       | 55mm   | Buffer slide inner guide tube                                                                  | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
-| HB00    | Ball bearing MR63zz         | 1      | Used as trigger for hub filament presence switch                                               | [BEARING MR63zz](https://www.aliexpress.com/item/1005006129544529.html) |
-| HB00    | Micro switch D2F            | 1      | Hub filament presence switch                                                                   | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
-| HB00    | Micro switch D2F-L          | 2      | Buffer compressed and expanded switches with lever                                             | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
-| HB00    | FEP wire UL1332 AWG26       | Some   | OD max 1.1mm to fit wire bundles to channels in 3d printed parts at some tight places          | [UL1332 FEP WIRE](https://www.aliexpress.com/item/1005001980629942.html) |
+| HB01    | Heat set insert M3xD5xL4    | 10     | Same as Voron BOM size                                                                         |                                                                        |
+| HB02    | SHCS M3x6                   | 2      | Hub/buffer to frame bracket                                                                    |                                                                        |
+| HB03    | SHCS M3x10                  | 8      |                                                                                                |                                                                        |
+| HB04    | Self tapping M2x8 flat tip  | 8      | Alternatively normal M2x10 can be used here                                                    | [SELF TAPPING FLAT TIP](https://www.aliexpress.com/item/1005008143160245.html) |
+| HB05    | Spring D6xL20xWD0.4         | 1      | Tension spring for buffer slide (Total length with eyelets 6+8+6=20mm)                         | [TENSION SPRING](https://www.aliexpress.com/item/1005007596268334.html)        |
+| HB06    | Tube collet 4mm             | 1      | Buffer output                                                                                  |                                                                        |
+| HB07    | Tube collet 6mm             | 5      | Hub inputs and hub internal PTFE retainer                                                      | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
+| HB08    | PTFE tube OD6mm ID4mm       | 55mm   | Buffer slide inner guide tube                                                                  | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
+| HB09    | Ball bearing MR63zz         | 1      | Used as trigger for hub filament presence switch                                               | [BEARING MR63zz](https://www.aliexpress.com/item/1005006129544529.html) |
+| HB10    | Micro switch D2F            | 1      | Hub filament presence switch                                                                   | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
+| HB11    | Micro switch D2F-L          | 2      | Buffer compressed and expanded switches with lever                                             | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
+| HB12    | JST PH2.0 4-m-pin housing   | 1      | Connector housing for male pins                                                                | [JST PH2.0 HOUSING](https://www.aliexpress.com/item/4000769860242.html) |
+| HB13    | JST PH2.0 male pin          | 4      |                                                                                                | [JST PH2.0 MALE PIN](https://www.aliexpress.com/item/1005001831974253.html) |
+| HB14    | FEP wire UL1332 AWG26       | Some   | OD max 1.1mm to fit wire bundles to channels in 3d printed parts at some tight places          | [UL1332 FEP WIRE](https://www.aliexpress.com/item/1005001980629942.html) |
 
 <br/>
 <br/>
