@@ -42,6 +42,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 
 ![bom_roller_tray](https://github.com/user-attachments/assets/e16c5911-5ee3-4445-a0e3-67df586d191c)
@@ -52,6 +54,8 @@
 |:-------:|:----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
 | RT01    | Bicycle inner tube          | 2x35mm | Optimal flat width ≈40mm to be streched on a 32mm diameter roller                              |                                                                         |
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -81,6 +85,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 
 ## CONTROLLER BOX
@@ -95,6 +101,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 
 ## ASSEMBLED CHANGER / FRAME
@@ -106,6 +114,8 @@
 | FR03    | Nut M8                      | 4      |                                                                                                |                                                                        |
 | FR04    | PTFE tube OD6mm ID4mm       | Lots   | From drive units to hub, recommended to get a continuous 5 meter lot for the project           | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
