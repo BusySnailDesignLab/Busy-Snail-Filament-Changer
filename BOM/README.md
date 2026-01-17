@@ -57,6 +57,8 @@
 <br/>
 
 
+![bom_hub_buffer](https://github.com/user-attachments/assets/84d2d503-65b0-46ee-915e-7fff0e5384b9)
+
 ## HUB/BUFFER
 
 | Image # | Item                        | Qty    | Info                                                                                           | Source used in the prototype in 2025                                   |
