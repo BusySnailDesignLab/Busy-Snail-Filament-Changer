@@ -6,7 +6,7 @@
 
 ## DRIVE UNIT (4x for 4 spool changer)
 
-| Image # | Item                        | Qty    | Info                                                                                           | Source used in the prototype in 2025                                   |
+| Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                 |
 |:-------:|:----------------------------|:------:|------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | DU01    | Heat set insert M3xD5xL4    | 9      | Same as Voron BOM size                                                                         |                                                                        |
 | DU02    | FHCS M3x6                   | 1      |                                                                                                |                                                                        |
@@ -50,7 +50,7 @@
 
 ## ROLLER TRAY (4x for 4 spool changer)
 
-| Image # | Item                        | Qty    | Info                                                                                           | Source used in the prototype in 2025                                    |
+| Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                  |
 |:-------:|:----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
 | RT01    | Bicycle inner tube          | 2x35mm | Optimal flat width ≈40mm to be streched on a 32mm diameter roller                              |                                                                         |
 
@@ -65,7 +65,7 @@
 
 ## HUB/BUFFER
 
-| Image # | Item                        | Qty    | Info                                                                                           | Source used in the prototype in 2025                                   |
+| Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                 |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | HB01    | Heat set insert M3xD5xL4    | 10     | Same as Voron BOM size                                                                         |                                                                        |
 | HB02    | SHCS M3x6                   | 2      |                                                                                                |                                                                        |
@@ -93,7 +93,7 @@
 
 ## CONTROLLER BOX
 
-| Image # | Item                        | Qty    | Info                                                                                           | Source used in the prototype in 2025                                   |
+| Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                 |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | CB01    | Heat set insert M3xD5xL4    | 10     | Same as Voron BOM size                                                                         |                                                                        |
 | CB02    | SHCS M3x6                   | 6      |                                                                                                |                                                                        |
@@ -110,7 +110,7 @@
 
 ## ASSEMBLED CHANGER / FRAME
 
-| Image # | Item                        | Qty    | Info                                                                                           | Source used in the prototype in 2025                                   |
+| Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                 |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | FR01    | Threaded rod M8             | 2      |                                                                                                |                                                                        |
 | FR02    | Washer M8                   | 4      |                                                                                                |                                                                        |
