@@ -94,8 +94,8 @@
 | Image # | Item                        | Qty    | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | CB00    | Heat set insert M3xD5xL4    | ?      | Same as Voron BOM size                                                                         |                                                                        |
-| CB00    | FHCS M3x6                   | 2      | Controller box to frame bracket                                                                |                                                                        |
-| CB00    | FHCS M3x?                   | ?      |                                                                                                |                                                                        |
+| CB00    | SHCS M3x6                   | 2      | Controller box to frame bracket                                                                |                                                                        |
+| CB00    | SHCS M3x?                   | ?      |                                                                                                |                                                                        |
 | CB00    | Controller board            | 1      | For 4 spool units changer: a board with 4 stepper drivers, minimum 11 switch inputs and rgb    |                                                                        |
 
 <br/>
