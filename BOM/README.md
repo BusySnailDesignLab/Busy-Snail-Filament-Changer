@@ -15,7 +15,7 @@
 | DU05    | SHCS M3x20                  | 3      |                                                                                                |                                                                        |
 | DU06    | SHCS M3x25                  | 1      |                                                                                                |                                                                        |
 | DU07    | SHCS M3x30                  | 3      |                                                                                                |                                                                        |
-| DU08    | Self tapping screw M2x5     | 1      | Or cut longer screw to 5mm (<6mm) thread length, otherwise interferes the stepper motor collar |                                                                        |
+| DU08    | Self tapping screw M2x5     | 1      | Or cut longer screw to 5mm (<6mm) thread length, longer interferes the stepper motor collar    |                                                                        |
 | DU09    | Self tapping M2x8 flat tip  | 7      | At least 4pcs must be flat tip for micro switches (limited threading depth avail. in the part) | [SELF TAPPING FLAT TIP](https://www.aliexpress.com/item/1005008143160245.html) |
 | DU10    | BMG 17 teeth extruder gear  | 1      | Extruder drive gear with grub screw for 5mm stepper shaft                                      | [BMG-17 GEAR](https://www.aliexpress.com/item/32969501213.html)        |
 | DU11    | Ball bearing MR63zz         | 2      | Included in HGX-lite extruder part kits, used as trigger for filament presence switch          | [HGX-LITE KIT](https://www.aliexpress.com/item/1005008082439342.html)  |
@@ -98,7 +98,7 @@
 | CB01    | Heat set insert M3xD5xL4    | 10     | Same as Voron BOM size                                                                         |                                                                        |
 | CB02    | SHCS M3x6                   | 6      |                                                                                                |                                                                        |
 | CB03    | SHCS M3x20                  | 4      |                                                                                                |                                                                        |
-| CB04    | Self tapping screw M2x5     | 2      | Or cut longer screw to 5mm thread length otherwise interferes the controller board             |                                                                        |
+| CB04    | Self tapping screw M2x5     | 2      | Or cut longer screw to 5mm (<6mm) thread length, longer interferes the controller board        |                                                                        |
 | CB05    | Controller board            | 1      | For 4 spool units changer: a board with 4 stepper drivers, minimum 11 switch inputs and rgb    | BTT MMB V1 DISCONTINUED OR [BTT MMB V2](https://biqu.equipment/products/bigtreetech-mmb?srsltid=AfmBOoojqLfSVezwYhXBKbgZrX7MZ3LSgAp-71kjfpFg5umGPZRVq2R6)               |
 
 <br/>
