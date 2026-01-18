@@ -89,15 +89,17 @@
 <br/>
 
 
+![bom_controller_box](https://github.com/user-attachments/assets/009ac715-7d9e-4680-9c19-4078df61d912)
+
 ## CONTROLLER BOX
 
 | Image # | Item                        | Qty    | Info                                                                                           | Source used in the prototype in 2025                                   |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| CB00    | Heat set insert M3xD5xL4    | 10     | Same as Voron BOM size                                                                         |                                                                        |
-| CB00    | SHCS M3x6                   | 6      |                                                                                                |                                                                        |
-| CB00    | SHCS M3x20                  | 4      |                                                                                                |                                                                        |
-| DU08    | Self tapping screw M2x5     | 2      | Or cut longer screw to 5mm thread length otherwise interferes the controller board             |                                                                        |
-| CB00    | Controller board            | 1      | For 4 spool units changer: a board with 4 stepper drivers, minimum 11 switch inputs and rgb    |                                                                        |
+| CB01    | Heat set insert M3xD5xL4    | 10     | Same as Voron BOM size                                                                         |                                                                        |
+| CB02    | SHCS M3x6                   | 6      |                                                                                                |                                                                        |
+| CB03    | SHCS M3x20                  | 4      |                                                                                                |                                                                        |
+| CB04    | Self tapping screw M2x5     | 2      | Or cut longer screw to 5mm thread length otherwise interferes the controller board             |                                                                        |
+| CB05    | Controller board            | 1      | For 4 spool units changer: a board with 4 stepper drivers, minimum 11 switch inputs and rgb    | [BTT MMB V1 DISCONTINUED](   )    [BTT MMB V2](https://biqu.equipment/products/bigtreetech-mmb?srsltid=AfmBOoojqLfSVezwYhXBKbgZrX7MZ3LSgAp-71kjfpFg5umGPZRVq2R6)               |
 
 <br/>
 <br/>
