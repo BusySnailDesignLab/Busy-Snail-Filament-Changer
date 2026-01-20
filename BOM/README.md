@@ -99,7 +99,7 @@
 | CB02    | SHCS M3x6                   | 6      |                                                                                                |                                                                        |
 | CB03    | SHCS M3x20                  | 4      |                                                                                                |                                                                        |
 | CB04    | Self tapping screw M2x5     | 2      | Or cut longer screw to 5mm (<6mm) thread length, longer interferes the controller board        |                                                                        |
-| CB05    | Controller board            | 1      | For 4 spool units changer: a board with 4 stepper drivers, minimum 11 switch inputs and rgb    | BTT MMB V1 DISCONTINUED OR [BTT MMB V2](https://biqu.equipment/products/bigtreetech-mmb?srsltid=AfmBOoojqLfSVezwYhXBKbgZrX7MZ3LSgAp-71kjfpFg5umGPZRVq2R6)               |
+| CB05    | Controller board            | 1      | For 4 spool units changer: a board with 4 stepper drivers, minimum 11 switch inputs and rgb    | BTT MMB V1 discontinued OR [BTT MMB V2](https://biqu.equipment/products/bigtreetech-mmb?srsltid=AfmBOoojqLfSVezwYhXBKbgZrX7MZ3LSgAp-71kjfpFg5umGPZRVq2R6)               |
 
 <br/>
 <br/>
