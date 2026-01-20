@@ -115,7 +115,7 @@
 | FR01    | Threaded rod M8             | 2      |                                                                                                |                                                                        |
 | FR02    | Washer M8                   | 4      |                                                                                                |                                                                        |
 | FR03    | Nut M8                      | 4      |                                                                                                |                                                                        |
-| FR04    | PTFE tube OD6mm ID4mm       | Lots   | From drive units to hub, recommended to get a continuous 5 meter lot for the project           | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
+| FR04    | PTFE tube OD6mm ID4mm       | Some   | From drive units to hub, recommended to get a continuous 5 meter lot for the project           | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
 
 <br/>
 <br/>
