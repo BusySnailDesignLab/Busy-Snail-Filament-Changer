@@ -136,4 +136,4 @@ Has generally thinner insulation (AWG26 outer diameter is 1.1mm). There are some
 <br/>
 
 No ball bearings for spool rollers?<br/>
-Peg in a hole and some silicone grease seems otimal, some resistance is desired to stop spool spinning when it needs to stop. Large extruder gears and NEMA17 provide plenty pulling force and BOM stays a bit shorter.
+Peg in a hole and some silicone grease seems otimal, some resistance is desired to stop spool spinning when it needs to stop. Large extruder gears and NEMA17 steppers provide plenty pulling force and BOM stays a bit shorter.
