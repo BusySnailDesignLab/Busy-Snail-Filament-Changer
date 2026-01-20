@@ -1,7 +1,8 @@
-# Busy Snail Filament Changer (BSFC) Wiring $${\color{red}//WIP-2026-01-19}$$</ins> 
+# Busy Snail Filament Changer (BSFC) Wiring $${\color{red}//WIP-2026-01-20}$$</ins> 
 
 
 
+![bsfc_wiring](https://github.com/user-attachments/assets/e16c3251-a16c-4c5a-bece-9f6ab01adcef)
 
-![bsfc_wiring](https://github.com/user-attachments/assets/91af20ea-5b62-4a1c-bf6e-c7a7701a44a3)
+
 
