@@ -1,4 +1,4 @@
-# Busy Snail Filament Changer (BSFC) BOM $${\color{red}//WIP-2026-01-22}$$</ins> 
+# Busy Snail Filament Changer (BSFC) BOM $${\color{red}//WIP-2026-01-23}$$</ins> 
 
 <br/>
 
@@ -113,9 +113,9 @@
 
 | Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                 |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| FR01    | Threaded rod M8             | 2      |                                                                                                |                                                                        |
-| FR02    | Washer M8                   | 4      |                                                                                                |                                                                        |
-| FR03    | Nut M8                      | 4      |                                                                                                |                                                                        |
+| FR01    | Threaded rod M12            | 2      | Length depends on the changer and printer setups.                                               |                                                                        |
+| FR02    | Washer M12                  | 4      |                                                                                                |                                                                        |
+| FR03    | Nut M12                     | 4      |                                                                                                |                                                                        |
 | FR04    | PTFE tube OD6mm ID4mm       | Some   | From drive units to hub, recommended to get a continuous 5 meter lot for the project           | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
 
 <br/>
