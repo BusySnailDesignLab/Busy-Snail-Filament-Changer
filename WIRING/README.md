@@ -4,8 +4,4 @@ TODO:
 - ensuring/testing correct connections
 - determining/testing the lengths of all wires
 
-![bsfc_wiring](https://github.com/user-attachments/assets/e16c3251-a16c-4c5a-bece-9f6ab01adcef)
-
-
-
-
+![bsfc_wiring](https://github.com/user-attachments/assets/ab3401e6-183c-4856-b431-9ae15afaa61f)
