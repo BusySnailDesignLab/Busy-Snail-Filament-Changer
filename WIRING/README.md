@@ -1,4 +1,4 @@
-# Busy Snail Filament Changer (BSFC) Wiring $${\color{red}//WIP-2026-01-20}$$</ins> 
+# Busy Snail Filament Changer (BSFC) Wiring $${\color{red}//WIP-2026-01-25}$$</ins> 
 
 
 
@@ -6,3 +6,6 @@
 
 
 
+TODO:
+- ensuring correct connections
+- determining the lengths of all wires
