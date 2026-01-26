@@ -1,3 +1,3 @@
 # Busy Snail Filament Changer (BSFC) STEPs $${\color{red}//WIP-2026-01-26}$$</ins> 
 
-There may be some changes to the design during the closed beta testing. The completed SETP files will be released at the time of the public release of BSFC.
+There may be some minor changes to the design during the closed beta testing. The completed SETP files will be released at the time of the public release of BSFC.
