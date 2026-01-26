@@ -1,9 +1,11 @@
 # Busy Snail Filament Changer (BSFC)
 
+<br/>
+
 ## From proto to closed beta
 Prototyping has been done and everything is working nice. It's time to move to closed beta testing to ensure that STLs, BOM and wiring are all spot on before the public release.
 <br/><br/>
-Welcome to the Busy Snail Filament Changer private closed beta repository! By downloading files from here, you agree not to share them anywhere. We don't want pre-release files floating around internet.
+Welcome to the Busy Snail Filament Changer private closed beta repository! By downloading files from here, you agree to not share them anywhere. We don't want pre-release files floating around internet.
 
 <br/>
 
