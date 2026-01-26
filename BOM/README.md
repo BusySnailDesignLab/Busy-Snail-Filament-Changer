@@ -53,14 +53,15 @@ This BOM is ReleaseCandidate1, item types are not expected to change, quantities
 <br/>
 
 
-![bom_roller_tray](https://github.com/user-attachments/assets/9d734088-eb91-45f3-a0f3-db88420e1dce)
 
 
 ## ROLLER TRAY (4x for 4 spool changer)
 
 | Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                  |
 |:-------:|:----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
-| RT01    | Bicycle inner tube          | 2x35mm | Optimal flat width ≈40-45mm to be streched on a 32mm diameter roller (Tip: flip inside out to hide molding seams)|                                                                         |
+| RT01    | Heat set insert M3xD5xL4    | 3      | Same as Voron BOM size                                                                         |                                                                         |
+| RT02    | FHCS M3x8                   | 3      |                                                                                                |                                                                         |
+| RT03    | Bicycle inner tube          | 2x35mm | Optimal flat width ≈40-45mm to be streched on a 32mm diameter roller (Tip: flip inside out to hide molding seams)|                                                                         |
 
 <br/>
 <br/>
