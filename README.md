@@ -12,5 +12,6 @@ Other features that were targeted in the design process:
 
 - NEMA17 stepper motors
 - As modular system as possible
+- Possibility to use only 1 spool unit as a loader/unloader rather than a changer
 
 <br/>
