@@ -1,6 +1,13 @@
-# Busy Snail Filament Changer (BSFC) BOM $${\color{red}//WIP-2026-01-23}$$</ins> 
+# Busy Snail Filament Changer (BSFC) BOM $${\color{red}//RC1-2026-01-26}$$</ins> 
 
 <br/>
+<br/>
+
+This BOM is ReleaseCandidate1, item types are not expected to change, quantities are not double checked yet
+
+<br/>
+<br/>
+
 
 ![bom_drive_unit](https://github.com/user-attachments/assets/dd2264ea-00e3-45dc-a5c5-5aeacfa30ea9)
 
