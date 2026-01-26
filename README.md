@@ -6,9 +6,11 @@ Welcome to Busy Snail Filament Changer private closed beta repository. By downlo
 
 
 ## One more filament changer design?
-A filament changer supporting 5kg spools that uses large extruder gears to reliably pull filament from heavy spools didn't exist whenm starting the project (or at least couldn't find an open source one).
+A filament changer supporting 5kg spools that uses large extruder gears to reliably pull filament from heavy spools didn't exist when starting the project (or at least couldn't find an open source one).
 
 Other features that were targeted in the design process:
 
 - NEMA17 stepper motors
 - As modular system as possible
+
+<br/>
