@@ -53,6 +53,8 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 <br/>
 
 
+![bom_spool_controller](https://github.com/user-attachments/assets/0895e751-6616-4212-8690-4bb7929f9c47)
+
 ## SPOOL CONTROLLER (4x for 4 spool changer)
 
 | Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                  |
@@ -61,6 +63,7 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 | SC02    | Bearing pin 3x12mm          | 1      | Same size as for drive unit geartrain                                                          | [BEARING PIN](https://www.aliexpress.com/item/33005238671.html)         |
 | SC03    | PTFE tube OD6mm ID4mm       | 2x20mm | Spool controller contact surfaces, recommended to get a continuous 5 meter lot for the project | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)     |
 
+<br/>
 <br/>
 <br/>
 <br/>
