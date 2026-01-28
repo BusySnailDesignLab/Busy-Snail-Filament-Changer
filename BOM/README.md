@@ -57,7 +57,7 @@ This BOM is ReleaseCandidate1, item types are not expected to change, quantities
 | Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                  |
 |:-------:|:----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
 | SC01    | FHCS M3x8                   | 1      |                                                                                                |                                                                         |
-| SC02    | Bearing pin 3x12mm          | 1      |                                                                                                |                                                                         |
+| SC02    | Bearing pin 3x12mm          | 1      | Same size as for drive unit geartrain                                                          | [BEARING PIN](https://www.aliexpress.com/item/33005238671.html)         |
 | SC03    | PTFE tube OD6mm ID4mm       | 2x20mm | Spool controller contact surfaces, recommended to get a continuous 5 meter lot for the project | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)     |
 
 <br/>
