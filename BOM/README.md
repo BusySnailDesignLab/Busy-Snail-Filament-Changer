@@ -9,7 +9,8 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 <br/>
 
 
-![bom_drive_unit](https://github.com/user-attachments/assets/dd2264ea-00e3-45dc-a5c5-5aeacfa30ea9)
+![bom_drive_unit_no_sc](https://github.com/user-attachments/assets/e9882b90-7607-48c9-8c97-83c92c1aca97)
+
 
 ## DRIVE UNIT (4x for 4 spool changer)
 
@@ -65,6 +66,8 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 <br/>
 <br/>
 
+
+![bom_roller_tray_lidded](https://github.com/user-attachments/assets/e292dda4-e999-4d62-a1b4-7fab7e48071a)
 
 ## ROLLER TRAY (4x for 4 spool changer)
 
