@@ -18,7 +18,6 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 |:-------:|:----------------------------|:------:|------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | DU01    | Heat set insert M3xD5xL4    | 9      | Same as Voron BOM size                                                                         |                                                                        |
 | DU02    | FHCS M3x6                   | 1      |                                                                                                |                                                                        |
-| DU03    | FHCS M3x8                   | 2      |                                                                                                |                                                                        |
 | DU04    | SHCS M3x14                  | 1      |                                                                                                |                                                                        |
 | DU05    | SHCS M3x20                  | 3      |                                                                                                |                                                                        |
 | DU06    | SHCS M3x25                  | 1      |                                                                                                |                                                                        |
@@ -57,7 +56,7 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 
 | Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                  |
 |:-------:|:----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
-| SC01    | FHCS M3x8                   | 1      |                                                                                                |                                                                         |
+| SC01    | FHCS M3x8                   | 3      |                                                                                                |                                                                         |
 | SC02    | Bearing pin 3x12mm          | 1      | Same size as for drive unit geartrain                                                          | [BEARING PIN](https://www.aliexpress.com/item/33005238671.html)         |
 | SC03    | PTFE tube OD6mm ID4mm       | 2x20mm | Spool controller contact surfaces, recommended to get a continuous 5 meter lot for the project | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)     |
 
