@@ -34,7 +34,6 @@ This BOM is ReleaseCandidate1, item types are not expected to change, quantities
 | DU17    | Tube collet 4mm             | 1      | Drive unit filament input                                                                      |                                                                        |
 | DU18    | Tube collet 6mm             | 1      | Drive unit filament output                                                                     | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
 | DU19    | PTFE tube OD4mm ID2mm       | 80mm   | Filament input tube, recommended to get a continuous 1 meter lot for the project               |                                                                        |
-|         |                             |        |   |    |
 | DU21    | Stepper motor NEMA17 L=38mm | 1      | Optimal L=38(40)mm can be longer but affects wiring length and units sideways stacking fitment | [NEMA17](https://www.aliexpress.com/item/1005008459399126.html)        |
 | DU22    | Micro switch D2F            | 2      |                                                                                                | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
 | DU23    | Led SK6182 RGBW             | 1      |                                                                                                | [LED](https://www.aliexpress.com/item/1005001971988539.html)           |
