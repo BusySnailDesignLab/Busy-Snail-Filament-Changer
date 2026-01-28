@@ -1,9 +1,9 @@
-# Busy Snail Filament Changer (BSFC) BOM $${\color{red}//RC1-2026-01-28}$$</ins> 
+# Busy Snail Filament Changer (BSFC) BOM $${\color{red}//BOM-RC2-2026-01-28}$$</ins> 
 
 <br/>
 <br/>
 
-This BOM is ReleaseCandidate1, item types are not expected to change, quantities are not double checked yet
+This BOM is ReleaseCandidate2, item types are not expected to change, quantities are not double checked yet
 
 <br/>
 <br/>
