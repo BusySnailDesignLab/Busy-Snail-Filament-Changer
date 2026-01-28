@@ -9,7 +9,8 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 <br/>
 
 
-![bom_drive_unit_no_sc](https://github.com/user-attachments/assets/e9882b90-7607-48c9-8c97-83c92c1aca97)
+![bom_drive_unit_no_sc](https://github.com/user-attachments/assets/fa0533a1-9492-4816-a9d0-a7cb869a925f)
+
 
 
 ## DRIVE UNIT (4x for 4 spool changer)
