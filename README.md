@@ -15,7 +15,7 @@ A filament changer supporting 5kg spools that uses large extruder gears to relia
 Features that were targeted in the design process:
 
 - Support for larger than 1kg spools up to 5kg
-- Extruder and spool rewind function operated by the same stepper motor
+- Extruder and spool rewind function operated per spool unit by the same stepper motor
 - NEMA17 stepper motors for power and speed
 - Large extruder gears to maximize traction
 - As modular system as possible
