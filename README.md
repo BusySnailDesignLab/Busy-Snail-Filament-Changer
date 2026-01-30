@@ -17,7 +17,7 @@ Features that were targeted in the design process:
 - Support for larger than 1kg spools up to 5kg
 - Extruder and spool rewind function operated by the same stepper motor
 - NEMA17 stepper motors for power and speed
-- Large extruder gears
+- Large extruder gears to maximize traction
 - As modular system as possible
 - Possibility to use only 1 spool unit as a loader/unloader rather than a changer
 - ...
