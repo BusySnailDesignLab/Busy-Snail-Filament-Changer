@@ -20,7 +20,6 @@ Features that were targeted in the design process:
 - Large extruder gears to maximize traction
 - As modular system as possible
 - Possibility to use only 1 spool unit as a loader/unloader rather than a changer
-- ...
 
 <br/>
 
