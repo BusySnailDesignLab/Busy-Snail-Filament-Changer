@@ -1,4 +1,4 @@
-# Busy Snail Filament Changer (BSFC) BOM $${\color{red}//BOM-RC2-2026-01-28}$$</ins> 
+# Busy Snail Filament Changer (BSFC) BOM $${\color{red}//BOM-RC2-2026-02-03}$$</ins> 
 
 <br/>
 <br/>
@@ -138,9 +138,9 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 
 | Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                 |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| FR01    | Threaded rod M12            | 2      | Length depends on the changer and printer setups.                                               |                                                                        |
-| FR02    | Washer M12                  | 4      |                                                                                                |                                                                        |
-| FR03    | Nut M12                     | 4      |                                                                                                |                                                                        |
+| FR01    | Threaded rod M12            | 2      | M12x1.75 DIN975, length depends on the changer and printer setups.                             |                                                                        |
+| FR02    | Washer M12                  | 4      | M12x24x2.5 DIN125                                                                              |                                                                        |
+| FR03    | Nut M12                     | 4      | M12x1.75 DIN934                                                                                |                                                                        |
 | FR04    | PTFE tube OD6mm ID4mm       | ≈2.2m  | From drive units to hub, recommended to get continuous min. 3 meter lot for the project        | [PTFE TUBES](https://www.aliexpress.com/item/1005008385732729.html) OR [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html) |
 
 <br/>
