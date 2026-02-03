@@ -78,7 +78,7 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 |:-------:|:----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
 | RT01    | Heat set insert M3xD5xL4    | 3      | Same as Voron BOM size                                                                         |                                                                         |
 | RT02    | FHCS M3x8                   | 3      |                                                                                                |                                                                         |
-| RT03    | Bicycle inner tube          | 2x35mm | Optimal flat width ≈40-45mm to be streched on a 32mm diameter roller (Tip: flip inside out to hide molding seams)|                                                                         |
+| RT03    | Bicycle inner tube          | 2x35mm | Optimal flat width ≈40-45mm to be stretched on a 32mm diameter roller (Tip: flip inside out to hide molding seams)|                                                                         |
 
 <br/>
 <br/>
