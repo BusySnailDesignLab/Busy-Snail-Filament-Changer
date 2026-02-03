@@ -34,7 +34,7 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 | DU15    | Bearing pin 3x16mm          | 2      | Included in HGX-lite extruder part kits                                                        | [HGX-LITE KIT](https://www.aliexpress.com/item/1005008082439342.html)  |
 | DU16    | Tube collet 4mm             | 1      | Drive unit filament input                                                                      |                                                                        |
 | DU17    | Tube collet 6mm             | 1      | Drive unit filament output                                                                     | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
-| DU18    | PTFE tube OD4mm ID2mm       | 80mm   | Filament input tube, recommended to get a continuous 1 meter lot for the project               |                                                                        |
+| DU18    | PTFE tube OD4mm ID2mm       | 80mm   | Filament input tube, recommended to get a continuous 1 meter lot for the project               | [PTFE TUBES](https://www.aliexpress.com/item/1005008385732729.html)    |
 | DU19    | Stepper motor NEMA17 L=38mm | 1      | Optimal L=38(40)mm can be longer but affects wiring length and units sideways stacking fitment | [NEMA17](https://www.aliexpress.com/item/1005008459399126.html)        |
 | DU20    | Micro switch D2F            | 2      |                                                                                                | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
 | DU21    | Led SK6182 RGBW             | 1      |                                                                                                | [LED](https://www.aliexpress.com/item/1005001971988539.html)           |
@@ -61,7 +61,7 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 |:-------:|:----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
 | SC01    | FHCS M3x8                   | 3      |                                                                                                |                                                                         |
 | SC02    | Bearing pin 3x12mm          | 1      | Same size as for drive unit geartrain                                                          | [BEARING PIN](https://www.aliexpress.com/item/33005238671.html)         |
-| SC03    | PTFE tube OD6mm ID4mm       | 2x20mm | Spool controller contact surfaces, recommended to get a continuous 5 meter lot for the project | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)     |
+| SC03    | PTFE tube OD6mm ID4mm       | 2x20mm | Spool controller contact surfaces, recommended to get continuous min. 3 meter lot for the project | [PTFE TUBES](https://www.aliexpress.com/item/1005008385732729.html) OR [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html) |
 
 <br/>
 <br/>
@@ -100,7 +100,7 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 | HB05    | Spring D6xL20xWD0.4         | 1      | Tension spring for buffer slide (Total length with eyelets 6+8+6=20mm)                         | [TENSION SPRING](https://www.aliexpress.com/item/1005007596268334.html)        |
 | HB06    | Tube collet 4mm             | 1      | Buffer output                                                                                  |                                                                        |
 | HB07    | Tube collet 6mm             | 5      | Hub inputs and hub internal PTFE retainer                                                      | [TUBE COLLET 6mm](https://www.aliexpress.com/item/1005007086985966.html) |
-| HB08    | PTFE tube OD6mm ID4mm       | 55mm   | Buffer slide inner guide tube                                                                  | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
+| HB08    | PTFE tube OD6mm ID4mm       | 55mm   | Buffer slide inner guide tube, recommended to get continuous min. 3 meter lot for the project  | [PTFE TUBES](https://www.aliexpress.com/item/1005008385732729.html) OR [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html) |
 | HB09    | Ball bearing MR63zz         | 1      | Used as trigger for hub filament presence switch                                               | [BEARING MR63zz](https://www.aliexpress.com/item/1005006129544529.html) |
 | HB10    | Micro switch D2F            | 1      | Hub filament presence switch                                                                   | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
 | HB11    | Micro switch D2F-L          | 2      | Buffer compressed and expanded switches with lever                                             | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
@@ -141,7 +141,7 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 | FR01    | Threaded rod M12            | 2      | Length depends on the changer and printer setups.                                               |                                                                        |
 | FR02    | Washer M12                  | 4      |                                                                                                |                                                                        |
 | FR03    | Nut M12                     | 4      |                                                                                                |                                                                        |
-| FR04    | PTFE tube OD6mm ID4mm       | Some   | From drive units to hub, recommended to get a continuous 5 meter lot for the project           | [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html)    |
+| FR04    | PTFE tube OD6mm ID4mm       | ≈2.2m  | From drive units to hub, recommended to get continuous min. 3 meter lot for the project        | [PTFE TUBES](https://www.aliexpress.com/item/1005008385732729.html) OR [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html) |
 
 <br/>
 <br/>
