@@ -5,7 +5,7 @@
 
 This BOM is ReleaseCandidate2026-02-05, item types are not expected to change, quantities are not double checked yet
 <br/>
-For 4x1kg changer see .PDF for totals by item groups
+For 4x1kg spool units changer see .PDF for totals by item groups
 
 <br/>
 <br/>
