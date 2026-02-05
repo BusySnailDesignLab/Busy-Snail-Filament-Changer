@@ -43,7 +43,7 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 | DU24    | JST PH2.0 male pin          | 13     |                                                                                                | [JST PH2.0 MALE PIN](https://www.aliexpress.com/item/1005001831974253.html) |
 | DU25    | JST PH2.0 6-fm-pin housing  | 1      | Connector housing for 6 female pins, motor connector                                           | [JST PH2.0 HOUSING](https://www.aliexpress.com/item/1005003164558805.html) |
 | DU26    | JST PH2.0 female pin        | 4      |                                                                                                | [JST PH2.0 FEMALE PIN](https://www.aliexpress.com/item/4000684959147.html) |
-| DU27    | FEP wire UL1332 AWG26       | Some   | OD max 1.1mm to fit wire bundles to channels in 3d printed parts at some tight places          | [UL1332 FEP WIRE](https://www.aliexpress.com/item/1005001980629942.html) |
+| DU27    | FEP wire UL1332 AWG26       | ≈2m    | OD max 1.1mm to fit wire bundles to channels in 3d printed parts at some tight places          | [UL1332 FEP WIRE](https://www.aliexpress.com/item/1005001980629942.html) |
 | DU28    | Cable ties, small           | 4      | 1.8mm tie width, 3.5mm eye width                                                               | [SMALL CABLE TIE](https://www.aliexpress.com/item/32405034226.html)      |
 
 <br/>
@@ -106,7 +106,7 @@ This BOM is ReleaseCandidate2, item types are not expected to change, quantities
 | HB11    | Micro switch D2F-L          | 2      | Buffer compressed and expanded switches with lever                                             | [MICRO SWITCH](https://www.aliexpress.com/item/1005007068972436.html)  |
 | HB12    | JST PH2.0 4-m-pin housing   | 1      | Connector housing for male pins                                                                | [JST PH2.0 HOUSING](https://www.aliexpress.com/item/4000769860242.html) |
 | HB13    | JST PH2.0 male pin          | 4      |                                                                                                | [JST PH2.0 MALE PIN](https://www.aliexpress.com/item/1005001831974253.html) |
-| HB14    | FEP wire UL1332 AWG26       | Some   | OD max 1.1mm to fit wire bundles to channels in 3d printed parts at some tight places          | [UL1332 FEP WIRE](https://www.aliexpress.com/item/1005001980629942.html) |
+| HB14    | FEP wire UL1332 AWG26       | ≈0.4m  | OD max 1.1mm to fit wire bundles to channels in 3d printed parts at some tight places          | [UL1332 FEP WIRE](https://www.aliexpress.com/item/1005001980629942.html) |
 
 <br/>
 <br/>
