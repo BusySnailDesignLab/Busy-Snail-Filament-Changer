@@ -1,9 +1,11 @@
-# Busy Snail Filament Changer (BSFC) BOM $${\color{red}//BOM-RC2-2026-02-03}$$</ins> 
+# Busy Snail Filament Changer (BSFC) BOM $${\color{red}//BOM-RC2026-02-05}$$</ins> 
 
 <br/>
 <br/>
 
-This BOM is ReleaseCandidate2, item types are not expected to change, quantities are not double checked yet
+This BOM is ReleaseCandidate2026-02-05, item types are not expected to change, quantities are not double checked yet
+<br/>
+For 4x1kg changer see .PDF for totals by item groups
 
 <br/>
 <br/>
