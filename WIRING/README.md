@@ -10,6 +10,6 @@ WIP/TODO:
 <br/>
 
 
-![bsfc_wiring](https://github.com/user-attachments/assets/776b67f2-c139-4f67-8e35-457fb7186b79)
+![bsfc_wiring](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring.jpg)
 
 
