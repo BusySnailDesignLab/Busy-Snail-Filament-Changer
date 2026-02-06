@@ -24,4 +24,11 @@ Features that were targeted in the design process:
 <br/>
 
 ## Building instructions and guides
-Coming SOON(TM)
+
+<br/>
+
+### Rewind clutch gear
+
+<br/>
+
+
