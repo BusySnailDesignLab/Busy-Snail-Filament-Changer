@@ -27,9 +27,7 @@ Features that were targeted in the design process:
 
 <br/>
 
-### Rewind clutch gear
-
-<br/>
+### Rewind clutch
 
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_cut.jpg)
 
