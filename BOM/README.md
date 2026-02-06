@@ -119,7 +119,7 @@ For a 4x1kg spool units changer totals by item groups see .PDF
 
 ![bom_controller_box](https://github.com/user-attachments/assets/009ac715-7d9e-4680-9c19-4078df61d912)
 
-## CONTROLLER BOX
+## CONTROL BOARD BOX
 
 | Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                 |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
@@ -127,7 +127,7 @@ For a 4x1kg spool units changer totals by item groups see .PDF
 | CB02    | SHCS M3x6                   | 6      |                                                                                                |                                                                        |
 | CB03    | SHCS M3x20                  | 4      |                                                                                                |                                                                        |
 | CB04    | Self tapping screw M2x5     | 2      | Or cut longer screw to 5mm (<6mm) thread length, longer interferes the controller board        |                                                                        |
-| CB05    | Controller board            | 1      | For 4 spool units changer: a board with 4 stepper drivers, minimum 11 switch inputs and rgb    | BTT MMB V1 discontinued OR [BTT MMB V2](https://biqu.equipment/products/bigtreetech-mmb?srsltid=AfmBOoojqLfSVezwYhXBKbgZrX7MZ3LSgAp-71kjfpFg5umGPZRVq2R6)               |
+| CB05    | Control board               | 1      | For 4 spool units changer: a board with 4 stepper drivers, minimum 11 switch inputs and rgb    | BTT MMB V1 discontinued OR [BTT MMB V2](https://biqu.equipment/products/bigtreetech-mmb?srsltid=AfmBOoojqLfSVezwYhXBKbgZrX7MZ3LSgAp-71kjfpFg5umGPZRVq2R6)               |
 
 <br/>
 <br/>
