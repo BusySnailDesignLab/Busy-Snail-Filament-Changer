@@ -43,7 +43,7 @@ Features that were targeted in the design process:
 
 <br/>
 
-### Controller board box
+### Control board box
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_controller_box_expl_f.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_controller_box_expl_b.jpg)
