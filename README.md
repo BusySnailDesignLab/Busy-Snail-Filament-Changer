@@ -39,7 +39,7 @@ This technical details section with illustrations also currently serves as a BSF
 Rewind clutch is closely related to the traditional freecoaster rear hub of a BMX bicycle. <br/>
 When the stepper motor rotates in the filament feed/extrude direction, the clutch is disengaged and clutch gear freewheels and spool roller also rotates freely.
 In the rewind/retract direction, the clutch is engaged and the spool is rewound. <br/> <br/>
-Spring-loaded conical interfaces friction must be greater than the sparse thread’s friction of the engager component.
+Spring-loaded conical interface's friction must be greater than the sparse thread’s friction of the engager component.
 It is not beneficial for the spring to be adjusted too tight, but too loose an adjustment will prevent the clutch from operating.
 For the clutch to function properly, a small amount of silicone grease must be applied to its internal contact surfaces.
 
