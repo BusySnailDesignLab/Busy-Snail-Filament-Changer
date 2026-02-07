@@ -56,7 +56,7 @@ Fuller spool has then higher peripheral velocity than emptier spool and some sli
 When spool tries to have higher peripheral velocity than rewinded filament from extruder allows it climbs to the spool controller and slips a bit (does this micro jumping constantly).
 <br/> <br/>
 Spool controller height is adjusted by rotating the thumbwheel and it stays in position due to worm geared construction.<br/>
-If spool controller is too low/ touching the spool it slips too much and doesn’t rewind properly.
+If spool controller is too low/ touching the spool it slips too much and doesn’t rewind properly.<br/>
 If spool controller is too high/ far away jumping gets aggressive.<br/>
 The optimal gap has a fairly large tolerance though to rewinding function properly.
 
