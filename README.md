@@ -31,14 +31,20 @@ Features that were targeted in the design process:
 
 
 ## Technical details
+This technical details section with illustrations also currently serves as a BSFC building manual.
 
 <br/>
 
 ### Rewind clutch
+Rewind clutch is closely related to the traditional freecoaster rear hub of a BMX bicycle.
+When the stepper motor rotates in the filament feed/extrude direction, the clutch is disengaged and clutch gear freewheels and spool roller also rotates freely.
+In the rewind/retract direction, the clutch is engaged and the spool is rewound.
+Spring-loaded conical interfaces friction must be greater than the sparse thread’s friction of the engager component.
+It is not beneficial for the spring to be adjusted too tight, but too loose an adjustment will prevent the clutch from operating.
+For the clutch to function properly, a small amount of silicone grease must be applied to its internal contact surfaces.
 
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_cut.jpg)
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_expl.jpg)
-
 
 <br/>
 
