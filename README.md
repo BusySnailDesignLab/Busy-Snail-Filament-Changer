@@ -23,7 +23,14 @@ Features that were targeted in the design process:
 
 <br/>
 
-## Building instructions and guides
+
+
+
+
+
+
+
+## Technical details
 
 <br/>
 
