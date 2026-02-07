@@ -33,8 +33,6 @@ Features that were targeted in the design process:
 ## Technical details
 This technical details section with illustrations also currently serves as a BSFC building manual.
 
-<br/>
-
 ### Rewind clutch
 Rewind clutch is closely related to the traditional freecoaster rear hub of a BMX bicycle. <br/>
 When the stepper motor rotates in the filament feed/extrude direction, the clutch is disengaged and clutch gear freewheels and spool roller also rotates freely.
