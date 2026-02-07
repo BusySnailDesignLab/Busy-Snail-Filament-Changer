@@ -36,7 +36,8 @@ This technical details section with illustrations also currently serves as a BSF
 ### Rewind clutch
 Rewind clutch is closely related to the traditional freecoaster rear hub of a BMX bicycle. <br/>
 When the stepper motor rotates in the filament feed/extrude direction, the clutch is disengaged and clutch gear freewheels and spool roller also rotates freely.
-In the rewind/retract direction, the clutch is engaged and the spool is rewound. <br/> <br/>
+In the rewind/retract direction, the clutch is engaged and the spool is rewound. 
+<br/> <br/>
 Spring-loaded conical interface's friction must be greater than the sparse thread’s friction of the engager component.
 It is not beneficial for the spring to be adjusted too tight, but too loose an adjustment will prevent the clutch from operating. <br/>
 For the clutch to function properly, a small amount of silicone grease must be applied to its internal contact surfaces.
@@ -47,6 +48,13 @@ For the clutch to function properly, a small amount of silicone grease must be a
 <br/>
 
 ### Spool controller
+Since the extruder and rewind gear train have a fixed gear ratio, it has to be optimized for almost empty spools to achieve acceptable rewind tightness (angular vs. peripheral velocities).
+Fuller spool has then higher peripheral velocity than emptier spool and some slipping must exist between the roller and the spool.
+When spool tries to have higher peripheral velocity than rewinded filament from extruder allows it climbs to the spool controller and slips a bit (does this micro jumping constantly).
+<br/> <br/>
+If spool controller is too low/ touching the spool it slips too much and doesn’t rewind properly.
+If spool controller is too high/ far away jumping gets aggressive.
+The optimal gap has a fairly large tolerance though to rewinding function properly.
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_cut.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_expl.jpg)
