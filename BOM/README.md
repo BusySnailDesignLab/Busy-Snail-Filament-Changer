@@ -10,7 +10,6 @@ For a 4x1kg spool units changer totals by item groups see .PDF
 <br/>
 <br/>
 
-
 ![bom_drive_unit_no_sc](https://github.com/user-attachments/assets/fa0533a1-9492-4816-a9d0-a7cb869a925f)
 
 
