@@ -2,8 +2,6 @@
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/BSFC_spool_unit_animcut.gif)
 
-<br/>
-
 ## From proto to closed beta
 Prototyping has been done and everything is working nice. It's time to move to closed beta testing to ensure that STLs, BOM and wiring are all spot on before the public release.
 <br/><br/>
@@ -24,13 +22,6 @@ Features that were targeted in the design process:
 - Possibility to use only 1 spool unit as a loader/unloader rather than a changer
 
 <br/>
-
-
-
-
-
-
-
 
 ## Technical details
 This technical details section with illustrations also currently serves as a BSFC building manual.
