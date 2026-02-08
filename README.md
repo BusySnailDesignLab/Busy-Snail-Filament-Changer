@@ -1,5 +1,7 @@
 # Busy Snail Filament Changer (BSFC)
 
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/BSFC_spool_unit_animcut.gif)
+
 <br/>
 
 ## From proto to closed beta
