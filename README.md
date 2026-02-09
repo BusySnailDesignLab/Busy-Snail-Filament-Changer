@@ -25,9 +25,9 @@ Features that were targeted in the design process:
 
 ## Technical details
 
-[-Rewind clutch-](#rewind-clutch)
-[-Spool controller-](#spool-controller)
-[-Drive unit-](#drive-unit)
+[_Rewind clutch_](#rewind-clutch)
+[Spool controller](#spool-controller)
+[Drive unit](#drive-unit)
 [Roller tray](#roller-tray)
 [Hub buffer](#hub-buffer)
 [Control board box](#control-board-box)
