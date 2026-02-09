@@ -25,11 +25,11 @@ Features that were targeted in the design process:
 
 ## Technical details
 
-[Rewind clutch,](#rewind-clutch)
-[Spool controller,](#spool-controller)
-[Drive unit,](#drive-unit)
-[Roller tray,](#roller-tray)
-[Hub buffer,](#hub-buffer)
+[Rewind clutch](#rewind-clutch)
+[Spool controller](#spool-controller)
+[Drive unit](#drive-unit)
+[Roller tray](#roller-tray)
+[Hub-buffer](#hub-buffer)
 [Control board box](#control-board-box)
 
 <br/>
@@ -104,7 +104,7 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 <br/>
 <br/>
 
-### Hub buffer
+### Hub-buffer
 [Back to Technical details](#technical-details) <br/>
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_cut.jpg)
