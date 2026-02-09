@@ -26,7 +26,7 @@ Features that were targeted in the design process:
 ## Technical details
 This technical details section with illustrations also currently serves as a BSFC building manual.
 
-[Spool controller](#spoool-controller)
+[Spool controller](###spoool-controller)
 
 <br/>
 <br/>
