@@ -39,7 +39,7 @@ This technical details section with illustrations also currently serves as a BSF
 <br/>
 
 ### Rewind clutch
-[Back to Technical details](#technical-details) <br/>
+[To section top](#technical-details) <br/>
 
 Rewind clutch is closely related to the traditional freecoaster rear hub of a BMX bicycle. <br/>
 When the stepper motor rotates in the filament feed/extrude direction, the clutch is disengaged and clutch gear freewheels and spool roller also rotates freely.
@@ -59,7 +59,7 @@ For the clutch to function properly, a small amount of silicone grease must be a
 <br/>
 
 ### Spool controller
-[Back to Technical details](#technical-details) <br/>
+[To section top](#technical-details) <br/>
 
 Since the extruder and rewind gear train have a fixed gear ratio, it has to be optimized for almost empty spools to achieve acceptable rewind tightness (angular vs. peripheral velocities).
 Fuller spool has then higher peripheral velocity than emptier spool and some slipping must exist between the roller and the spool.
@@ -80,7 +80,7 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 <br/>
 
 ### Drive unit
-[Back to Technical details](#technical-details) <br/>
+[To section top](#technical-details) <br/>
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_expl_1.jpg)
 
@@ -91,7 +91,7 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 <br/>
 
 ### Roller tray
-[Back to Technical details](#technical-details) <br/>
+[To section top](#technical-details) <br/>
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_roller_tray_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_roller_tray_expl_2.jpg)
@@ -103,7 +103,7 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 <br/>
 
 ### Hub-buffer
-[Back to Technical details](#technical-details) <br/>
+[To section top](#technical-details) <br/>
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_cut.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_1.jpg)
@@ -118,7 +118,7 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 <br/>
 
 ### Control board box
-[Back to Technical details](#technical-details) <br/>
+[To section top](#technical-details) <br/>
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_2.jpg)
