@@ -30,7 +30,7 @@ This technical details section with illustrations also currently serves as a BSF
 [Spool controller](#spool-controller)
 [Drive unit](#drive-unit)
 [Roller tray](#roller-tray)
-[Hub/buffer](#hub-buffer)
+[Hub buffer](#hub-buffer)
 [Control board box](#control-board-box)
 
 
@@ -94,7 +94,7 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 <br/>
 <br/>
 
-### Hub/buffer
+### Hub buffer
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_cut.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_2.jpg)
