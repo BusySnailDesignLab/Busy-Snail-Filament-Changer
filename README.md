@@ -5,7 +5,7 @@
 ## From proto to closed beta
 Prototyping has been done and everything is working nice. It's time to move to closed beta testing to ensure that STLs, BOM and wiring are all spot on before the public release.
 <br/><br/>
-Welcome to the Busy Snail Filament Changer private closed beta repository! ***By downloading files from here, you agree to not share them anywhere.*** Since minor changes are still possible, we don't want pre-release files floating around the internet.
+Welcome to the Busy Snail Filament Changer private closed beta repository! <ins> ***By downloading files from here, you agree to not share them anywhere.*** </ins> Since minor changes are still possible, we don't want pre-release files floating around the internet.
 
 <br/>
 
