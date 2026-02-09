@@ -26,6 +26,10 @@ Features that were targeted in the design process:
 ## Technical details
 This technical details section with illustrations also currently serves as a BSFC building manual.
 
+
+
+<br/>
+<br/>
 <br/>
 
 ### Rewind clutch
@@ -40,6 +44,9 @@ For the clutch to function properly, a small amount of silicone grease must be a
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_cut.jpg)
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_expl.jpg)
 
+
+
+<br/>
 <br/>
 <br/>
 
@@ -57,28 +64,31 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_expl.jpg)
 
 
+
+<br/>
 <br/>
 <br/>
 
 ### Drive unit
-
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_expl_1.jpg)
 
 
+
+<br/>
 <br/>
 <br/>
 
 ### Roller tray
-
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_roller_tray_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_roller_tray_expl_2.jpg)
 
 
+
+<br/>
 <br/>
 <br/>
 
 ### Hub/buffer
-
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_cut.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_2.jpg)
@@ -86,10 +96,11 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_4.jpg)
 
 
+
+<br/>
 <br/>
 <br/>
 
 ### Control board box
-
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_2.jpg)
