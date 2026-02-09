@@ -32,8 +32,6 @@ Features that were targeted in the design process:
 [Hub-buffer](#hub-buffer)
 [Control board box](#control-board-box)
 
-<br/>
-
 This technical details section with illustrations also currently serves as a BSFC building manual.
 
 <br/>
