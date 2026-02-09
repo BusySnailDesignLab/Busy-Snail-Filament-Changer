@@ -57,6 +57,7 @@ For the clutch to function properly, a small amount of silicone grease must be a
 <br/>
 
 ### Spool controller
+[UP](#technical-details)
 Since the extruder and rewind gear train have a fixed gear ratio, it has to be optimized for almost empty spools to achieve acceptable rewind tightness (angular vs. peripheral velocities).
 Fuller spool has then higher peripheral velocity than emptier spool and some slipping must exist between the roller and the spool.
 When spool tries to have higher peripheral velocity than rewinded filament from extruder allows it climbs to the spool controller and slips a bit (does this micro jumping constantly).
