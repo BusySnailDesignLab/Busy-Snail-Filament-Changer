@@ -100,11 +100,16 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 
 
 
-### Roller tray
+<details>
+<summary>Roller tray</summary>
+<!-- ### Roller tray
 [To section top](#technical-details) <br/>
-
+ -->
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_roller_tray_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_roller_tray_expl_2.jpg)
+
+</details>
+
 
 
 
