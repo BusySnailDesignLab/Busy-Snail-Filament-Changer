@@ -100,7 +100,6 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 <!-- ### Drive unit
 [To section top](#technical-details) <br/>
  -->
- <br/><br/>
  
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_block_motor_expl_1.jpg)
