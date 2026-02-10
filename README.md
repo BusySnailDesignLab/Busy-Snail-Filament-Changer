@@ -58,6 +58,9 @@ For the clutch to function properly, a small amount of silicone grease must be a
 <br/>
 <br/>
 
+<details>
+<summary>Spool controller </summary>
+  
 ### Spool controller
 [To section top](#technical-details) <br/>
 
@@ -73,7 +76,7 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_cut.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_expl.jpg)
 
-
+</details>
 
 <br/>
 <br/>
