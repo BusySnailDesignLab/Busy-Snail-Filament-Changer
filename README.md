@@ -41,11 +41,10 @@ This section with illustrations currently serves also as a BSFC building manual.
 
 <details>
 <summary>Rewind clutch</summary>
-  
 <!-- ### Rewind clutch
 [To section top](#technical-details) <br/>
  -->
-
+<br/>
 Rewind clutch is closely related to the traditional freecoaster rear hub of a BMX bicycle. <br/>
 When the stepper motor rotates in the filament feed/extrude direction, the clutch is disengaged and clutch gear freewheels and spool roller also rotates freely.
 In the rewind/retract direction, the clutch is engaged and the spool is rewound. 
@@ -64,11 +63,10 @@ For the clutch to function properly, a small amount of silicone grease must be a
 
 <details>
 <summary>Spool controller</summary>
-  
 <!--  ### Spool controller
 [To section top](#technical-details) <br/>
  -->
-
+<br/>
 Since the extruder and rewind gear train have a fixed gear ratio, it has to be optimized for almost empty spools to achieve acceptable rewind tightness (angular vs. peripheral velocities).
 Fuller spool has then higher peripheral velocity than emptier spool and some slipping must exist between the roller and the spool.
 When spool tries to have higher peripheral velocity than rewinded filament from extruder allows it climbs to the spool controller and slips a bit (does this micro jumping constantly).
