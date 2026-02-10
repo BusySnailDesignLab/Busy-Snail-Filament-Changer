@@ -49,7 +49,7 @@ This section with illustrations currently serves also as a BSFC building manual.
 
 
 <details>
-<summary>  Rewind clutch</summary>
+<summary>Rewind clutch</summary>
 <!-- ### Rewind clutch
 [To section top](#technical-details) <br/>
  -->
@@ -72,7 +72,7 @@ For the clutch to function properly, a small amount of silicone grease must be a
 
 
 <details>
-<summary> Spool controller</summary>
+<summary>Spool controller</summary>
 <!-- ### Spool controller
 [To section top](#technical-details) <br/>
  -->
