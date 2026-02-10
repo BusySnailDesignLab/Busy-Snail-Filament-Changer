@@ -38,6 +38,9 @@ This section with illustrations currently serves also as a BSFC building manual.
 <br/>
 <br/>
 
+<details>
+<summary>Rewind clutch</summary>
+  
 ### Rewind clutch
 [To section top](#technical-details) <br/>
 
@@ -52,14 +55,14 @@ For the clutch to function properly, a small amount of silicone grease must be a
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_cut.jpg)
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_expl.jpg)
 
-
+</details>
 
 <br/>
 <br/>
 <br/>
 
 <details>
-<summary>Spool controller </summary>
+<summary>Spool controller</summary>
   
 ### Spool controller
 [To section top](#technical-details) <br/>
