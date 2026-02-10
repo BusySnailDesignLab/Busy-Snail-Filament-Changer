@@ -25,24 +25,26 @@ Features that were targeted in the design process:
 
 ## Technical details
 
+<!-- 
 [Rewind clutch](#rewind-clutch) -
 [Spool controller](#spool-controller) -
 [Drive unit](#drive-unit) -
 [Roller tray](#roller-tray) -
 [Hub-buffer](#hub-buffer) -
 [Control board box](#control-board-box)
-
+ -->
+ 
 This section with illustrations currently serves also as a BSFC building manual.
 
-<br/>
-<br/>
-<br/>
+
+
 
 <details>
-### <summary>Rewind clutch</summary>
+<summary>Rewind clutch</summary>
   
-### Rewind clutch
+<!-- ### Rewind clutch
 [To section top](#technical-details) <br/>
+ -->
 
 Rewind clutch is closely related to the traditional freecoaster rear hub of a BMX bicycle. <br/>
 When the stepper motor rotates in the filament feed/extrude direction, the clutch is disengaged and clutch gear freewheels and spool roller also rotates freely.
@@ -57,15 +59,15 @@ For the clutch to function properly, a small amount of silicone grease must be a
 
 </details>
 
-<br/>
-<br/>
-<br/>
+
+
 
 <details>
 <summary>Spool controller</summary>
   
-### Spool controller
+<!--  ### Spool controller
 [To section top](#technical-details) <br/>
+ -->
 
 Since the extruder and rewind gear train have a fixed gear ratio, it has to be optimized for almost empty spools to achieve acceptable rewind tightness (angular vs. peripheral velocities).
 Fuller spool has then higher peripheral velocity than emptier spool and some slipping must exist between the roller and the spool.
@@ -80,6 +82,8 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_expl.jpg)
 
 </details>
+
+
 
 <br/>
 <br/>
