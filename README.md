@@ -69,10 +69,9 @@ Since the extruder and rewind gear train have a fixed gear ratio, it has to be o
 Fuller spool has then higher peripheral velocity than emptier spool and some slipping must exist between the roller and the spool.
 When spool tries to have higher peripheral velocity than rewinded filament from extruder allows it climbs to the spool controller and slips a bit (does this micro jumping constantly).
 <br/> <br/>
-Spool controller height is adjusted by rotating the thumbwheel and it stays in position due to worm geared construction.<br/>
-If spool controller is too low/ touching the spool it slips too much and doesn’t rewind properly. 
-If spool controller is too high/ far away jumping gets aggressive.<br/>
-The optimal gap has a fairly large tolerance though to rewinding function properly.
+Spool controller height is adjusted by rotating the thumbwheel and it stays in position due to worm geared construction.
+If spool controller is too low/ touching the spool it slips too much and doesn’t rewind properly.
+If spool controller is too high/ far away jumping gets aggressive. The optimal gap has a fairly large tolerance though to rewinding function properly.
 <br/><br/>
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_cut.jpg)
