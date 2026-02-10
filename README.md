@@ -52,7 +52,7 @@ In the rewind/retract direction, the clutch is engaged and the spool is rewound.
 Spring-loaded conical interface's friction must be greater than the sparse thread’s friction of the engager component.
 It is not beneficial for the spring to be adjusted too tight, but too loose an adjustment will prevent the clutch from operating. <br/>
 For the clutch to function properly, a small amount of silicone grease must be applied to its internal contact surfaces.
-
+<br/>
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_cut.jpg)
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_expl.jpg)
 
@@ -63,7 +63,7 @@ For the clutch to function properly, a small amount of silicone grease must be a
 
 <details>
 <summary>Spool controller</summary>
-<!--  ### Spool controller
+<!-- ### Spool controller
 [To section top](#technical-details) <br/>
  -->
 <br/>
@@ -83,25 +83,22 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 
 
 
-<br/>
-<br/>
-<br/>
 
-### Drive unit
+<details>
+<summary>Drive unit</summary>
+<!-- ### Drive unit
 [To section top](#technical-details) <br/>
-
+ -->
+ 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_block_motor_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_block_motor_expl_2.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_block_motor_expl_3.jpg)
 
+</details>
 
 
 
-
-<br/>
-<br/>
-<br/>
 
 ### Roller tray
 [To section top](#technical-details) <br/>
@@ -111,27 +108,28 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 
 
 
-<br/>
-<br/>
-<br/>
-
-### Hub-buffer
+<details>
+<summary>Hub-buffer</summary>
+<!-- ### Hub-buffer
 [To section top](#technical-details) <br/>
-
+ -->
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_cut.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_2.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_3.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_4.jpg)
 
+</details>
 
 
-<br/>
-<br/>
-<br/>
 
-### Control board box
+
+<details>
+<summary>Control board box</summary>
+<!-- ### Control board box
 [To section top](#technical-details) <br/>
-
+ -->
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_2.jpg)
+
+</details>
