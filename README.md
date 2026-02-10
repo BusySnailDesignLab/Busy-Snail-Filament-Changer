@@ -61,7 +61,7 @@ In the rewind/retract direction, the clutch is engaged and the spool is rewound.
 Spring-loaded conical interface's friction must be greater than the sparse thread’s friction of the engager component.
 It is not beneficial for the spring to be adjusted too tight, but too loose an adjustment will prevent the clutch from operating. <br/>
 For the clutch to function properly, a small amount of silicone grease must be applied to its internal contact surfaces.
-<br/>
+<br/><br/>
  
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_cut.jpg)
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_expl.jpg)
@@ -85,6 +85,7 @@ Spool controller height is adjusted by rotating the thumbwheel and it stays in p
 If spool controller is too low/ touching the spool it slips too much and doesn’t rewind properly.<br/>
 If spool controller is too high/ far away jumping gets aggressive.<br/>
 The optimal gap has a fairly large tolerance though to rewinding function properly.
+<br/><br/>
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_cut.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_expl.jpg)
@@ -99,6 +100,7 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 <!-- ### Drive unit
 [To section top](#technical-details) <br/>
  -->
+ <br/><br/>
  
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_block_motor_expl_1.jpg)
