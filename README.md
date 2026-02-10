@@ -2,12 +2,8 @@
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/BSFC_spool_unit_animcut.gif)
 
-## From proto to closed beta
-Prototyping has been done and everything is working nice. It's time to move to closed beta testing to ensure that STLs, BOM and wiring are all spot on before the public release.
-<br/><br/>
-Welcome to the Busy Snail Filament Changer private closed beta repository! <ins>***By downloading files from here, you agree to not share them anywhere.***</ins> Since minor changes are still possible, we don't want pre-release files floating around the internet.
 
-<br/>
+
 
 ## One more filament changer design?
 A filament changer supporting 5kg spools that uses large extruder gears to reliably pull filament from heavy spools didn't exist when starting the project (or at least couldn't find an open source one).
@@ -22,6 +18,19 @@ Features that were targeted in the design process:
 - Possibility to use only 1 spool unit as a loader/unloader rather than a changer
 
 <br/>
+
+
+
+
+## From proto to closed beta
+Prototyping has been done and everything is working nice. It's time to move to closed beta testing to ensure that STLs, BOM and wiring are all spot on before the public release.
+<br/><br/>
+Welcome to the Busy Snail Filament Changer private closed beta repository! <ins>***By downloading files from here, you agree to not share them anywhere.***</ins> Since minor changes are still possible, we don't want pre-release files floating around the internet.
+
+<br/>
+
+
+
 
 ## Technical details
 
