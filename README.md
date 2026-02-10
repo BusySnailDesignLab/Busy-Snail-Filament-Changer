@@ -142,4 +142,4 @@ Extruder section
 
 ## Software configuration
 
-Work in progress.
+Coming SOON(TM).
