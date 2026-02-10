@@ -17,8 +17,6 @@ Features that were targeted in the design process:
 - As modular system as possible
 - Possibility to use only 1 spool unit as a loader/unloader rather than a changer
 
-<br/>
-
 
 
 
@@ -27,8 +25,6 @@ Prototyping has been done and everything is working nice. It's time to move to c
 <br/><br/>
 Welcome to the Busy Snail Filament Changer private closed beta repository! <br/>
 <ins>***By downloading files from here, you agree to not share them anywhere.***</ins> Since minor changes are still possible, we don't want pre-release files floating around the internet.
-
-<br/>
 
 
 
