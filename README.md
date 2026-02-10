@@ -49,7 +49,7 @@ This section with illustrations currently serves also as a BSFC building manual.
 
 
 <details>
-<summary> Rewind clutch</summary>
+<summary>  Rewind clutch</summary>
 <!-- ### Rewind clutch
 [To section top](#technical-details) <br/>
  -->
