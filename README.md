@@ -20,6 +20,7 @@ Features that were targeted in the design process:
 
 
 
+<br/>
 ## From proto to closed beta
 Prototyping has been done and everything is working nice. It's time to move to closed beta testing to ensure that STLs, BOM and wiring are all spot on before the public release.
 <br/><br/>
@@ -29,6 +30,7 @@ Welcome to the Busy Snail Filament Changer private closed beta repository! <br/>
 
 
 
+<br/>
 ## Technical details
 
 <!-- 
