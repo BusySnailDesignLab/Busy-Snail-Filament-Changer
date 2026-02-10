@@ -128,3 +128,11 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_2.jpg)
 
 </details>
+
+
+
+<br/>
+
+## Software configuration
+
+Work in progress.
