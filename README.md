@@ -27,9 +27,9 @@ Features that were targeted in the design process:
 
 [Rewind clutch](#rewind-clutch) -
 [Spool controller](#spool-controller) -
-[Drive unit](#drive-unit)
-[Roller tray](#roller-tray)
-[Hub-buffer](#hub-buffer)
+[Drive unit](#drive-unit) -
+[Roller tray](#roller-tray) -
+[Hub-buffer](#hub-buffer) -
 [Control board box](#control-board-box)
 
 This section with illustrations currently serves also as a BSFC building manual.
