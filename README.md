@@ -53,6 +53,7 @@ Spring-loaded conical interface's friction must be greater than the sparse threa
 It is not beneficial for the spring to be adjusted too tight, but too loose an adjustment will prevent the clutch from operating. <br/>
 For the clutch to function properly, a small amount of silicone grease must be applied to its internal contact surfaces.
 <br/>
+ 
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_cut.jpg)
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_expl.jpg)
 
@@ -105,6 +106,7 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 <!-- ### Roller tray
 [To section top](#technical-details) <br/>
  -->
+ 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_roller_tray_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_roller_tray_expl_2.jpg)
 
@@ -118,6 +120,7 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 <!-- ### Hub-buffer
 [To section top](#technical-details) <br/>
  -->
+ 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_cut.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_2.jpg)
@@ -134,6 +137,7 @@ The optimal gap has a fairly large tolerance though to rewinding function proper
 <!-- ### Control board box
 [To section top](#technical-details) <br/>
  -->
+ 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_2.jpg)
 
