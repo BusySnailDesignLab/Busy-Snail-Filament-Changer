@@ -33,7 +33,7 @@ Welcome to the Busy Snail Filament Changer private closed beta repository! <br/>
 
 <br/>
 
-## Technical details
+## Build and technical details
 
 This section with illustrations currently serves also as a BSFC building manual.
 
@@ -136,7 +136,7 @@ Extruder section
 
 </details>
 
-
+![Youtube-playlist](https://www.youtube.com/playlist?list=PLjJb97KCYTC9PMECO4NPdOToGcQD9c51B) of BSFC tutorial videos.
 
 <br/>
 
