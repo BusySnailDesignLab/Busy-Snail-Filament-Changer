@@ -138,6 +138,8 @@ Extruder section
 
 [YouTube-playlist](https://www.youtube.com/playlist?list=PLjJb97KCYTC9PMECO4NPdOToGcQD9c51B) of BSFC tutorial videos.
 
+<a href="http://website.com" target="_blank">This link will open in new window/tab</a>
+
 <br/>
 
 ## Software configuration
