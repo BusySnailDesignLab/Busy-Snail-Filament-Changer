@@ -136,7 +136,7 @@ Extruder section
 
 </details>
 
-[YouTube-playlist](https://www.youtube.com/playlist?list=PLjJb97KCYTC9PMECO4NPdOToGcQD9c51B) of BSFC tutorial videos.
+[YouTube playlist](https://www.youtube.com/playlist?list=PLjJb97KCYTC9PMECO4NPdOToGcQD9c51B) of BSFC tutorial videos.
 
 <br/>
 
