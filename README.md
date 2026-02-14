@@ -142,5 +142,8 @@ Extruder section
 
 ## Software configuration
 
-Work in progress... <br/>
-BSFC prototyping was done using Armored Turtle teams [AFC-Klipper-Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On), and using it's [documentation](https://www.armoredturtle.xyz/docs/afc-klipper-add-on/index.html) setting things up.
+Work in progress... <br/><br/>
+BSFC prototyping was done using Armored Turtle teams [AFC-Klipper-Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On), and using it's [documentation](https://www.armoredturtle.xyz/docs/afc-klipper-add-on/index.html) to set things up. <br/><br/>
+
+Compatibility with Happy Hare has not yet been tested.
+
