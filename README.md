@@ -6,7 +6,7 @@
 
 
 ## One more filament changer design?
-A filament changer supporting 5kg spools that uses large extruder gears to reliably pull filament from heavy spools didn't exist when starting the project (or at least couldn't find an open source one).
+A filament changer supporting 5kg spools that uses large extruder gears to reliably pull filament from heavy spools didn't seem to exist when starting the project (or at least couldn't find an open source one).
 
 Features that were targeted in the design process:
 
@@ -142,6 +142,6 @@ Extruder section
 
 ## Software configuration
 
-Work in progress... <br/>
+Work in progress. <br/>
 BSFC prototyping was done using [AFC-Klipper-Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On), and using it's [documentation](https://www.armoredturtle.xyz/docs/afc-klipper-add-on/index.html) to set things up. Compatibility with [Happy-Hare](https://github.com/moggieuk/Happy-Hare) has not yet been tested.
 
