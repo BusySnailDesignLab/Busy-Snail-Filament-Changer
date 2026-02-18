@@ -15,7 +15,7 @@ Features that were targeted in the design process:
 - NEMA17 stepper motors for power and speed
 - Large extruder gears to maximize traction
 - As modular system as possible
-- Possibility to use only 1 spool unit as a loader/unloader rather than a changer
+- Possibility to use only 1 spool unit as a loader/unloader/assisting extruder rather than a changer
 - Keep the BOM as light as possible with fairly easily accessible items
 
 
