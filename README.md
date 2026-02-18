@@ -13,7 +13,7 @@ Features that were targeted in the design process:
 - Support for larger than 1kg spools up to 5kg
 - Extruder and spool rewind function operated per spool unit by the same stepper motor
 - NEMA17 stepper motors for power and speed
-- Large extruder gears to maximize traction
+- Large extruder gears to maximize filament traction
 - As modular system as possible
 - Possibility to use only 1 spool unit as a loader/unloader/assisting extruder rather than a changer
 - Keep the BOM as light as possible with fairly easily accessible items
