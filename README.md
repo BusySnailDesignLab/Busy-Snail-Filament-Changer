@@ -35,7 +35,7 @@ Welcome to the Busy Snail Filament Changer private closed beta repository! <br/>
 
 <br/>
 
-## Build and technical details
+## Technical details and build
 
 This section with illustrations currently serves also as a BSFC building manual.
 
