@@ -168,8 +168,6 @@ These settings instead of the default values were used in .cfg files when protot
 
 Pin mappings for Bigtreetech mmb can v1.1 control board:
 
-<br/>
-
 /config/AFC/mcu/MMB_1.1.cfg
 
 ```
