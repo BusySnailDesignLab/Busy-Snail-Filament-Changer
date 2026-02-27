@@ -147,3 +147,10 @@ Extruder section
 Work in progress. <br/>
 BSFC prototyping was done using [AFC-Klipper-Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On) and using its [documentation](https://www.armoredturtle.xyz/docs/afc-klipper-add-on/index.html) to set things up. Compatibility with [Happy-Hare](https://github.com/moggieuk/Happy-Hare) has not yet been tested.
 
+<details>
+<summary>Some Afc-Klipper-Add-On Config Settings</summary>
+
+- rotation_distance: 24.84
+- 
+
+</details>
