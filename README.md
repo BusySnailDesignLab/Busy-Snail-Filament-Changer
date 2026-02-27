@@ -152,7 +152,7 @@ BSFC prototyping was done using [AFC-Klipper-Add-On](https://github.com/ArmoredT
 
 <br/>
 
-These settings were used in various .CFG files when prototyping BSFC.
+These settings instead of the default values were used in .cfg files when prototyping BSFC.
 
 - rotation_distance: 24.84
 - run_current: 1.7
