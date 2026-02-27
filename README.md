@@ -164,6 +164,9 @@ These settings instead of the default values were used in .cfg files when protot
 - short_moves_accel: 150
 - global_print_current: 0.8
 
+<br/>
+
+/config/AFC/mcu/MMB_1.1.cfg
 
 ```
 [board_pins Busy_Snail]
