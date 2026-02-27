@@ -152,7 +152,7 @@ BSFC prototyping was done using [AFC-Klipper-Add-On](https://github.com/ArmoredT
 
 <br/>
 
-These settings instead of the default values were used in .cfg files when prototyping BSFC.
+These settings instead of the default values were used in .cfg files when prototyping BSFC:
 
 - rotation_distance: 24.84
 - run_current: 1.7
@@ -163,6 +163,10 @@ These settings instead of the default values were used in .cfg files when protot
 - long_moves_accel: 150
 - short_moves_accel: 150
 - global_print_current: 0.8
+
+<br/>
+
+Pin mappings for Bigtreetech mmb can v1.1 control board:
 
 <br/>
 
