@@ -151,6 +151,7 @@ BSFC prototyping was done using [AFC-Klipper-Add-On](https://github.com/ArmoredT
 <summary>Some Afc-Klipper-Add-On config settings</summary>
 
 <br/>
+
 - rotation_distance: 24.84
 - 
 
