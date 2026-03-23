@@ -35,7 +35,7 @@ Welcome to the Busy Snail Filament Changer private closed beta repository! <br/>
 
 <br/>
 
-## Build and technical details
+## Technical details and build
 
 This section with illustrations currently serves also as a BSFC building manual.
 
@@ -52,7 +52,7 @@ In the rewind/retract direction, the clutch is engaged and the spool is rewound.
 <br/> <br/>
 Spring-loaded conical interface's friction must be greater than the sparse thread’s friction of the engager component.
 It is not beneficial for the spring to be adjusted too tight, but too loose an adjustment will prevent the clutch from operating. <br/>
-For the clutch to function properly, a small amount of silicone grease must be applied to its internal contact surfaces.
+For the clutch to function properly, a small amount of silicone grease must be applied to its contact surfaces.
 <br/><br/>
  
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_cut.jpg)
@@ -147,3 +147,50 @@ Extruder section
 Work in progress. <br/>
 BSFC prototyping was done using [AFC-Klipper-Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On) and using its [documentation](https://www.armoredturtle.xyz/docs/afc-klipper-add-on/index.html) to set things up. Compatibility with [Happy-Hare](https://github.com/moggieuk/Happy-Hare) has not yet been tested.
 
+<details>
+<summary>Some Afc-Klipper-Add-On config settings</summary>
+
+<br/>
+
+These settings instead of the default values were used in .cfg files when prototyping BSFC:
+
+- rotation_distance: 24.84
+- run_current: 1.7
+
+<br/>
+
+- long_moves_speed: 300
+- long_moves_accel: 150
+- short_moves_accel: 150
+- global_print_current: 0.8
+
+<br/>
+
+Pin mappings for Bigtreetech mmb can v1.1 control board:
+
+/config/AFC/mcu/MMB_1.1.cfg
+
+```
+[board_pins Busy_Snail]
+mcu: Busy_Snail
+aliases:
+    M1_STEP=PB15   , M1_DIR=PB14   , M1_EN=PB8    , M1_UART=PA10   , # M1_DIAG=PA3   ,
+    M2_STEP=PD2    , M2_DIR=PB13   , M2_EN=PD1    , M2_UART=PC7    , # M2_DIAG=PA4   ,
+    M3_STEP=PD0    , M3_DIR=PD3    , M3_EN=PA15   , M3_UART=PC6    , # M3_DIAG=PB9   ,
+    M4_STEP=PB6    , M4_DIR=PB7    , M4_EN=PB5    , M4_UART=PA9    , # M4_DIAG=PB8   ,
+
+	HUB=PB11 		, 
+	TRG1=PA3  		, TRG2=PA4  	, TRG3=PB9 		, TRG4=PA8		,
+	EXT1=PC15 		, EXT2=PC13		, EXT3=PC14		, EXT4=PB12		,
+    TN_ADV=PB10     , TN_TRL=PB2 ,
+    
+	# MOT1_RWD=PA0	, 
+	# MOT2_RWD=PA1	, 
+	# MOT3_RWD=PB10	, 
+	# MOT4_RWD=PB2	, 
+	
+	RGB1=PA2		, 
+```
+
+
+</details>
