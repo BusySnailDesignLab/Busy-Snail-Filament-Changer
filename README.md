@@ -47,7 +47,7 @@ This section with illustrations currently serves also as a BSFC building manual.
 
 <br/>
 Rewind clutch is closely related to the traditional freecoaster rear hub of a BMX bicycle. <br/>
-When the stepper motor rotates in the filament feed/extrude direction, the clutch is disengaged and clutch gear freewheels and spool roller also rotates freely.
+When the stepper motor rotates in the filament feed/extrude direction, the clutch is disengaged and clutch gear freewheels and spool rewind roller also rotates freely.
 In the rewind/retract direction, the clutch is engaged and the spool is rewound. 
 <br/> <br/>
 Spring-loaded conical interface's friction must be greater than the sparse thread’s friction of the engager component.
@@ -74,8 +74,8 @@ When spool tries to have higher peripheral velocity than rewinded filament from 
 The chosen approach was to get the best possible grip between the roller and spool using a butyl rubber inner tube and then control the slippage with this spool controller. The grip of the 5kg spool on the roller is so strong that this particular solution seemed like the only viable method.
 <br/> <br/>
 Spool controller height is adjusted by rotating the thumbwheel and it stays in position due to worm geared construction.
-If spool controller is too low/ touching the spool it slips too much and doesn’t rewind properly.
-If spool controller is too high/ far away jumping gets aggressive. The optimal gap has a fairly large tolerance though to rewinding function properly.
+If spool controller is too low spool slips too much and doesn’t rewind properly.
+If spool controller is too high jumping gets aggressive. The optimal adjustment has a fairly large tolerance though to rewinding function properly.
 <br/><br/>
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_cut.jpg)
