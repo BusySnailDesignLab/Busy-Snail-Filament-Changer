@@ -71,7 +71,7 @@ Since the extruder and rewind gear train have a fixed gear ratio, it has to be o
 Fuller spool has then higher peripheral velocity than emptier spool and some slipping must exist between the roller and the spool.
 When spool tries to have higher peripheral velocity than rewinded filament from extruder allows it climbs to the spool controller and slips a bit (does this micro jumping constantly).
 <br/> <br/>
-The chosen approach was to get the best possible grip between the roller and spool using a butyl rubber inner ring and then control the slippage with this spool controller. The grip of the 5kg spool on the roller is so strong that this particular solution seemed like the only viable method.
+The chosen approach was to get the best possible grip between the roller and spool using a butyl rubber inner tube and then control the slippage with this spool controller. The grip of the 5kg spool on the roller is so strong that this particular solution seemed like the only viable method.
 <br/> <br/>
 Spool controller height is adjusted by rotating the thumbwheel and it stays in position due to worm geared construction.
 If spool controller is too low/ touching the spool it slips too much and doesn’t rewind properly.
