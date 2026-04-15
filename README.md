@@ -101,6 +101,11 @@ If spool controller is too high jumping gets aggressive. The optimal adjustment 
 The drive unit is in a way divided into two functional sections: motor/rewind and extruder section.
 <br/><br/>
 
+[Assembly video](https://youtu.be/VoX7NNussHw?si=F9h9A9wVGLavogpF) on YouTube.
+
+<br/>
+
+Whole unit
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_expl_1.jpg)
 Motor/rewind section
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_block_motor_expl_1.jpg)
