@@ -122,6 +122,10 @@ Extruder section
 
 <details>
 <summary>Roller tray</summary>
+
+[Assembly video](https://youtu.be/v3EZafkdpoI?si=Pa8eA2tnM2RYGXaa) on YouTube.
+
+<br/>
  
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_roller_tray_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_roller_tray_expl_2.jpg)
