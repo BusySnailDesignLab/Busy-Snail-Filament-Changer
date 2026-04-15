@@ -53,9 +53,9 @@ In the rewind/retract direction, the clutch is engaged and the spool is rewound.
 Spring-loaded conical interface's friction must be greater than the sparse thread’s friction of the engager component.
 It is not beneficial for the spring to be adjusted too tight, but too loose an adjustment will prevent the clutch from operating. <br/>
 For the clutch to function properly, a small amount of silicone grease must be applied to its contact surfaces.
-<br/>
+<br/><br/>
 
-[Installation video on You Tube](https://youtu.be/TbNA-HyEh_M?si=HdrPlAlg6tBJTh0d)
+[Assembly video](https://youtu.be/TbNA-HyEh_M?si=HdrPlAlg6tBJTh0d)  on You Tube
 
 <br/><br/>
  
