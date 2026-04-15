@@ -55,10 +55,10 @@ It is not beneficial for the spring to be adjusted too tight, but too loose an a
 For the clutch to function properly, a small amount of silicone grease must be applied to its contact surfaces.
 <br/><br/>
 
-[Assembly video](https://youtu.be/TbNA-HyEh_M?si=HdrPlAlg6tBJTh0d)  on You Tube
+[Assembly video](https://youtu.be/TbNA-HyEh_M?si=HdrPlAlg6tBJTh0d)  on YouTube.
 
-<br/><br/>
- 
+<br/>
+
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_cut.jpg)
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_expl.jpg)
 
