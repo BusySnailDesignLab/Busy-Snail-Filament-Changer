@@ -123,6 +123,8 @@ Extruder section
 <details>
 <summary>Roller tray</summary>
 
+<br/>
+
 [Assembly video](https://youtu.be/v3EZafkdpoI?si=Pa8eA2tnM2RYGXaa) on YouTube.
 
 <br/>
@@ -137,6 +139,12 @@ Extruder section
 
 <details>
 <summary>Hub-buffer</summary>
+
+<br/>
+
+[Assembly video](https://youtu.be/KklAEr8crc0?si=6_zTUBbSNkeF0NI5) on YouTube.
+
+<br/>
  
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_cut.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_1.jpg)
@@ -155,6 +163,10 @@ Extruder section
 <br/>
 Control board box currently supports Bigtreetech MMB CAN V1 and V2 boarts. The dimensions of the box are defined so that both boards of different sizes can fit in, and each board has its own bracket version.
 <br/><br/>
+
+[Assembly video](https://youtu.be/oLnCz8qqsjE?si=0IGYUk-QMdZsbvs8) on YouTube.
+
+<br/>
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_2.jpg)
