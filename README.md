@@ -134,7 +134,11 @@ Extruder section
 
 <details>
 <summary>Control board box</summary>
- 
+	
+<br/>
+Control board box currently supports Bigtreetech MMB CAN V1 and V2 boarts. The dimensions of the box are defined so that both boards of different sizes can fit in, and each board has its own bracket version.
+<br/><br/>
+
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_2.jpg)
 
