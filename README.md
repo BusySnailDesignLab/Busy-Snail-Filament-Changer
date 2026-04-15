@@ -55,7 +55,7 @@ It is not beneficial for the spring to be adjusted too tight, but too loose an a
 For the clutch to function properly, a small amount of silicone grease must be applied to its contact surfaces.
 <br/><br/>
 
-[Assembly video](https://youtu.be/TbNA-HyEh_M?si=HdrPlAlg6tBJTh0d)  on YouTube.
+[Assembly video](https://youtu.be/TbNA-HyEh_M?si=HdrPlAlg6tBJTh0d) on YouTube.
 
 <br/>
 
@@ -81,6 +81,10 @@ Spool controller height is adjusted by rotating the thumbwheel and it stays in p
 If spool controller is too low spool slips too much and doesn’t rewind properly.
 If spool controller is too high jumping gets aggressive. The optimal adjustment has a fairly large tolerance though to rewinding function properly.
 <br/><br/>
+
+[Assembly video](https://youtu.be/K6IZ9RyGhMk?si=yHqPg5wZYAanlQJ6) on YouTube.
+
+<br/>
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_cut.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_expl.jpg)
