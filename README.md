@@ -75,16 +75,15 @@ For the clutch to function properly, a small amount of silicone grease must be a
 <summary>Spool controller</summary>
 
 <br/>
-Since the extruder and rewind gear train have a fixed gear ratio, it has to be optimized for almost empty spools to achieve acceptable rewind tightness (angular vs. peripheral velocities).
-Fuller spool has then higher peripheral velocity than emptier spool and some slipping must exist between the roller and the spool.
-When spool tries to have higher peripheral velocity than rewinded filament from extruder allows it climbs to the spool controller and slips a bit (does this micro jumping constantly).
-<br/> <br/>
-The chosen approach was to get the best possible grip between the roller and spool using a butyl rubber inner tube and then control the slippage with this spool controller. The grip of the 5kg spool on the roller is so strong that this particular solution seemed like the only viable method.
-<br/> <br/>
-Spool controller height is adjusted by rotating the thumbwheel and it stays in position due to worm geared construction.
-If spool controller is too low spool slips too much and doesn’t rewind properly.
-If spool controller is too high jumping gets aggressive. The optimal adjustment has a fairly large tolerance though to rewinding function properly.
-<br/><br/>
+
+Since the extruder and rewind gear train have a fixed gear ratio, the system is optimized for nearly empty spools to ensure sufficient rewind tension. Because of this, a fuller spool naturally has a higher peripheral velocity than an emptier one, meaning some slippage must occur between the roller and the spool. When the spool attempts to move faster than the retracted filament allows, it climbs against the spool controller and slips slightly, resulting in a constant "micro-jumping" effect.
+<br/>
+
+The chosen approach was to maximize the grip between the roller and the spool using a butyl rubber inner tube, then manage the necessary slippage through the spool controller. This method proved to be the only viable solution, as the grip of a 5kg spool on the roller is exceptionally strong.
+<br/>
+
+The height of the spool controller is adjusted by rotating the thumbwheel, which stays in position due to the worm gear construction. If the controller is set too low, the spool will slip excessively and fail to rewind properly. Conversely, if it is set too high, the jumping motion becomes too aggressive. Fortunately, the optimal adjustment has a fairly large tolerance for the rewind function to work reliably.
+<br/>
 
 [Assembly video](https://youtu.be/K6IZ9RyGhMk?si=yHqPg5wZYAanlQJ6) on YouTube.
 
