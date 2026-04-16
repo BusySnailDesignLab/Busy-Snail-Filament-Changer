@@ -57,8 +57,7 @@ The friction of the spring-loaded conical interface must be greater than the fri
 <br/>
 
 For the clutch to function properly, a small amount of silicone grease must be applied to its contact surfaces.
-
-<br/><br/>
+<br/>
 
 [Assembly video](https://youtu.be/TbNA-HyEh_M?si=HdrPlAlg6tBJTh0d) on YouTube.
 
