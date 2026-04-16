@@ -101,8 +101,9 @@ The height of the spool controller is adjusted by rotating the thumbwheel, which
 <summary>Drive unit</summary>
 
 <br/>
+
 The drive unit is in a way divided into two functional sections: motor/rewind and extruder section.
-<br/><br/>
+<br/>
 
 [Assembly video](https://youtu.be/VoX7NNussHw?si=F9h9A9wVGLavogpF) on YouTube.
 
@@ -164,8 +165,8 @@ Extruder section
 <summary>Control board box</summary>
 	
 <br/>
-Control board box currently supports Bigtreetech MMB CAN V1 and V2 boarts. The dimensions of the box are defined so that both boards of different sizes can fit in, and each board has its own bracket version.
-<br/><br/>
+he control board box currently supports Bigtreetech MMB CAN V1 and V2 boards. The box is sized to accommodate both board versions, with each having its own dedicated mounting bracket.
+<br/>
 
 [Assembly video](https://youtu.be/oLnCz8qqsjE?si=0IGYUk-QMdZsbvs8) on YouTube.
 
