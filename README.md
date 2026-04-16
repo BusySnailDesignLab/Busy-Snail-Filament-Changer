@@ -235,4 +235,6 @@ aliases:
 
 </details>
 
+<br/>
+
 ## Financial aspects
