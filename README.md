@@ -17,7 +17,7 @@ Features that were targeted in the design process:
 - Large extruder gears to maximize filament traction
 - As modular system as possible
 - Possibility to use only 1 spool unit as a loader/unloader/assisting extruder rather than a changer
-- Keep the BOM as light as possible with fairly easily accessible items
+- Keeping the BOM as light as possible with fairly easily accessible items
 
 
 
