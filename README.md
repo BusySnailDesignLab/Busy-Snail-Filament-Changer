@@ -247,9 +247,7 @@ But somehow, in a strange way, those small costs tend to add up over time.
 
 If you’ve enjoyed or benefited from this project, I would be incredibly grateful for a small contribution.
 
- <a href="https://buymeacoffee.com">
-  <img src="https://buymeacoffee.com" />
- </a>
+<a href="https://www.buymeacoffee.com/busysnaildesignlab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 
