@@ -246,3 +246,5 @@ When you do something as a hobby, it’s pure fun. The hours don’t count becau
 But somehow, in a strange way, those small costs tend to add up over time.
 
 If you’ve enjoyed or benefited from this project, I would be incredibly grateful for a small contribution.
+
+<a href="https://www.buymeacoffee.com/busysnaildesignlab"><img src="https://img.buymeacoffee.com/button-api/?text=Filament & Bits & Bobs&emoji=😇&slug=busysnaildesignlab&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
