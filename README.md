@@ -241,7 +241,7 @@ aliases:
 
 ## Financial aspects
 
-When you do something as a hobby, it’s pure fun. The hours don’t count because there are always too few—you know that feeling when you completely lose track of time? But what about the expenses? Well, who on earth would remember those... 
+When you do something as a hobby, it’s pure fun. The hours don’t matter because there are always too few—you know that feeling when you completely lose track of time? But what about the expenses? Well, who on earth would remember those... 
 
 But somehow, in a strange way, those small costs tend to add up over time.
 
