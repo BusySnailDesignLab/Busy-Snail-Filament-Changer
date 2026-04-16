@@ -247,6 +247,8 @@ But somehow, in a strange way, those small costs tend to add up over time.
 
 If you’ve enjoyed or benefited from this project, I would be incredibly grateful for a small contribution.
 
-[![Filament & Bits & Bobs](https://buymeacoffee.com😇&slug=busysnaildesignlab&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/busysnaildesignlab)
+
+[![Buy Me a Coffee](https://shields.io)](https://www.buymeacoffee.com/busysnaildesignlab)
+
 
 
