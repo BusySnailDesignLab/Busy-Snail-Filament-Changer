@@ -165,7 +165,8 @@ Extruder section
 <summary>Control board box</summary>
 	
 <br/>
-he control board box currently supports Bigtreetech MMB CAN V1 and V2 boards. The box is sized to accommodate both board versions, with each having its own dedicated mounting bracket.
+
+The control board box currently supports Bigtreetech MMB CAN V1 and V2 boards. The box is sized to accommodate both board versions, with each having its own dedicated mounting bracket.
 <br/>
 
 [Assembly video](https://youtu.be/oLnCz8qqsjE?si=0IGYUk-QMdZsbvs8) on YouTube.
