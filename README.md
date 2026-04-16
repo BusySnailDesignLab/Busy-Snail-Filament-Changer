@@ -48,15 +48,12 @@ This section with illustrations currently serves also as a BSFC building manual.
 <br/>
 
 The rewind clutch is closely related to the traditional freecoaster rear hub used on BMX bicycles.
-
 <br/>
 
 When the stepper motor rotates in the feed/extrude direction, the clutch disengages; the clutch gear freewheels, allowing the spool rewind roller to rotate freely. In the rewind/retract direction, the clutch engages and the spool is rewound.
-
 <br/>
 
 The friction of the spring-loaded conical interface must be greater than the friction of the engager component's steep thread. The spring should not be adjusted too tight; however, an adjustment that is too loose will prevent the clutch from operating.
-
 <br/>
 
 For the clutch to function properly, a small amount of silicone grease must be applied to its contact surfaces.
