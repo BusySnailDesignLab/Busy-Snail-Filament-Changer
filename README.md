@@ -6,6 +6,7 @@
 
 
 ## One more filament changer design?
+
 A filament changer supporting 5kg spools that uses large extruder gears to reliably pull filament from heavy spools didn't seem to exist when starting the project (or at least couldn't find an open source one).
 
 Features that were targeted in the design process:
@@ -24,6 +25,7 @@ Features that were targeted in the design process:
 <br/>
 
 ## From proto to closed beta
+
 Prototyping has been done and everything is working nice. It's time to move to closed beta testing to ensure that STLs, BOM and wiring are all spot on before the public release.
 The completed STEP files will be available at the time of the public release of BSFC. This ensures that possible upcoming user mods are based on the actual final released version.
 <br/><br/>
@@ -238,3 +240,9 @@ aliases:
 <br/>
 
 ## Financial aspects
+
+When you do something as a hobby, it’s pure fun. The hours don’t count because there are always too few—you know that feeling when you completely lose track of time? But what about the expenses? Well, who on earth would remember those... 
+
+But somehow, in a strange way, those small costs tend to add up over time.
+
+If you’ve enjoyed or benefited from this project, I would be incredibly grateful for a small contribution.
