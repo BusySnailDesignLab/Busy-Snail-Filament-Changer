@@ -6,6 +6,7 @@
 
 
 ## One more filament changer design?
+
 A filament changer supporting 5kg spools that uses large extruder gears to reliably pull filament from heavy spools didn't seem to exist when starting the project (or at least couldn't find an open source one).
 
 Features that were targeted in the design process:
@@ -16,7 +17,7 @@ Features that were targeted in the design process:
 - Large extruder gears to maximize filament traction
 - As modular system as possible
 - Possibility to use only 1 spool unit as a loader/unloader/assisting extruder rather than a changer
-- Keep the BOM as light as possible with fairly easily accessible items
+- Keeping the BOM as light as possible with fairly easily accessible items
 
 
 
@@ -24,6 +25,7 @@ Features that were targeted in the design process:
 <br/>
 
 ## From proto to closed beta
+
 Prototyping has been done and everything is working nice. It's time to move to closed beta testing to ensure that STLs, BOM and wiring are all spot on before the public release.
 The completed STEP files will be available at the time of the public release of BSFC. This ensures that possible upcoming user mods are based on the actual final released version.
 <br/><br/>
@@ -46,15 +48,23 @@ This section with illustrations currently serves also as a BSFC building manual.
 <summary>Rewind clutch</summary>
 
 <br/>
-Rewind clutch is closely related to the traditional freecoaster rear hub of a BMX bicycle. <br/>
-When the stepper motor rotates in the filament feed/extrude direction, the clutch is disengaged and clutch gear freewheels and spool roller also rotates freely.
-In the rewind/retract direction, the clutch is engaged and the spool is rewound. 
-<br/> <br/>
-Spring-loaded conical interface's friction must be greater than the sparse thread’s friction of the engager component.
-It is not beneficial for the spring to be adjusted too tight, but too loose an adjustment will prevent the clutch from operating. <br/>
+
+The rewind clutch is closely related to the traditional freecoaster rear hub used on BMX bicycles.
+<br/>
+
+When the stepper motor rotates in the feed/extrude direction, the clutch disengages; the clutch gear freewheels, allowing the spool rewind roller to rotate freely. In the rewind/retract direction, the clutch engages and the spool is rewound.
+<br/>
+
+The friction of the spring-loaded conical interface must be greater than the friction of the engager component's steep thread. The spring should not be adjusted too tight; however, an adjustment that is too loose will prevent the clutch from operating.
+<br/>
+
 For the clutch to function properly, a small amount of silicone grease must be applied to its contact surfaces.
-<br/><br/>
- 
+<br/>
+
+[Assembly video](https://youtu.be/TbNA-HyEh_M?si=HdrPlAlg6tBJTh0d) on YouTube.
+
+<br/>
+
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_cut.jpg)
 ![bsfc_build_clutch_cut.jpg](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_clutch_expl.jpg)
 
@@ -67,14 +77,19 @@ For the clutch to function properly, a small amount of silicone grease must be a
 <summary>Spool controller</summary>
 
 <br/>
-Since the extruder and rewind gear train have a fixed gear ratio, it has to be optimized for almost empty spools to achieve acceptable rewind tightness (angular vs. peripheral velocities).
-Fuller spool has then higher peripheral velocity than emptier spool and some slipping must exist between the roller and the spool.
-When spool tries to have higher peripheral velocity than rewinded filament from extruder allows it climbs to the spool controller and slips a bit (does this micro jumping constantly).
-<br/> <br/>
-Spool controller height is adjusted by rotating the thumbwheel and it stays in position due to worm geared construction.
-If spool controller is too low/ touching the spool it slips too much and doesn’t rewind properly.
-If spool controller is too high/ far away jumping gets aggressive. The optimal gap has a fairly large tolerance though to rewinding function properly.
-<br/><br/>
+
+Since the extruder and rewind gear train have a fixed gear ratio, the system is optimized for nearly empty spools to ensure sufficient rewind tension. Because of this, a fuller spool naturally has a higher peripheral velocity than an emptier one, meaning some slippage must occur between the roller and the spool. When the spool attempts to move faster than the retracted filament allows, it climbs against the spool controller and slips slightly, resulting in a constant "micro-jumping" effect.
+<br/>
+
+The chosen approach was to maximize the grip between the roller and the spool using a butyl rubber inner tube, then manage the necessary slippage through the spool controller. This method proved to be the only viable solution, as the grip of a 5kg spool on the roller is exceptionally strong.
+<br/>
+
+The height of the spool controller is adjusted by rotating the thumbwheel, which stays in position due to the worm gear construction. If the controller is set too low, the spool will slip excessively and fail to rewind properly. Conversely, if it is set too high, the jumping motion becomes too aggressive. Fortunately, the optimal adjustment has a fairly large tolerance for the rewind function to work reliably.
+<br/>
+
+[Assembly video](https://youtu.be/K6IZ9RyGhMk?si=yHqPg5wZYAanlQJ6) on YouTube.
+
+<br/>
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_cut.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_spool_controller_expl.jpg)
@@ -88,9 +103,15 @@ If spool controller is too high/ far away jumping gets aggressive. The optimal g
 <summary>Drive unit</summary>
 
 <br/>
-The drive unit is in a way divided into two functional sections: motor/rewind and extruder section.
-<br/><br/>
 
+The drive unit is in a way divided into two functional sections: motor/rewind and extruder section.
+<br/>
+
+[Assembly video](https://youtu.be/VoX7NNussHw?si=F9h9A9wVGLavogpF) on YouTube.
+
+<br/>
+
+Whole unit
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_expl_1.jpg)
 Motor/rewind section
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_drive_unit_block_motor_expl_1.jpg)
@@ -107,6 +128,12 @@ Extruder section
 
 <details>
 <summary>Roller tray</summary>
+
+<br/>
+
+[Assembly video](https://youtu.be/v3EZafkdpoI?si=Pa8eA2tnM2RYGXaa) on YouTube.
+
+<br/>
  
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_roller_tray_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_roller_tray_expl_2.jpg)
@@ -118,6 +145,12 @@ Extruder section
 
 <details>
 <summary>Hub-buffer</summary>
+
+<br/>
+
+[Assembly video](https://youtu.be/KklAEr8crc0?si=6_zTUBbSNkeF0NI5) on YouTube.
+
+<br/>
  
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_cut.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_hub_buffer_expl_1.jpg)
@@ -132,7 +165,16 @@ Extruder section
 
 <details>
 <summary>Control board box</summary>
- 
+	
+<br/>
+
+The control board box currently supports Bigtreetech MMB CAN V1 and V2 boards. The box is sized to accommodate both board versions, with each having its own dedicated mounting bracket.
+<br/>
+
+[Assembly video](https://youtu.be/oLnCz8qqsjE?si=0IGYUk-QMdZsbvs8) on YouTube.
+
+<br/>
+
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_1.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_control_board_box_expl_2.jpg)
 
@@ -148,7 +190,7 @@ Work in progress. <br/>
 BSFC prototyping was done using [AFC-Klipper-Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On) and using its [documentation](https://www.armoredturtle.xyz/docs/afc-klipper-add-on/index.html) to set things up. Compatibility with [Happy-Hare](https://github.com/moggieuk/Happy-Hare) has not yet been tested.
 
 <details>
-<summary>Some Afc-Klipper-Add-On config settings</summary>
+<summary>Some AFC-Klipper-Add-On config settings</summary>
 
 <br/>
 
@@ -194,3 +236,15 @@ aliases:
 
 
 </details>
+
+<br/>
+
+## Financial aspects
+
+When you do something as a hobby, it’s pure fun. The hours don’t matter because there are always too few—you know that feeling when you completely lose track of time? But what about the expenses? Well, who on earth would remember those... 
+
+But somehow, in a strange way, those small costs tend to add up over time.
+
+If you’ve enjoyed or benefited from this project, I would be incredibly grateful for a small contribution.
+
+<a href="https://www.buymeacoffee.com/busysnaildesignlab"><img src="https://img.buymeacoffee.com/button-api/?text=Filament_and_Bits_and_Bobs&slug=busysnaildesignlab&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
