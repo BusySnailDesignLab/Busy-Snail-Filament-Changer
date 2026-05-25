@@ -23,8 +23,21 @@ Features that were targeted in the design process:
 
 
 <br/>
-
+~~
 ## From proto to closed beta
+
+Prototyping has been done and everything is working nice. It's time to move to closed beta testing to ensure that STLs, BOM and wiring are all spot on before the public release.
+The completed STEP files will be available at the time of the public release of BSFC. This ensures that possible upcoming user mods are based on the actual final released version.
+<br/><br/>
+Welcome to the Busy Snail Filament Changer private closed beta repository! <br/><br/>
+<ins>***By downloading closed beta files from here, you agree to not share them anywhere.***</ins> Since minor changes are still possible, we don't want pre-release files floating around the internet.
+~~
+
+
+
+<br/>
+
+## Public beta 2026.06
 
 Prototyping has been done and everything is working nice. It's time to move to closed beta testing to ensure that STLs, BOM and wiring are all spot on before the public release.
 The completed STEP files will be available at the time of the public release of BSFC. This ensures that possible upcoming user mods are based on the actual final released version.
