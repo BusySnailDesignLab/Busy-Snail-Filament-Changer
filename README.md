@@ -5,7 +5,7 @@
 
 
 
-## One more filament changer design?
+## One More Filament Changer Design?
 
 A filament changer supporting 5kg spools that uses large extruder gears to reliably pull filament from heavy spools didn't seem to exist when starting the project (or at least couldn't find an open source one).
 
@@ -24,7 +24,7 @@ Features that were targeted in the design process:
 
 <br/>
 
-## Public beta 2026.06
+## Public Beta 2026.06
 
 The Busy Snail Filament Changer is transitioning from closed testing to the wider community in June 2026. This release represents what should be the final design of the hardware. The core architecture is locked, though minor adjustments may still occur.
 
@@ -33,7 +33,7 @@ The Busy Snail Filament Changer is transitioning from closed testing to the wide
 
 <br/>
 
-## Technical details and build
+## Technical Details and Build
 
 This section with illustrations currently serves also as a BSFC building manual. Each subsection contains also a link to the corresponding tutorial video on YouTube.
 
@@ -181,7 +181,7 @@ The control board box currently supports Bigtreetech MMB CAN V1 and V2 boards. T
 
 <br/>
 
-## Software configuration
+## Software Configuration
 
 Work in progress. <br/>
 BSFC prototyping was done using [AFC-Klipper-Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On) and using its [documentation](https://www.armoredturtle.xyz/docs/afc-klipper-add-on/index.html) to set things up. Compatibility with [Happy-Hare](https://github.com/moggieuk/Happy-Hare) has not yet been tested.
@@ -236,7 +236,7 @@ aliases:
 
 <br/>
 
-## Financial aspects
+## Financial Aspects
 
 When you do something as a hobby, it’s pure fun. The hours don’t matter because there are always too few—you know that feeling when you completely lose track of time? But what about the expenses? Well, who on earth would remember those... 
 
@@ -249,6 +249,6 @@ If you’ve enjoyed or benefited from this project, I would be incredibly gratef
 
 <br/>
 
-## Bill Of Materials kits
+## Bill of Materials Kits
 
 [Mellow](https://3dmellow.com/products/) has expressed interest in offering a BSFC BOM kit. There is no date yet for when it will be available. When it is released, a link will be provided here.
