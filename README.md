@@ -51,7 +51,6 @@ This section with illustrations currently serves also as a BSFC building manual.
 
 Slight differences may exist between the printed components shown in the illustrations or videos and the current STLs, as development continued during and after content creation.
 
-<br/>
 
 
 <details>
