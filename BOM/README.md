@@ -152,6 +152,12 @@ For a 4x1kg spool units changer totals by item groups see .PDF
 
 ## OBSERVATIONS AND REMARKS
 
+Why M12 threded rods?<br/>
+The prototype was designed for a 600 mm wide printer, where the stiffness provided by M12 rods was found to be optimal.
+For those using imperial measurements, alternative STLs are provided for the closest equivalent, 3/4-13 UNC. If you want to use smaller diameter rods, you can modify the STEP files or print reduction bushings.
+<br/>
+<br/>
+
 6/4mm diameter PTFE tube in stead of usual 4/2mm?<br/>
 Found it superior when prototyping, more kink resistant when bending and filament flows nicer in it.
 <br/>
