@@ -251,4 +251,4 @@ If you’ve enjoyed or benefited from this project, I would be incredibly gratef
 
 ## Bill Of Materials kits
 
-Mellow has expressed interest in offering a BSFC BOM kit. There is no date yet for when it will be available. When it is released, a link will be provided here.
+[Mellow](https://3dmellow.com/products/) has expressed interest in offering a BSFC BOM kit. There is no date yet for when it will be available. When it is released, a link will be provided here.
