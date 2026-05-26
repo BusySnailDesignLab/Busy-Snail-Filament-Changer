@@ -5,7 +5,7 @@
 
 
 
-## One more filament changer design?
+## One More Filament Changer Design?
 
 A filament changer supporting 5kg spools that uses large extruder gears to reliably pull filament from heavy spools didn't seem to exist when starting the project (or at least couldn't find an open source one).
 
@@ -15,7 +15,7 @@ Features that were targeted in the design process:
 - Extruder and spool rewind function operated per spool unit by the same stepper motor
 - NEMA17 stepper motors for power and speed
 - Large extruder gears to maximize filament traction
-- As modular system as possible
+- As modular system as possible where components are connected to each other by threaded rods
 - Possibility to use only 1 spool unit as a loader/unloader/assisting extruder rather than a changer
 - Keeping the BOM as light as possible with fairly easily accessible items
 
@@ -24,23 +24,20 @@ Features that were targeted in the design process:
 
 <br/>
 
-## From proto to closed beta
+## Public Beta 2026.06
 
-Prototyping has been done and everything is working nice. It's time to move to closed beta testing to ensure that STLs, BOM and wiring are all spot on before the public release.
-The completed STEP files will be available at the time of the public release of BSFC. This ensures that possible upcoming user mods are based on the actual final released version.
-<br/><br/>
-Welcome to the Busy Snail Filament Changer private closed beta repository! <br/><br/>
-<ins>***By downloading closed beta files from here, you agree to not share them anywhere.***</ins> Since minor changes are still possible, we don't want pre-release files floating around the internet.
+The Busy Snail Filament Changer is transitioning from closed testing to the wider community in June 2026. This release represents what should be the final design of the hardware. The core architecture is locked, though minor adjustments may still occur.
 
 
 
 
 <br/>
 
-## Technical details and build
+## Technical Details and Build
 
-This section with illustrations currently serves also as a BSFC building manual.
+This section with illustrations currently serves as a BSFC building manual. Each subsection contains also a link to the corresponding tutorial video on YouTube.
 
+Slight differences may exist between the printed components shown in the illustrations or videos and the current STLs, as development continued during and after content creation.
 
 
 
@@ -184,7 +181,7 @@ The control board box currently supports Bigtreetech MMB CAN V1 and V2 boards. T
 
 <br/>
 
-## Software configuration
+## Software Configuration
 
 Work in progress. <br/>
 BSFC prototyping was done using [AFC-Klipper-Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On) and using its [documentation](https://www.armoredturtle.xyz/docs/afc-klipper-add-on/index.html) to set things up. Compatibility with [Happy-Hare](https://github.com/moggieuk/Happy-Hare) has not yet been tested.
@@ -239,7 +236,7 @@ aliases:
 
 <br/>
 
-## Financial aspects
+## Financial Aspects
 
 When you do something as a hobby, it’s pure fun. The hours don’t matter because there are always too few—you know that feeling when you completely lose track of time? But what about the expenses? Well, who on earth would remember those... 
 
@@ -248,3 +245,10 @@ But somehow, in a strange way, those small costs tend to add up over time.
 If you’ve enjoyed or benefited from this project, I would be incredibly grateful for a small contribution.
 
 <a href="https://www.buymeacoffee.com/busysnaildesignlab"><img src="https://img.buymeacoffee.com/button-api/?text=Filament_and_Bits_and_Bobs&slug=busysnaildesignlab&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+
+<br/>
+
+## Bill of Materials Kits
+
+[Mellow](https://3dmellow.com/products/) has expressed interest in offering a BSFC BOM kit. There is no date yet for when it will be available. When it is released, a link will be provided here.
