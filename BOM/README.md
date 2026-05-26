@@ -1,4 +1,4 @@
-# Busy Snail Filament Changer (BSFC) BOM $${\color{red}//RC2026-02-05}$$</ins> 
+# Busy Snail Filament Changer (BSFC) BOM
 
 <br/>
 <br/>
