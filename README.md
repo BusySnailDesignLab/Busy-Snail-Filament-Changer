@@ -35,7 +35,7 @@ The Busy Snail Filament Changer is transitioning from closed testing to the wide
 
 ## Technical Details and Build
 
-This section with illustrations currently serves also as a BSFC building manual. Each subsection contains also a link to the corresponding tutorial video on YouTube.
+This section with illustrations currently serves as a BSFC building manual. Each subsection contains also a link to the corresponding tutorial video on YouTube.
 
 Slight differences may exist between the printed components shown in the illustrations or videos and the current STLs, as development continued during and after content creation.
 
