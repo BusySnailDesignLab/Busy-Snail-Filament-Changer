@@ -19,7 +19,7 @@ Features that were targeted in the design process:
 - Possibility to use only 1 spool unit as a loader/unloader/assisting extruder rather than a changer
 - Keeping the BOM as light as possible with fairly easily accessible items
 
-
+[YouTube playlist](https://www.youtube.com/playlist?list=PLjJb97KCYTC8oeRxWj5jBiS8WIRQJnpdh) of BSFC prototyping and testing videos.
 
 
 <br/>
