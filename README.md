@@ -177,6 +177,20 @@ The control board box currently supports Bigtreetech MMB CAN V1 and V2 boards. T
 
 </details>
 
+
+
+
+<details>
+<summary>General assembly</summary>
+	
+<br/>
+
+The finished device consists of components connected by threaded rods.<br/>
+
+<br/>
+
+</details>
+
 [YouTube playlist](https://www.youtube.com/playlist?list=PLjJb97KCYTC9PMECO4NPdOToGcQD9c51B) of current BSFC tutorial videos.
 
 <br/>
