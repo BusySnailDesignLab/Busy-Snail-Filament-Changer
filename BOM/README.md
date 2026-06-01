@@ -135,7 +135,7 @@ For a 4x1kg spool units changer totals by item groups see [.PDF](https://github.
 <br/>
 
 
-## ASSEMBLED CHANGER / FRAME
+## GENERAL ASSEMBLY
 
 | Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                 |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
