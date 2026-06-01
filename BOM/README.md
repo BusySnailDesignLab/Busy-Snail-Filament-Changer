@@ -1,6 +1,6 @@
 # Busy Snail Filament Changer (BSFC) BOM
 
-For a 4x1kg spool units changer totals by item groups see [.PDF](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/BOM/BSFC_BOM_4x1kg_totals_V2026-02-04.pdf)
+For a 4x1kg spool units changer totals by item groups see [PDF](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/BOM/BSFC_BOM_4x1kg_totals_V2026-02-04.pdf).
 
 <br/>
 <br/>
