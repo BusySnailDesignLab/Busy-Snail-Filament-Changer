@@ -28,8 +28,20 @@ Features that were targeted in the design process:
 
 The Busy Snail Filament Changer is transitioning from closed testing to the wider community in June 2026. This release represents what should be the final design of the hardware. The core architecture is locked, though minor adjustments may still occur.
 
+<br/>
+
+## 3d-files and Printing
+
+The provided STL files are in their intended printing orientation, and bed adhesion helpers and supports are modeled in the files. Also, STEP files of assemblies are provided with and without modeled printing helpers to allow one to adjust or modify if wished.
+
+Prototyping was done using PLA and PETG filaments. There are some areas in some of the parts with some fairly thin walls where using ABS might be challenging due to its generally poorer layer adhesion, resulting in parts too delicate to get assembled.
+
+<details>
+<summary>Some print settings used in protoyping</summary>
 
 
+
+</details>
 
 <br/>
 
