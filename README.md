@@ -37,7 +37,7 @@ The provided STL files are in their intended printing orientation, and bed adhes
 Prototyping was done using PLA and PETG filaments. There are some areas in some of the parts with some fairly thin walls where using ABS might be challenging due to its generally poorer layer adhesion, resulting in parts too delicate to get assembled.
 
 <details>
-<summary>Some print settings used in protoyping</summary>
+<summary>Some print settings used in the design process</summary>
 
 
 
