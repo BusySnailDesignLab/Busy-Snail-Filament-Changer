@@ -26,7 +26,7 @@ Features that were targeted in the design process:
 
 ## Public Beta 2026.06
 
-The Busy Snail Filament Changer is transitioning from closed testing to the wider community in June 2026. This release represents what should be the final design of the hardware. The core architecture is locked, though minor adjustments may still occur.
+The Busy Snail Filament Changer is transitioning from closed testing to the wider community in June 2026. This public beta release represents what should be the final design. The core architecture is locked, though minor adjustments may still occur.
 
 <br/>
 
