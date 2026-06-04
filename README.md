@@ -39,7 +39,7 @@ Prototyping was done using PLA and PETG filaments. There are some areas in some 
 
 As is usually the case with projects of this nature, the 3D printer and slicer print profiles must be properly calibrated. The clearances of the printed parts have been designed and tested based on this assumption.
 
-[Ellis' Print Tuning Guide](https://ellis3dp.com) is naturally the place to go when problems arise with the fittings.
+[Ellis' Print Tuning Guide](https://ellis3dp.com) is naturally the place to go when things don't fit together.
 
 <details>
 <summary>Some print settings used in the design process</summary>
