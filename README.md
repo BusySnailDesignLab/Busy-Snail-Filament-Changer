@@ -95,7 +95,7 @@ For the clutch to function properly, a small amount of silicone grease must be a
 Since the extruder and rewind gear train have a fixed gear ratio, the system is optimized for nearly empty spools to ensure sufficient rewind tension. Because of this, a fuller spool naturally has a higher peripheral velocity than an emptier one, meaning some slippage must occur between the roller and the spool. When the spool attempts to move faster than the retracted filament allows, it climbs against the spool controller and slips slightly, resulting in a constant "micro-jumping" effect.
 <br/>
 
-The chosen approach was to maximize the grip between the roller and the spool using a butyl rubber inner tube, then manage the necessary slippage through the spool controller. This method proved to be the only viable solution, as the grip of a 5kg spool on the roller is exceptionally strong.
+The chosen approach was to maximize the grip between the roller and the spool using a butyl rubber inner tube, then manage the necessary slippage through the spool controller. This method proved to be the only viable solution, as the grip of a full 5kg spool on the roller is exceptionally strong vs almost empty 1kg spool.
 <br/>
 
 The height of the spool controller is adjusted by rotating the thumbwheel, which stays in position due to the worm gear construction. If the controller is set too low, the spool will slip excessively and fail to rewind properly. Conversely, if it is set too high, the jumping motion becomes too aggressive. Fortunately, the optimal adjustment has a fairly large tolerance for the rewind function to work reliably.
