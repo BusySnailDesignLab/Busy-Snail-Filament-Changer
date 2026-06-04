@@ -35,7 +35,11 @@ The Busy Snail Filament Changer is transitioning from closed testing to the wide
 The files and info needed for the basic setup are available in this root directory, everything else can be found in the MODs folder.
 Provided STL files are in their intended printing orientation, and bed adhesion helpers and supports are modeled in the files. Also, STEP files of assemblies are provided with and without modeled printing helpers to allow one to adjust or modify if wished.
 
-Prototyping was done using PLA and PETG filaments. There are some areas in some of the parts with some fairly thin walls where using ABS might be challenging due to its generally poorer layer adhesion, resulting in parts too delicate to get assembled.
+Prototyping was done using PLA and PETG filaments. There are some areas in some of the parts with some fairly thin walls where using ABS might be challenging due to its generally poorer layer adhesion, resulting in parts too delicate.
+
+As is usually the case with projects of this nature, the 3D printer and slicer print profiles must be properly calibrated. The clearances of the printed parts have been designed and tested based on this assumption.
+
+[Ellis' Print Tuning Guide](https://ellis3dp.com) is naturally the place to go when problems arise with the fittings.
 
 <details>
 <summary>Some print settings used in the design process</summary>
