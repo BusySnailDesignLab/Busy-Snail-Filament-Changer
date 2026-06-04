@@ -42,7 +42,7 @@ As is usually the case with projects of this nature, the 3D printer and slicer p
 [Ellis' Print Tuning Guide](https://ellis3dp.com) is naturally the place to go when things don't fit together.
 
 <details>
-<summary>Some print settings used in the design process</summary>
+<summary>Some slicer settings used in the design process</summary>
 
 
 
