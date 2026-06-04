@@ -7,16 +7,16 @@
 
 ## One More Filament Changer Design?
 
-A filament changer supporting 5kg spools that uses large extruder gears to reliably pull filament from heavy spools didn't seem to exist when starting the project (or at least couldn't find an open source one).
+The main starting point for the design was originally my tall Voron printer (400x400x800mm) and its almost 3000mm filament path. Three meters of filament in a PTFE tube with a few bends causes quite a bit of friction and challenges. I also wanted the option to use 5kg filament spools. I couldn't find an existing solution that was exactly what I had in mind, and down the rabbit hole I went.
 
 Features that were targeted in the design process:
 
 - Support for larger than 1kg spools up to 5kg
-- Extruder and spool rewind function operated per spool unit by the same stepper motor
-- NEMA17 stepper motors for power and speed
 - Large extruder gears to maximize filament traction
-- As modular system as possible where components are connected to each other by threaded rods
+- NEMA17 stepper motors for power and speed
+- Extruder and spool rewind function operated per spool unit by the same stepper motor
 - Possibility to use only 1 spool unit as a loader/unloader/assisting extruder rather than a changer
+- As modular system as possible where components are connected to each other by threaded rods
 - Keeping the BOM as light as possible with fairly easily accessible items
 
 [YouTube playlist](https://www.youtube.com/playlist?list=PLjJb97KCYTC8oeRxWj5jBiS8WIRQJnpdh) of BSFC prototyping and testing videos.
