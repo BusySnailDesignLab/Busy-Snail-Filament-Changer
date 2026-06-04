@@ -7,7 +7,7 @@
 
 ## One More Filament Changer Design?
 
-The main starting point for the design was originally my tall Voron printer (400x400x800mm) and its almost 3000mm filament path. Three meters of filament in a PTFE tube with a few bends causes quite a bit of friction and challenges. I also wanted the option to use 5kg filament spools. I couldn't find an existing solution that was exactly what I had in mind, and down the rabbit hole I went.
+The main starting point for the design was originally my tall Voron printer (400x400x800mm) and its almost 3000mm filament path. Moving three meters of filament in a PTFE tube with a few bends causes quite a bit of friction and challenges. I also wanted the option to use 5kg filament spools. Couldn't find an existing solution that was exactly what I had in mind, and down the rabbit hole I went.
 
 Features that were targeted in the design process:
 
