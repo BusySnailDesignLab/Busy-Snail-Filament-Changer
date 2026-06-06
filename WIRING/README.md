@@ -4,6 +4,8 @@
 
 ![bsfc_wiring_diagrams](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_diagrams.jpg)
 
+Drive unit internal: filament presence switches
 ![bsfc_wiring_sample_du_switch](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_du_switch.jpg)
 
+Drive unit internal: LED
 ![bsfc_wiring_sample_du_led](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_du_led.jpg)
