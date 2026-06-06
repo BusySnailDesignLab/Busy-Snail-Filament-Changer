@@ -9,3 +9,17 @@ Drive unit internal: filament presence switches
 
 Drive unit internal: LED
 ![bsfc_wiring_sample_du_led](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_du_led.jpg)
+
+Drive unit internal: stepper motor
+
+Hub/buffer internal: micro switches
+
+Control board RGB to 1st drive unit RGBIN
+
+LED daisy chain between drive units 1->2, 2->3, 3->4
+
+Control board stepper driver to drive unit stepper motor in
+
+Control board STOPx to Hub/Buffer
+
+Control board STOPx to drive unit SWTCH
