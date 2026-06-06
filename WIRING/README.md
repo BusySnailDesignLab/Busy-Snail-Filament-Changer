@@ -2,6 +2,8 @@
 
 <br/>
 
+## Wiring Diagrams
+
 ![bsfc_wiring_diagrams](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_diagrams.jpg)
 
 <br/>
