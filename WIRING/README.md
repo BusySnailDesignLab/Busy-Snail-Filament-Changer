@@ -6,4 +6,4 @@
 
 ![bsfc_wiring_sample_du_switch](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_du_switch.jpg)
 
-![bsfc_wiring_sample_du_switch](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_du_switch.jpg)
+![bsfc_wiring_sample_du_led](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_du_led.jpg)
