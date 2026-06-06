@@ -42,7 +42,14 @@ As is usually the case with projects of this nature, the 3D printer itself and s
 [Ellis' Print Tuning Guide](https://ellis3dp.com) is naturally the place to go when things don't fit together.
 
 <details>
-<summary>Some slicer settings used in the design process</summary>
+<summary>Some printing parameters used in the design process</summary>
+
+# Most of the genetral parts:
+
+# Geartrain and clutch:
+
+# Roller trays and rollers:
+(_tray_main_left, _tray_main_right, _roller_front, _roller_front)
 
 
 
