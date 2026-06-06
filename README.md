@@ -45,12 +45,13 @@ As is usually the case with projects of this nature, the 3D printer itself and s
 <summary>Some printing parameters used in the design process</summary>
 
 ### Most of the parts:
-Somewhat basic settings.
 
+Somewhat basic settings.
 - 0.4mm nozzle/extrusion width
 - 0.2mm layer height
 - 0.2mm first layer height
 - 3 perimeters
+- 5 top, 4 bottom solid layers
 - 25% infill
 - 0.25mm elephant foot compensation
 - No supports
@@ -63,6 +64,7 @@ Higher perimeter count and infill density to beef up parts a little bit.
 - 0.2mm layer height
 - 0.2mm first layer height
 - 5 perimeters
+- 5 top, 4 bottom solid layers
 - 50% infill
 - 0.25mm elephant foot compensation
 - No supports
@@ -74,6 +76,10 @@ Larger 0.6mm nozzle to speed up printing in these dimensionally less critical la
 - 0.6mm nozzle/extrusion width
 - 0.3mm layer height
 - 0.3mm first layer height
+- 3 perimeters
+- 4 top, 3 bottom solid layers
+- 15% infill
+- 0.25mm elephant foot compensation
 - No supports
 
 </details>
