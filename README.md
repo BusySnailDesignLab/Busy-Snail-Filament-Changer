@@ -35,7 +35,7 @@ The Busy Snail Filament Changer is transitioning from closed testing to the wide
 The files considered as a basic setup are available in this root directory, everything else can be found in the MODs folder.
 Provided STL files are in their intended printing orientation, and bed adhesion helpers and supports are modeled in the files. Also, STEP files of assemblies are provided with and without modeled printing helpers to allow one to adjust or modify if wished.
 
-Prototyping was done using PLA and PETG filaments. There are some areas in some of the parts with some fairly thin walls where using ABS might be challenging due to its generally poorer layer adhesion, resulting in parts too delicate. (eSun ABS+ slogan: strong odor - weak layer adhesion)
+Prototyping was done using PLA and PETG filaments. There are some areas in some of the parts with some fairly thin walls where using ABS might be challenging due to its generally poorer layer adhesion, resulting in parts too delicate. (eSun ABS+ slogan: strong odor - weak layer adhesion...)
 
 As is usually the case with projects of this nature, the 3D printer itself and slicer profiles must be properly calibrated. The clearances of the printed parts have been designed and tested based on this assumption.
 
