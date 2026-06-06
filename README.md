@@ -44,13 +44,37 @@ As is usually the case with projects of this nature, the 3D printer itself and s
 <details>
 <summary>Some printing parameters used in the design process</summary>
 
-### Most of the genetral parts:
+### Most of the parts:
+
+
+- 0.4mm nozzle/extrusion width
+- 0.2mm layer height
+- 0.2mm first layer height
+- 3 perimeters
+- 25% infill
+- 0.25mm elephant foot compensation
+- No supports
 
 ### Geartrain and clutch:
+(_rewind_geartrain, _clutch_gear)
+
+
+- 0.4mm nozzle/extrusion width
+- 0.2mm layer height
+- 0.2mm first layer height
+- 5 perimeters
+- 50% infill
+- 0.25mm elephant foot compensation
+- No supports
 
 ### Roller trays and rollers:
-(_tray_main_left, _tray_main_right, _roller_front, _roller_front)
+(_tray_main_left, _tray_main_right, _roller_front, _roller_rear)
 
+
+- 0.6mm nozzle/extrusion width
+- 0.3mm layer height
+- 0.3mm first layer height
+- No supports
 
 
 </details>
