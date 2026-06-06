@@ -21,6 +21,7 @@ Drive unit internal: stepper motor <br/>
 ![bsfc_wiring_sample_du_motor](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_du_motor.jpg)
 
 Hub/buffer internal: micro switches
+![bsfc_wiring_sample_hb_switch](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_hb_switch.jpg)
 
 Control board RGB to 1st drive unit RGBIN
 
