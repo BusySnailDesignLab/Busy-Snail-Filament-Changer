@@ -10,6 +10,8 @@ Drive unit internal: filament presence switches
 Drive unit internal: LED
 ![bsfc_wiring_sample_du_led](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_du_led.jpg)
 
+## Sample Images of Prototype Wirings
+
 Drive unit internal: stepper motor
 
 Hub/buffer internal: micro switches
