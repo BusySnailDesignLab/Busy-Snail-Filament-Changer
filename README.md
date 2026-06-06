@@ -44,11 +44,11 @@ As is usually the case with projects of this nature, the 3D printer itself and s
 <details>
 <summary>Some printing parameters used in the design process</summary>
 
-# Most of the genetral parts:
+### Most of the genetral parts:
 
-# Geartrain and clutch:
+### Geartrain and clutch:
 
-# Roller trays and rollers:
+### Roller trays and rollers:
 (_tray_main_left, _tray_main_right, _roller_front, _roller_front)
 
 
