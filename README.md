@@ -15,7 +15,7 @@ Features that were targeted in the design process:
 - Large extruder gears to maximize filament traction
 - NEMA17 stepper motors for power and speed
 - Extruder and spool rewind function operated per spool unit by the same stepper motor
-- Possibility to use only 1 spool unit as a loader/unloader/assisting extruder rather than a changer
+- Option to use only one spool unit as a loader/unloader/assisting extruder rather than a changer
 - As modular system as possible where components are connected to each other by threaded rods
 - Keeping the BOM as light as possible with fairly easily accessible items
 
