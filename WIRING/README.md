@@ -17,6 +17,7 @@ Drive unit internal: LED
 ![bsfc_wiring_sample_du_led](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_du_led.jpg)
 
 Drive unit internal: stepper motor
+
 (JST PH2.0-4 connector populated after wires are routed through 3d printed part's channel)
 ![bsfc_wiring_sample_du_motor](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_du_motor.jpg)
 
