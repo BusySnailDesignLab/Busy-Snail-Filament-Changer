@@ -4,6 +4,8 @@
 
 ![bsfc_wiring_diagrams](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_diagrams.jpg)
 
+<br/>
+
 ## Sample Images of Prototype Wirings
 
 Drive unit internal: filament presence switches
