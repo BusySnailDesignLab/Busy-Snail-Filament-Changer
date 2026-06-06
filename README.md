@@ -72,7 +72,7 @@ Higher perimeter count and infill density to beef up parts a little bit.
 ### Roller trays, spool rollers and frame spacers:
 (_tray_main_left, _tray_main_right, _roller_front, _roller_rear, _spacer_scale_to_length_in_slicer)
 
-Larger 0.6mm nozzle to speed up printing in these dimensionally less critical larger parts.
+Larger 0.6mm nozzle to speed up printing of these dimensionally less critical larger parts.
 - 0.6mm nozzle/extrusion width
 - 0.3mm layer height
 - 0.3mm first layer height
