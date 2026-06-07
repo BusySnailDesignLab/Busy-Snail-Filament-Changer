@@ -25,7 +25,7 @@ Hub/buffer internal: micro switches
 
 Control board RGB to 1st drive unit RGBIN
 
-LED daisy chain between drive units 1->2, 2->3, 3->4
+LED daisy chain between drive units 1->2, 2->3, 3->4 (RGBOU -> RGBIN)
 
 Control board stepper driver to drive unit stepper motor in
 
