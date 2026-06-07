@@ -24,6 +24,7 @@ Hub/buffer internal: micro switches
 ![bsfc_wiring_sample_hb_switch](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_hb_switch.jpg)
 
 Control board RGB to 1st drive unit RGBIN
+![bsfc_wiring_sample_cb_led](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_cb_led.jpg)
 
 LED daisy chain between drive units 1->2, 2->3, 3->4 (RGBOU -> RGBIN)
 
