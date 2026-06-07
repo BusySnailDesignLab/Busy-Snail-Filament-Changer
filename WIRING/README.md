@@ -27,6 +27,7 @@ Control board RGB to 1st drive unit RGBIN
 ![bsfc_wiring_sample_cb_led](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_cb_led.jpg)
 
 LED daisy chain between drive units 1->2, 2->3, 3->4 (RGBOU -> RGBIN)
+![bsfc_wiring_sample_ga_led_daisy_chain](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_ga_led_daisy_chain.jpg)
 
 Control board stepper driver to drive unit stepper MOTOR in (Sample: 1st unit 300mm)
 ![bsfc_wiring_sample_cb_motor](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_cb_motor.jpg)
