@@ -13,7 +13,7 @@
 Some example pictures from the prototype phase showing soldered and crimped wire assemblies according to the wiring diagram above in the order they appear in the diagram.
 
 <details>
-<summary>Prototype Wiring Assemblies</summary>
+<summary>Prototype Wire Assemblies</summary>
 	
 <br/>
 
