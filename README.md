@@ -277,8 +277,8 @@ Pin mappings for Bigtreetech mmb can v1.1 control board:
 /config/AFC/mcu/MMB_1.1.cfg
 
 ```
-[board_pins Busy_Snail]
-mcu: Busy_Snail
+[board_pins Busy_Snail] #
+mcu: Your_Mcu_Name #
 aliases:
     M1_STEP=PB15   , M1_DIR=PB14   , M1_EN=PB8    , M1_UART=PA10   , # M1_DIAG=PA3   ,
     M2_STEP=PD2    , M2_DIR=PB13   , M2_EN=PD1    , M2_UART=PC7    , # M2_DIAG=PA4   ,
