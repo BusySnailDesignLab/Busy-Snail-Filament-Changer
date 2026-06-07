@@ -35,7 +35,7 @@ The Busy Snail Filament Changer is transitioning from closed testing to the wide
 The files considered as a basic setup are available in this root directory, everything else can be found in the MODs folder.
 Provided STL files are in their intended printing orientation, supports and some bed adhesion helpers are modeled in the files. Also, STEP files of assemblies are provided with and without modeled printing helpers to allow one to adjust or modify if wished.
 
-Prototyping was done using PLA and PETG filaments. There are some areas in some of the parts with some fairly thin walls where using ABS might be challenging due to its generally poorer layer adhesion, resulting in parts too delicate. (eSun ABS+ philosophy: strong odor - weak layer adhesion...)
+Prototyping was done using PLA and PETG filaments. There are some areas in some of the parts with some fairly thin walls where using ABS might be challenging due to its generally poorer layer adhesion. (eSun ABS+ philosophy: strong odor - weak layer adhesion...)
 
 As is usually the case with projects of this nature, the 3D printer itself and slicer profiles must be properly calibrated. The clearances of the printed parts have been designed and tested based on this assumption.
 
@@ -46,7 +46,7 @@ As is usually the case with projects of this nature, the 3D printer itself and s
 
 ### Most of the parts:
 
-Somewhat basic settings.
+Generic settings have been found to be sufficiently robust in the basic parts.
 - 0.4mm nozzle/extrusion width
 - 0.2mm layer height
 - 0.2mm first layer height
@@ -59,7 +59,7 @@ Somewhat basic settings.
 ### Geartrain and clutch:
 (_rewind_geartrain, _clutch_gear)
 
-Higher perimeter count and infill density to beef up parts a little bit.
+Higher perimeter count and infill density to beef up a little bit.
 - 0.4mm nozzle/extrusion width
 - 0.2mm layer height
 - 0.2mm first layer height
@@ -90,7 +90,7 @@ Larger 0.6mm nozzle to speed up printing of these dimensionally less critical la
 
 This section with illustrations currently serves as a BSFC building manual. Each subsection contains also a link to the corresponding tutorial video on YouTube.
 
-Slight differences may exist between the printed components shown in the illustrations or videos and the current STLs, as development continued during and after content creation.
+Slight differences may exist between the printed parts shown in the illustrations or videos and the current STLs, as development continued during and after content creation.
 
 
 
