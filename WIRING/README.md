@@ -28,7 +28,8 @@ Control board RGB to 1st drive unit RGBIN
 
 LED daisy chain between drive units 1->2, 2->3, 3->4 (RGBOU -> RGBIN)
 
-Control board stepper driver to drive unit stepper motor in
+Control board stepper driver to drive unit stepper motor in (Sample: 1st unit 300mm)
+![bsfc_wiring_sample_cb_motor](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_cb_motor.jpg)
 
 Control board STOPx to Hub/Buffer
 
