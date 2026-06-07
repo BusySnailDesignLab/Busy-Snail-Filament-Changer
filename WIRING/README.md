@@ -8,7 +8,7 @@
 
 <br/>
 
-## Sample Images of Prototype Wire Assemblies
+## Sample Pictures of Prototype Wire Assemblies
 
 Some example pictures from the prototype phase showing soldered and crimped wire assemblies according to the wiring diagram above in the order they appear in the diagram.
 
