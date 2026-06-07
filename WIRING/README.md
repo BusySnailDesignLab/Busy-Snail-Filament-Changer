@@ -8,12 +8,12 @@
 
 <br/>
 
-## Sample Images of Prototype Wirings
+## Sample Images of Prototype Wire Assemblies
 
-Here are some sample images of wiring used in prototyping of BSFC.
+Some example pictures from the prototype phase showing soldered and crimped wire assemblies according to the wiring diagram above in the order they appear in the diagram.
 
 <details>
-<summary>Sample Images of Prototype Wirings</summary>
+<summary>Prototype Wiring Pictures</summary>
 	
 <br/>
 
