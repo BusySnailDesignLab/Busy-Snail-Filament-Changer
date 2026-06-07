@@ -8,7 +8,13 @@
 
 <br/>
 
-## Sample Images of Prototype Wirings
+## Samples of Prototype Wirings
+
+
+<details>
+<summary>Samples of Prototype Wirings</summary>
+	
+<br/>
 
 Drive unit internal: filament presence switches
 ![bsfc_wiring_sample_du_switch](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_du_switch.jpg)
@@ -35,3 +41,6 @@ Control board stepper driver to drive unit stepper MOTOR in (Sample: 1st unit 30
 Control board STOPx to Hub/Buffer
 
 Control board STOPx to drive unit SWTCH
+
+</details>
+
