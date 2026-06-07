@@ -8,11 +8,12 @@
 
 <br/>
 
-## Samples of Prototype Wirings
+## Sample Images of Prototype Wirings
 
+Here are some sample images of wiring used in prototyping of BSFC.
 
 <details>
-<summary>Samples of Prototype Wirings</summary>
+<summary>Sample Images of Prototype Wirings</summary>
 	
 <br/>
 
