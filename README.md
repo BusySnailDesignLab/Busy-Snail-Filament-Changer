@@ -320,4 +320,4 @@ Yet somehow, in a strange way, those costs tend to add up when prototyping. If y
 
 <br/>
 
-<sup> *Busy Snail Design Lab is not affiliated with any of the available BOM kits. Any questions or inquiries regarding the kits should be directed to their respective providers.. </sup>
+<sup> *Busy Snail Design Lab is not affiliated with any of the available BOM kits. Any questions or inquiries regarding the kits should be directed to their respective providers. </sup>
