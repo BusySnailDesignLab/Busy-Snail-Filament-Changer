@@ -314,8 +314,8 @@ Yet somehow, in a strange way, those costs tend to add up when prototyping. If y
 
 <br/>
 
-## Bill of Materials Kits <sup> * </sup>
+## Bill of Materials Kits <sup>*</sup>
 
 [Mellow](https://3dmellow.com/products/) has expressed interest in offering a BSFC BOM kit. There is no date yet for when it will be available. When it is released, a link will be provided here.
 
-<sup> * Busy Snail Design Lab is not affiliated with any of the available BOM kits. Any questions or inquiries regarding the kits should be directed to their respective providers.. </sup>
+<sup> *Busy Snail Design Lab is not affiliated with any of the available BOM kits. Any questions or inquiries regarding the kits should be directed to their respective providers.. </sup>
