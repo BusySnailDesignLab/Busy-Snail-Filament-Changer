@@ -245,6 +245,9 @@ The finished device consists of components connected by threaded rods.<br/>
 
 <br/>
 
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_general_assy_expl.jpg)
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_build_general_assy.jpg)
+
 </details>
 
 [YouTube playlist](https://www.youtube.com/playlist?list=PLjJb97KCYTC9PMECO4NPdOToGcQD9c51B) of current BSFC tutorial videos.
