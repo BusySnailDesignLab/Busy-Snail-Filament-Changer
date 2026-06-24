@@ -45,7 +45,7 @@ As is usually the case with projects of this nature, the 3D printer itself and s
 [Ellis' Print Tuning Guide](https://ellis3dp.com) is naturally the place to go when things don't fit together.
 
 <details>
-<summary>Some printing parameters used in the design process</summary>
+<summary>Some printing parameters used in the design and prototyping process</summary>
 
 ### Most of the parts:
 
@@ -91,7 +91,7 @@ Larger 0.6mm nozzle to speed up printing of these dimensionally less critical la
 
 ## Technical Details and Build
 
-This section with illustrations currently serves as a BSFC building manual. Each subsection contains also a link to the corresponding tutorial video on YouTube.
+This section contains illustrations and descriptions of BSFC and its sub-components and functions to support the building process. Each subsection contains also a link to the corresponding tutorial video on YouTube.
 
 Slight differences may exist between the printed parts shown in the illustrations or videos and the current STLs, as development continued during and after content creation.
 
