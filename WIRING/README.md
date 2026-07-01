@@ -42,7 +42,8 @@ Control board stepper driver to drive unit stepper MOTOR in (Sample: 1st unit 30
 Control board STOPx to Hub/Buffer
 ![bsfc_wiring_sample_cb_hub_buffer](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_cb_hub_buffer.jpg)
 
-Control board STOPx to drive unit SWTCH
+Control board STOPx to drive unit SWTCH (Sample: Btt Mmb V2)
+![bsfc_wiring_sample_cb_switch](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_wiring_sample_cb_switch.jpg)
 
 </details>
 
