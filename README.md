@@ -298,6 +298,25 @@ aliases:
 	RGB1=PA2		, 
 ```
 
+Pin mappings for Bigtreetech mmb can v2.0 control board:
+
+/config/AFC/mcu/MMB_2.0.cfg
+
+```
+[board_pins Your_Unit_Name]
+mcu: Your_Mcu_Name
+aliases:
+    M1_STEP=PD4    , M1_DIR=PD3    , M1_EN=PD5    , M1_UART=PB5    ,
+    M2_STEP=PC9    , M2_DIR=PC8    , M2_EN=PD2    , M2_UART=PB4    ,
+    M3_STEP=PC15   , M3_DIR=PC11   , M3_EN=PC10   , M3_UART=PB3    ,
+    M4_STEP=PC13   , M4_DIR=PC12   , M4_EN=PC14   , M4_UART=PD6    ,
+
+	HUB=PA15 		, 
+	TRG1=PC5  		, TRG2=PB1  	, TRG3=PB10		, TRG4=PB12 	,
+	EXT1=PC4  		, EXT2=PB0 		, EXT3=PB2 		, EXT4=PB11		,
+    TN_ADV=PA10     , TN_TRL=PD9 ,
+	RGB1=PC3		, 
+```
 
 </details>
 
