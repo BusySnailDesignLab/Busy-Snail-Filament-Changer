@@ -1,4 +1,4 @@
-# Busy Snail Filament Changer (BSFC) Dry Box Mod by Busy Snail Design Lab (README WIP 2026-07-21)
+# Busy Snail Filament Changer (BSFC) <ins> Dry Box Mod </ins> by Busy Snail Design Lab (README WIP 2026-07-21)
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_dry_box_cut.png)
 
