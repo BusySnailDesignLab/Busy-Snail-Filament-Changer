@@ -11,6 +11,6 @@
 | Self tapping screw M2x10    | 9      |                                                                                                |                                                                        |
 | Sealing foam tape 5x3mm     | ≈0.74m | Self adhesive foam sealing tape width 5mm thickness 3mm                                        | [FOAM TAPE](https://www.aliexpress.com/item/1005009421064177.html)     |
 | Sealing foam tape 5x1mm     | ≈0.14m | Self adhesive foam sealing tape width 5mm thickness 1mm                                        | [FOAM TAPE](https://www.aliexpress.com/item/1005009421064177.html)     |
-| (Plastic sheet 1mm)         | (1)    | 1mm thick cuts with scissors                                                                   | [PLASTIC SHEET](https://www.aliexpress.com/item/1005009018470808.html) |
-| (Hygrometer)                | (1)    |                                                                                                | [HYGROMETER](https://www.aliexpress.com/item/1005008500713043.html)    |
+| (Plastic sheet 1mm)         | (1)    | Optional window, 1mm thick cuts with scissors                                                  | [PLASTIC SHEET](https://www.aliexpress.com/item/1005009018470808.html) |
+| (Hygrometer)                | (1)    | Optional hygrometer, STL supports round type                                                   | [HYGROMETER](https://www.aliexpress.com/item/1005008500713043.html)    |
 | (Clear silicone sealant)    |        |                                                                                                | [SILICONE SEALANT](https://www.aliexpress.com/item/1005011587238661.html)    |
