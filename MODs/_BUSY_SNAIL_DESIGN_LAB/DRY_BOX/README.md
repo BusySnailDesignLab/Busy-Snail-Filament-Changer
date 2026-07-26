@@ -1,4 +1,4 @@
-# Busy Snail Filament Changer (BSFC) <ins> Dry Box Mod </ins> by Busy Snail Design Lab (README WIP 2026-07-21)
+# Busy Snail Filament Changer (BSFC) <ins> Dry Box Mod </ins> by Busy Snail Design Lab (README WIP 2026-07-22)
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_dry_box_cut.png)
 
@@ -14,3 +14,11 @@
 | (Plastic sheet 1mm)         | (1)    | Optional window, 1mm thick cuts with scissors                                                  | [PLASTIC SHEET](https://www.aliexpress.com/item/1005009018470808.html) |
 | (Hygrometer)                | (1)    | Optional hygrometer, STL supports round type                                                   | [HYGROMETER](https://www.aliexpress.com/item/1005008500713043.html)    |
 | (Clear silicone sealant)    |        |                                                                                                | [SILICONE SEALANT](https://www.aliexpress.com/item/1005011587238661.html)    |
+
+
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_dry_box_1f.jpg)
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_dry_box_1b.jpg)
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_dry_box_2f.jpg)
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_dry_box_2b.jpg)
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_dry_box_3f.jpg)
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_dry_box_3b.jpg)
