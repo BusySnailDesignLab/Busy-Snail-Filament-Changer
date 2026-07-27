@@ -60,6 +60,7 @@ aliases:
 
 </details>
 
+<br/>
 
 ## Sample Pictures of Prototype Wire Assemblies
 
