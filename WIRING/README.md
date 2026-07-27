@@ -12,6 +12,8 @@
 
 <details>
 <summary>Control Board Connections</summary>
+
+Bigtreetech mmb can v1.1
 	
 ![BSFC_wiring_board_btt_mmb_can_v1.1](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/BSFC_wiring_board_btt_mmb_can_v1.1.jpg)
 
@@ -34,6 +36,12 @@ aliases:
     TN_ADV=PB10     , TN_TRL=PB2 ,
 	RGB1=PA2		, 
 ```
+
+<br/>
+<br/>
+
+
+Bigtreetech mmb can v2.0
 
 ![BSFC_wiring_board_btt_mmb_can_v2.0](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/BSFC_wiring_board_btt_mmb_can_v2.0.jpg)
 
