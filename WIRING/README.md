@@ -11,7 +11,7 @@
 ## Control Board Connections
 
 <details>
-<summary>Control Board Connections</summary>
+<summary>Control Board Connections and Corresponding Pin Mappingss for AFC-Klipper-Add-On</summary>
 
 ## Bigtreetech mmb can v1.1
 ![BSFC_wiring_board_btt_mmb_can_v1.1](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/BSFC_wiring_board_btt_mmb_can_v1.1.jpg)
