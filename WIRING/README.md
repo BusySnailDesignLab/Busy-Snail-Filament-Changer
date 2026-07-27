@@ -1,5 +1,7 @@
 # Busy Snail Filament Changer (BSFC) Wiring
 
+These wiring instructions are currently designed to support two controller boards: Bigtreetech MMB CAN V1.1 and V2. The internal wiring of the drive units and hub/buffer is universal. The LED, stepper motor, and hub/buffer intermediate wiring is the same for both boards. The wiring between the filament switches of the drive unit and the controller board is board-specific.
+
 <br/>
 
 ## Wiring Diagrams
