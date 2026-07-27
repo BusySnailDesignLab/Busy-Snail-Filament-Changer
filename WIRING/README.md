@@ -2,6 +2,8 @@
 
 These wiring instructions currently support two control boards: Bigtreetech MMB CAN V1.1 and V2. The internal wiring of the drive units and hub/buffer is universal. The LED, stepper motor, and hub/buffer intermediate wiring is the same for both boards. The wiring between the filament switches of the drive unit and the control board is board-specific.
 
+For the internal wiring of the drive unit and hub/buffer, it is recommended to use UL1332 AWG26 FEP wire (outer diameter 1.1mm) because 3D printed components have some tight spots in the wire channels. The insulation thickness and outer diameter of PVC insulated wire is usually larger, which may cause challenges.
+
 <br/>
 
 ## Wiring Diagrams
