@@ -4,7 +4,7 @@ These wiring instructions currently support two control boards: Bigtreetech MMB 
 
 For the internal wiring of the drive unit and hub/buffer, it is recommended to use UL1332 AWG26 FEP wire (outer diameter 1.1mm) because 3D printed components have some tight spots in the wire channels. The insulation thickness and outer diameter of PVC insulated wire is usually larger, which may cause challenges.
 
-For wiring between the controller board and the drive unit and hub/buffer, the thickness of the wire is not critical. For stepper motor wiring, a typical ribbon wire is a good choice to keep the bundles neater.
+For wiring between the control board and the drive unit and hub/buffer, the thickness of the wire is not critical. For stepper motor wiring, a typical ribbon wire is a good choice to keep the bundles neater.
 
 <br/>
 
