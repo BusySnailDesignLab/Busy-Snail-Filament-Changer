@@ -1,4 +1,13 @@
 # Busy Snail Filament Changer (BSFC) Drive Unit <ins> Rewind Geartrain Ball Bearing Mod </ins> by Busy Snail Design Lab
 
+## Additional BOM
+
+| Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                 |
+|:----------------------------|:------:|------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
+| Ball bearing MR63zz         | 4      |                                                                                                |                                                                        |
+| Ball bearing MR117zz        | 1      |                                                                                                | [BEARING](https://www.aliexpress.com/item/1005005989209583.html)       |
+| Ball bearing F6700zz        | 1      |                                                                                                |                                                                        |
+
+
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_gear_train_ball_bearing_1f.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_gear_train_ball_bearing_1b.jpg)
