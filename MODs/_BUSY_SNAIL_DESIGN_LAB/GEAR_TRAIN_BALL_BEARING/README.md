@@ -4,9 +4,9 @@
 
 | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                 |
 |:----------------------------|:------:|------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| Ball bearing MR63zz         | 4      |                                                                                                |                                                                        |
-| Ball bearing MR117zz        | 1      |                                                                                                | [BEARING](https://www.aliexpress.com/item/1005005989209583.html)       |
-| Ball bearing F6700zz        | 1      |                                                                                                |                                                                        |
+| Ball bearing MR63zz         | 4      | 3x6x2.5mm standard ball bearing                                                                | [BEARING](https://www.aliexpress.com/item/1005006266847105.html)       |
+| Ball bearing MR117zz        | 1      | 7x11x3mm standard ball bearing                                                                 | [BEARING](https://www.aliexpress.com/item/1005005989209583.html)       |
+| Ball bearing F6700zz        | 1      | 10x15x4mm flanged ball bearing                                                                 | [BEARING](https://www.aliexpress.com/item/1005006018219987.html)       |
 
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_gear_train_ball_bearing_1f.jpg)
