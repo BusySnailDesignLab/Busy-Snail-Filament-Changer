@@ -2,7 +2,7 @@
 
 Possibly a completely useless mod that only extends the BOM. Rotating polymer parts lubricated with silicone grease are a widely used solution in low speed, light load applications like this. Ball bearings might make this a little quieter. However, high quality ball bearings are quite expensive, some cheap ones on Ali even lack grease inside.
 
-The two drive unit blocks and two gears shown in the pictures are different from the standard ones.
+The two drive unit blocks and two gears shown in the pictures are different from the standard ones. A few drops of superglue will help hold the flanged F6700zz bearing in place.
 
 ## Additional BOM
 
