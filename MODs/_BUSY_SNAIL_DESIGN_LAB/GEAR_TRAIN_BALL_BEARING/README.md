@@ -1,4 +1,4 @@
-# Busy Snail Filament Changer (BSFC) Drive Unit <ins> Rewind Geartrain Ball Bearing Mod </ins> by Busy Snail Design Lab
+# Busy Snail Filament Changer (BSFC) Drive Unit <ins> Rewind Geartrain Ball Bearing Mod </ins> by Busy Snail Design Lab (README WIP 2026-07-28)
 
 Possibly a completely useless mod that only extends the BOM. Rotating polymer parts lubricated with silicone grease are a widely used solution in low speed, light load applications like this. Ball bearings might make this a little quieter. However, high quality ball bearings are quite expensive, some cheap ones on Ali even lack grease inside.
 
