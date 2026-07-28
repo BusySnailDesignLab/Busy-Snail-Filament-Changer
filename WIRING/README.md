@@ -1,5 +1,11 @@
 # Busy Snail Filament Changer (BSFC) Wiring
 
+These wiring instructions currently support two control boards: Bigtreetech MMB CAN V1.1 and V2. The internal wiring of the drive units and hub/buffer is universal. The LED, stepper motor, and hub/buffer intermediate wiring is the same for both boards. However, the wiring between the filament switches of the drive unit and the control board is board-specific.
+
+For the internal wiring of the drive unit and the hub/buffer, it is recommended to use UL1332 AWG26 FEP wire (with an outer diameter of 1.1 mm) because the 3D-printed components have tight spots in their wire channels. The insulation thickness and outer diameter of PVC-insulated wire are usually larger, which may cause installation challenges.
+
+There is no issue with using thicker wire for the connections between the controller board, the drive unit, and the hub/buffer. For the stepper motor wiring, a typical ribbon cable is a good choice to keep the bundles neater.
+
 <br/>
 
 ## Wiring Diagrams
@@ -11,7 +17,7 @@
 ## Control Board Connections
 
 <details>
-<summary>Control Board Connections and Corresponding Pin Mappingss for AFC-Klipper-Add-On</summary>
+<summary>Control Board Connections and Corresponding Pin Mappings for AFC-Klipper-Add-On</summary>
 
 ## Bigtreetech mmb can v1.1
 ![BSFC_wiring_board_btt_mmb_can_v1.1](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/BSFC_wiring_board_btt_mmb_can_v1.1.jpg)
