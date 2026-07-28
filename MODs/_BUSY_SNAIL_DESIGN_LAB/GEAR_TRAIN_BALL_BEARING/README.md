@@ -4,7 +4,7 @@ Possibly a completely useless mod that only extends the BOM. Rotating polymer pa
 
 The two drive unit blocks and two gears shown in the pictures are different from the standard ones. A few drops of superglue will help hold the flanged F6700zz bearing in place.
 
-## Additional BOM
+## Additional BOM for one unit
 
 | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                 |
 |:----------------------------|:------:|------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
