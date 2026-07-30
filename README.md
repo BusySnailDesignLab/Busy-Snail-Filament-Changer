@@ -22,19 +22,7 @@ Features that were targeted in the design process:
 [YouTube playlist](https://www.youtube.com/playlist?list=PLjJb97KCYTC8oeRxWj5jBiS8WIRQJnpdh) of all BSFC prototyping and testing videos.
 
 
-<p align="center"> 
-<a href="https://youtu.be/UaPgm1Jo2dc">
-<img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_3_spool_units_test_printing.jpg" width="32%">
-</a>
-&nbsp;
-<a href="https://youtu.be/CcmCndIJ5CE">
-<img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_portable_setup_prototype.jpg" width="32%">
-</a>
-&nbsp;
-<a href="https://youtu.be/iProrf8az3c">
-<img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_drive_unit_closer_look.jpg" width="32%">
-</a>
-</p>
+
 
 
 <p align="center">
