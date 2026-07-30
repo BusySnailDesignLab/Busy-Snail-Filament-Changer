@@ -23,7 +23,7 @@ Features that were targeted in the design process:
 
 
 <p align="center"> 
-<a href="https://youtu.be/UaPgm1Jo2dc" target="_blank" rel="noopener">
+<a href="https://youtu.be/UaPgm1Jo2dc" target="_blank">
 <img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_3_spool_units_test_printing.jpg" width="33%">
 </a>
 <a href="https://youtu.be/CcmCndIJ5CE">
