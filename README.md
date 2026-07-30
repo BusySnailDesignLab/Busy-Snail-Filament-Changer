@@ -23,9 +23,9 @@ Features that were targeted in the design process:
 
 
 <p align="center"> 
-<img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_portable_setup_prototype.jpg)](https://youtu.be/CcmCndIJ5CE" width="33%">
-<img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_portable_setup_prototype.jpg)](https://youtu.be/CcmCndIJ5CE" width="33%">
-<img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_portable_setup_prototype.jpg)](https://youtu.be/CcmCndIJ5CE" width="33%">
+<img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_portable_setup_prototype.jpg" width="33%">
+<img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_portable_setup_prototype.jpg" width="33%">
+<img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_portable_setup_prototype.jpg" width="33%">
 </p>
 
 
