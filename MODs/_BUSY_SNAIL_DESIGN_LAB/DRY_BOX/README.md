@@ -15,7 +15,7 @@
 | (Hygrometer)                | (1)    | Optional hygrometer, STL supports round type                                                   | [HYGROMETER](https://www.aliexpress.com/item/1005008500713043.html)    |
 | (Clear silicone sealant)    |        |                                                                                                | [SILICONE SEALANT](https://www.aliexpress.com/item/1005011587238661.html)    |
 
-[![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_dry_box_yt_thumb.jpg)](https://youtu.be/eBFVZCE4isA)
+[![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_dry_box_closer_look.jpg)](https://youtu.be/eBFVZCE4isA)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_dry_box_expl_1f.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_dry_box_expl_1b.jpg)
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_dry_box_expl_2f.jpg)
