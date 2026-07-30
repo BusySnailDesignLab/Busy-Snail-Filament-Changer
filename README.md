@@ -26,9 +26,9 @@ Features that were targeted in the design process:
 
 
 <p align="left">
-  <a href="https://youtu.be/UaPgm1Jo2dc" style="text-decoration:none;"><img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_3_spool_units_test_printing.jpg" width="31%" hspace="10"></a>
-  <a href="https://youtu.be/CcmCndIJ5CE" style="text-decoration:none;"><img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_portable_setup_prototype.jpg" width="31%" hspace="10"></a>
-  <a href="https://youtu.be/iProrf8az3c" style="text-decoration:none;"><img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_drive_unit_closer_look.jpg" width="31%" hspace="10"></a>
+  <a href="https://youtu.be/UaPgm1Jo2dc" style="text-decoration:none;"><img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_3_spool_units_test_printing.jpg" width="31%" hspace="5"></a>
+  <a href="https://youtu.be/CcmCndIJ5CE" style="text-decoration:none;"><img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_portable_setup_prototype.jpg" width="31%" hspace="5"></a>
+  <a href="https://youtu.be/iProrf8az3c" style="text-decoration:none;"><img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_drive_unit_closer_look.jpg" width="31%" hspace="5"></a>
 </p>
 
 
