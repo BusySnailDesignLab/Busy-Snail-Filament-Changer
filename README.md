@@ -23,7 +23,7 @@ Features that were targeted in the design process:
 
 
 <p align="center"> 
-<a href="[https://example.com](https://youtu.be/CcmCndIJ5CE)">
+<a href="https://youtu.be/CcmCndIJ5CE">
 <img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_portable_setup_prototype.jpg" width="33%">
 </a>
 <img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_portable_setup_prototype.jpg" width="33%">
