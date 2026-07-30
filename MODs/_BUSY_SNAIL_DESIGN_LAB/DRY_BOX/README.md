@@ -16,9 +16,9 @@
 | (Clear silicone sealant)    |        |                                                                                                | [SILICONE SEALANT](https://www.aliexpress.com/item/1005011587238661.html)    |
 
 
-![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_dry_box_1f.jpg)
-![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_dry_box_1b.jpg)
-![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_dry_box_2f.jpg)
-![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_dry_box_2b.jpg)
-![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_dry_box_3f.jpg)
-![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_build_dry_box_3b.jpg)
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_dry_box_expl_1f.jpg)
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_dry_box_expl_1b.jpg)
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_dry_box_expl_2f.jpg)
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_dry_box_expl_2b.jpg)
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_dry_box_expl_3f.jpg)
+![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_mods_dry_box_expl_3b.jpg)
