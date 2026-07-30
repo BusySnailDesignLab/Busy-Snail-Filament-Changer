@@ -19,18 +19,13 @@ Features that were targeted in the design process:
 - As modular system as possible where components are connected to each other by threaded rods
 - Keeping the BOM as light as possible with fairly easily accessible items
 
-[YouTube playlist](https://www.youtube.com/playlist?list=PLjJb97KCYTC8oeRxWj5jBiS8WIRQJnpdh) of all BSFC prototyping and testing videos.
-
-
-
-
-
 <p align="left">
-  <a href="https://youtu.be/UaPgm1Jo2dc" style="text-decoration:none;"><img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_3_spool_units_test_printing.jpg" width="32%" hspace="5"></a>
-  <a href="https://youtu.be/CcmCndIJ5CE" style="text-decoration:none;"><img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_portable_setup_prototype.jpg" width="32%" hspace="5"></a>
-  <a href="https://youtu.be/iProrf8az3c" style="text-decoration:none;"><img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_drive_unit_closer_look.jpg" width="32%" hspace="5"></a>
+  <a href="https://youtu.be/UaPgm1Jo2dc" style="text-decoration:none;"><img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_3_spool_units_test_printing.jpg" width="30%" hspace="5"></a>
+  <a href="https://youtu.be/CcmCndIJ5CE" style="text-decoration:none;"><img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_portable_setup_prototype.jpg" width="30%" hspace="5"></a>
+  <a href="https://youtu.be/iProrf8az3c" style="text-decoration:none;"><img src="https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_yt_thumb_drive_unit_closer_look.jpg" width="30%" hspace="5"></a>
 </p>
 
+[YouTube playlist](https://www.youtube.com/playlist?list=PLjJb97KCYTC8oeRxWj5jBiS8WIRQJnpdh) of all BSFC prototyping and testing videos.
 
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_anim_explode_1.gif)
