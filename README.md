@@ -104,7 +104,7 @@ Slight differences may exist between the printed parts shown in the illustration
 
 
 <details>
-<summary>Rewind clutch</summary>
+<summary>$\color{blue}{\text{Rewind clutch}}$</summary>
 
 <br/>
 
