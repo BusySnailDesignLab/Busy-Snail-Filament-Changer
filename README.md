@@ -1,11 +1,11 @@
-# Busy Snail Filament Changer <sup>*</sup> (BSFC)
+# Busy Snail Filament Changer<sub>*</sub> (BSFC)
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_anim_spool_unit_cut.gif)
 
 
 
 
-## One More Filament Changer Design?
+## One More Filament<sub>*</sub> Changer Design?
 
 The main starting point for the project was originally my tall Voron printer (400x400x800mm) and its almost 3000mm filament path. Moving three meters of filament in a PTFE tube with a few bends causes quite a bit of friction and challenges. I also wanted the option to use 5kg filament spools. Couldn't find an existing solution that was exactly what I had in mind, and down the rabbit hole I went.
 
@@ -349,4 +349,4 @@ Yet somehow, in a strange way, those costs tend to add up when prototyping. If y
 
 <br/>
 
-<sup> *Busy Snail Design Lab is not affiliated with any of the available BOM kits. Any questions or inquiries regarding the kits should be directed to their respective providers. </sup>
+<sub> *Busy Snail Design Lab is not affiliated with any of the available BOM kits. Any questions or inquiries regarding the kits should be directed to their respective providers. </sub>
