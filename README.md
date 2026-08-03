@@ -31,8 +31,9 @@ Features that were targeted in the design process:
 
 <br/>
 
-<sub> *Different manufacturers have been wrapping the same function in their own distinct corporate marketing. Prusa kicked off the trend with the MMU (Multi Material Unit), which was followed by Bambu Lab’s AMS (Automatic Material System) and Creality’s CFS (Creality Filament System). Meanwhile, Bigtreetech launched the ViViD (Multi-color Filament Management System), Elegoo went in an abstract direction with the Canvas, and Qidi Tech opted for the Qidi Box. And the list goes on.<br/> Busy Snail Filament Changer  — it just changes filament, and nothing more. </sub>
+<sub> *Different manufacturers have been creative and wrapping the same function in their own distinct corporate marketing. Prusa kicked off the trend with the MMU (Multi Material Unit), which was followed by Bambu Lab’s AMS (Automatic Material System) and Creality’s CFS (Creality Filament System). Meanwhile, Bigtreetech launched the ViViD (Multi-color Filament Management System), Elegoo went in an abstract direction with the Canvas, and Qidi Tech opted for the Qidi Box. And the list goes on.<br/> Busy Snail Filament Changer  — it just changes filament, and nothing more. </sub>
 
+<br/>
 
 ![IMG](https://github.com/BusySnailDesignLab/Busy-Snail-Filament-Changer/blob/main/IMG/bsfc_anim_explode_1.gif)
 
