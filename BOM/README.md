@@ -134,9 +134,9 @@ For a 4x1kg spool units changer totals by item groups see [PDF](https://github.c
 
 | Image # | Item                        | Qty    | Info                                                                                           | Used in prototype 2025                                                 |
 |:-------:|-----------------------------|:------:|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| FR01    | Threaded rod M12            | 2      | M12x1.75 DIN975, length depends on the changer and printer setups.                             |                                                                        |
-| FR02    | Washer M12                  | 4      | M12x24x2.5 DIN125                                                                              |                                                                        |
-| FR03    | Nut M12                     | 4      | M12x1.75 DIN934                                                                                |                                                                        |
+| FR01    | Threaded rod M12            | 2      | M12x1.75 DIN975, length depends on the changer and printer setups. (or 1/2"-13 UNC)            |                                                                        |
+| FR02    | Washer M12                  | 4      | M12x24x2.5 DIN125 (or 1/2"-13 UNC)                                                             |                                                                        |
+| FR03    | Nut M12                     | 4      | M12x1.75 DIN934 (or 1/2"-13 UNC)                                                               |                                                                        |
 | FR04    | PTFE tube OD6mm ID4mm       | ≈2.2m  | From drive units to hub, recommended to get continuous min. 3 meter lot for the project        | [PTFE TUBES](https://www.aliexpress.com/item/1005008385732729.html) OR [PTFE TUBES](https://www.aliexpress.com/item/1005001408141263.html) |
 
 <br/>
@@ -149,7 +149,7 @@ For a 4x1kg spool units changer totals by item groups see [PDF](https://github.c
 
 Why M12 threaded rods?<br/>
 The prototype was designed for a 600 mm wide printer, where the stiffness provided by M12 rods was found to be optimal.
-For those using imperial measurements, alternative STLs are provided for the closest equivalent, 3/4-13 UNC. If you want to use smaller diameter rods, modify the STEP files or print reduction bushings.
+For those using imperial measurements, alternative STLs are provided for the closest equivalent, 1/2"-13 UNC. If you want to use smaller diameter rods, modify the STEP files or print reduction bushings.
 <br/>
 <br/>
 
